@@ -2,7 +2,8 @@ backend:
   name: github
   repo: bzmillerboy/tsc # Path to your Github repository
   branch: master # Branch to update (master by default)
-  site_domain: https://tsc.netlify.com/
+  site_domain: tsc.netlify.com
+  base_url: https://api.netlify.com
 
 media_folder: "images/uploads" # Folder where user uploaded files should go
 
