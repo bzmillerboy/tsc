@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/bzmillerboy/tsc # Path to your Github repository
+  repo: bzmillerboy/tsc # Path to your Github repository
   branch: master # Branch to update (master by default)
   site_domain: https://tsc.netlify.com/
 
