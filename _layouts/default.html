@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+
+<head>
+   {% include head.html %}
+</head>
+
+<body class="stretched">
+
+  <!-- Document Wrapper
+	============================================= -->
+  <div id="wrapper" class="clearfix">
+
+    <!-- Header
+		============================================= -->
+    {% include header.html %}
+    <!-- #header end -->
+
+    <!-- Content
+    ============================================= -->
+    {{ content }}
+    <!-- #content end -->
+
+    <!-- Footer
+		============================================= -->
+    {% include footer.html %}
+    <!-- #footer end -->
+
+  </div>
+  <!-- #wrapper end -->
+
+  <!-- Go To Top
+	============================================= -->
+  <div id="gotoTop" class="icon-angle-up"></div>
+
+  <!-- External JavaScripts
+	============================================= -->
+  <script src="js/jquery.js"></script>
+  <script src="js/plugins.js"></script>
+
+  <!-- Footer Scripts
+	============================================= -->
+  <script src="js/functions.js"></script>
+
+</body>
+
+</html>
