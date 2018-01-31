@@ -1,0 +1,35 @@
+<div class="container clearfix blog-post-preview">
+
+  <div class="heading-block mt-5 center">
+      <span class="before-heading color">Read our blog</span>
+      <h1>LATEST NEWS & EVENTS</h1>
+  </div>
+
+  {% for post in site.posts limit:3 %}
+    <div class="col_one_third">
+      <div class="ipost clearfix">
+        <div class="entry-image image-thumb image_fade">
+          <a href="{{ BASE_PATH }}{{ post.url }}">
+            <figure class="fixed-ratio img-responsive" style="background-image:url('{{ site.baseurl }}/images/post/{{ post.image }}')">
+            </figure>
+          </a>
+        </div>
+        <div class="entry-title">
+          <h3>
+            <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+          </h3>
+        </div>
+        <ul class="entry-meta clearfix">
+          <li>
+            <i class="icon-calendar3"></i> {{ post.date | date_to_string }}</li>
+        </ul>
+        <div class="entry-content">
+          <p>{{ post.excerpt | strip_html | truncate:255 }}</p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+  <div class="clear"></div>
+
+</div>

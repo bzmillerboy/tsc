@@ -1,10 +1,18 @@
 
 //-------------------- Base Colors --------------------//
 
-$theme-color:                   #1ABC9C;
+$theme-color:                   #F15D22;
 $body-color:                    #555;
 $heading-color:                 #444;
 
+$brand-orange:              #F15D22;
+$brand-black:               #080808;
+$brand-gray:                #4A4A4A;
+$brand-primary:             $brand-orange; //#0275d8 !default;
+$brand-success:             #5cb85c !default;
+$brand-info:                #5bc0de !default;
+$brand-warning:             #f0ad4e !default;
+$brand-danger:              #d9534f !default;
 
 
 //-------------------- Line Height Variables --------------------//
@@ -31,7 +39,7 @@ $secondary-font:                'Crete Round', serif;
 //-------------------- Font Sizes --------------------//
 
 $font-size-base:                14px;
-$font-size-h1:                  36px;
+$font-size-h1:                  62px;
 $font-size-h2:                  30px;
 $font-size-h3:                  24px;
 $font-size-h4:                  18px;
