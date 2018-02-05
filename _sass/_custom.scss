@@ -53,3 +53,29 @@ div.image-thumb {
     margin: 5rem 3rem;
   }
 }
+
+.dark .feature-box.fbox-bg.fbox-center {
+  background-color: #0808086b;
+}
+.dark .feature-box.fbox-bg.fbox-center.fbox-plain .fbox-icon {
+  background-color: transparent !important;
+}
+
+.instagram-widget {
+  overflow: hidden;
+  padding-bottom: 16.5%;
+  height: 0;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+footer .accretion-logo svg {
+  width: 104px;
+  height: auto;
+}
+
+.instagram-grad {
+  border: none !important;
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+}

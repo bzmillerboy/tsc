@@ -12,14 +12,11 @@
 
               <div class="widget clearfix">
 
-                <img src="images/logo-dark.png" alt="" class="footer-logo">
+                <div class="icon accretion-logo bottommargin-sm">
+                  {% include icon-accretion-logo.svg.html %}
+                </div>
 
-                <!-- <p>We believe in
-                  <strong>Simple</strong>,
-                  <strong>Creative</strong> &amp;
-                  <strong>Flexible</strong> Design Standards.</p> -->
-
-                <div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
+                <div>
                   <address>
                     <strong>Location:</strong>
                     <br> 7513 Sussex Dr.
@@ -46,22 +43,25 @@
 
                 <ul>
                   <li>
-                    <a href="http://codex.wordpress.org/">Contact Us</a>
+                    <a href="/contact">Contact Us</a>
                   </li>
                   <li>
-                    <a href="http://wordpress.org/support/forum/requests-and-feedback">Refer a Friend</a>
+                    <a href="/refer-a-friend">Refer a Friend</a>
                   </li>
                   <li>
-                    <a href="http://wordpress.org/extend/plugins/">Tour our Facility</a>
+                    <a href="/tour">Tour our Facility</a>
                   </li>
                   <li>
-                    <a href="http://wordpress.org/support/">Store</a>
+                    <a href="https://teespring.com/stores/triumph-sc">Store</a>
                   </li>
                   <li>
-                    <a href="http://wordpress.org/extend/themes/">FAQ</a>
+                    <a href="/faq">FAQ</a>
                   </li>
                   <li>
-                    <a href="http://wordpress.org/news/">Membership Cancellation</a>
+                    <a href="/cancel">Membership Cancellation</a>
+                  </li>
+                  <li>
+                    <a href="/hold-request">Membership Hold Request</a>
                   </li>
                 </ul>
 
@@ -77,17 +77,13 @@
               <h5>
                 <strong>Subscribe</strong> to Our Newsletter to get Important News, Amazing Offers &amp; Inside Scoops:</h5>
               <div class="widget-subscribe-form-result"></div>
-              <form id="widget-subscribe-form" action="include/subscribe.php" role="form" method="post" class="nobottommargin">
+
+              <form netlify name="newsletter-signup" id="widget-subscribe-form" role="form" class="nobottommargin" action="/newsletter-signup-sucess">
                 <div class="input-group divcenter">
-                  <div class="input-group-prepend">
-                    <div class="input-group-text">
-                      <i class="icon-email2"></i>
-                    </div>
-                  </div>
-                  <input type="email" id="widget-subscribe-form-email" name="widget-subscribe-form-email" class="form-control required email"
+                  <input type="email" id="widget-subscribe-form-email" name="newsletter-email" class="form-control required email"
                     placeholder="Enter your Email">
                   <div class="input-group-append">
-                    <button class="btn btn-success" type="submit">Subscribe</button>
+                    <button class="btn btn-primary" type="submit">Subscribe</button>
                   </div>
                 </div>
               </form>
@@ -98,25 +94,47 @@
               <div class="row">
 
                 <div class="col-lg-6 clearfix bottommargin-sm">
-                  <a href="#" class="social-icon si-dark si-colored si-facebook nobottommargin" style="margin-right: 10px;">
+                  <a href="//www.facebook.com/TriumphStrength" class="social-icon si-dark si-colored si-facebook nobottommargin" style="margin-right: 10px;">
                     <i class="icon-facebook"></i>
                     <i class="icon-facebook"></i>
                   </a>
-                  <a href="#">
+                  <a href="//www.facebook.com/TriumphStrength">
                     <small style="display: block; margin-top: 3px;">
                       <strong>Like us</strong>
                       <br>on Facebook</small>
                   </a>
                 </div>
                 <div class="col-lg-6 clearfix">
-                  <a href="#" class="social-icon si-dark si-colored si-rss nobottommargin" style="margin-right: 10px;">
-                    <i class="icon-rss"></i>
-                    <i class="icon-rss"></i>
+                  <a href="//www.instagram.com/triumphstrength/" class="social-icon instagram-grad nobottommargin" style="margin-right: 10px;">
+                    <i class="icon-instagram"></i>
+                    <i class="icon-instagram"></i>
                   </a>
-                  <a href="#">
+                  <a href="//www.instagram.com/triumphstrength/">
+                    <small style="display: block; margin-top: 3px;">
+                      <strong>Follow</strong>
+                      <br>us on Instagram</small>
+                  </a>
+                </div>
+                <div class="col-lg-6 clearfix bottommargin-sm">
+                  <a href="//www.youtube.com/channel/UCXaGidt4Bhfrb3vH_3B1TSQ" class="social-icon si-dark si-colored si-youtube nobottommargin" style="margin-right: 10px;">
+                    <i class="icon-youtube"></i>
+                    <i class="icon-youtube"></i>
+                  </a>
+                  <a href="//www.youtube.com/channel/UCXaGidt4Bhfrb3vH_3B1TSQ">
                     <small style="display: block; margin-top: 3px;">
                       <strong>Subscribe</strong>
-                      <br>to RSS Feeds</small>
+                      <br>on YouTube</small>
+                  </a>
+                </div>
+                <div class="col-lg-6 clearfix">
+                  <a href="//www.yelp.com/biz/triumph-strength-and-conditioning-florence" class="social-icon si-dark si-colored si-yelp nobottommargin" style="margin-right: 10px;">
+                    <i class="icon-yelp"></i>
+                    <i class="icon-yelp"></i>
+                  </a>
+                  <a href="//www.yelp.com/biz/triumph-strength-and-conditioning-florence">
+                    <small style="display: block; margin-top: 3px;">
+                      <strong>Review</strong>
+                      <br>us on Yelp</small>
                   </a>
                 </div>
 
@@ -137,8 +155,8 @@
 
         <div class="container clearfix">
 
-          <div class="col_half">
-            Copyrights &copy; 2018 All Rights Reserved by Triumph Strength and Conditioning.
+          <div class="">
+            Copyrights &copy; {{ "now" | date: "%Y" }} All Rights Reserved by Triumph Strength and Conditioning | CrossFit Accretion.
             <br>
             <div class="copyright-links">
               <a href="#">Terms of Use</a> /
@@ -146,7 +164,7 @@
             </div>
           </div>
 
-          <div class="col_half col_last tright">
+          <!-- <div class="col_half col_last tright">
             <div class="fright clearfix">
               <a href="#" class="social-icon si-small si-borderless si-facebook">
                 <i class="icon-facebook"></i>
@@ -188,8 +206,7 @@
                 <i class="icon-linkedin"></i>
               </a>
             </div>
-            
-          </div>
+          </div> -->
 
         </div>
 

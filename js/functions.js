@@ -2067,7 +2067,7 @@ var SEMICOLON = SEMICOLON || {};
 			SEMICOLON.widget.progress();
 			SEMICOLON.widget.twitterFeed();
 			SEMICOLON.widget.flickrFeed();
-			SEMICOLON.widget.instagramPhotos( '20524966.1677ed0.bf5dbdbfdd884927a421ffe2b639b1da', '5125dda742b5492488c790c2a440ace3' );
+			SEMICOLON.widget.instagramPhotos('741157.659eacc.43dfc5e0aac7450cb58a1e726c9267f0', '659eaccdcabe48529568891bd6bd6592' );
 			SEMICOLON.widget.dribbbleShots( '012d3d72d12f93e1d41a19195d7da2fc87e6b5afa48a184256e398eb793cfe56' );
 			SEMICOLON.widget.navTree();
 			SEMICOLON.widget.textRotater();
@@ -3672,3 +3672,35 @@ var SEMICOLON = SEMICOLON || {};
 	$window.on( 'resize', SEMICOLON.documentOnResize.init );
 
 })(jQuery);
+
+
+/* Light YouTube Embeds by @labnol */
+/* Web: http://labnol.org/?p=27941 */
+
+document.addEventListener("DOMContentLoaded",
+	function () {
+		var div, n,
+			v = document.getElementsByClassName("youtube-player");
+		for (n = 0; n < v.length; n++) {
+			div = document.createElement("div");
+			div.setAttribute("data-id", v[n].dataset.id);
+			div.innerHTML = labnolThumb(v[n].dataset.id);
+			div.onclick = labnolIframe;
+			v[n].appendChild(div);
+		}
+	});
+
+function labnolThumb(id) {
+	var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
+		play = '<div class="play"></div>';
+	return thumb.replace("ID", id) + play;
+}
+
+function labnolIframe() {
+	var iframe = document.createElement("iframe");
+	var embed = "https://www.youtube.com/embed/ID?autoplay=1";
+	iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
+	iframe.setAttribute("frameborder", "0");
+	iframe.setAttribute("allowfullscreen", "1");
+	this.parentNode.replaceChild(iframe, this);
+}
