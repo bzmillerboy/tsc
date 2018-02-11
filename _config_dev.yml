@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Triumph Strength & Conditioning | Florence CrossFit
+title: Dev Triumph Strength & Conditioning | Florence CrossFit
 email: info@triumphstrenght.net
 description: >- # this means to ignore newlines until "baseurl:"
   Get Your FREE Session Now at Triumph Strength and Conditioning, in Florence’s premier CrossFit gym.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.triumphstrength.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://localhost:5678 # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -30,13 +30,13 @@ plugins:
 sass:
   sass_dir: _sass
 
+# Server Config options
+livereload: true
+reload_port: 5678
+
 collections:
   pages:
     output: true
-
-# Server Config options
-# livereload: true
-# reload_port: 4300
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

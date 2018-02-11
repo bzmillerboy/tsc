@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lose more, Learn more!
-categories: test
+categories:
 image: lose-more-learn-more.jpg
 date: 2018-01-30
 ---

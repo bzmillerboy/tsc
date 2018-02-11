@@ -2067,7 +2067,7 @@ var SEMICOLON = SEMICOLON || {};
 			SEMICOLON.widget.progress();
 			SEMICOLON.widget.twitterFeed();
 			SEMICOLON.widget.flickrFeed();
-			SEMICOLON.widget.instagramPhotos('741157.659eacc.43dfc5e0aac7450cb58a1e726c9267f0', '659eaccdcabe48529568891bd6bd6592' );
+			SEMICOLON.widget.instagramPhotos('565984005.abb3dec.8b361256f50d4313b4bbf03461599fb4', 'abb3dec127454f9890f05e525d3be777' );
 			SEMICOLON.widget.dribbbleShots( '012d3d72d12f93e1d41a19195d7da2fc87e6b5afa48a184256e398eb793cfe56' );
 			SEMICOLON.widget.navTree();
 			SEMICOLON.widget.textRotater();
