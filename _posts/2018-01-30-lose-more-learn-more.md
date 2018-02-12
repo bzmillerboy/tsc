@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Lose more, Learn more!
+author: Mark McCain
 categories:
 image: lose-more-learn-more.jpg
 date: 2018-01-30
+tags: competition loosing crossfit young try
 ---
 
 From a very young age I was determined to be the best at everything I did.  Whether it was baseball, basketball, math races at the board in elementary, spelling, or races in gym class. I HATED losing!  My love of winning peaked in high school when our football team went 10-0.  The town rolled out the red carpet for us and gave us a parade on fire trucks. Only to pull that carpet out from under us next week when we got blown out in our playoff game.  It was the dose of humility we all needed, but we were still tpo young and infatuated with ourselves to comprehend.  We didn’t have time to let the loss soak in because basketball practice started next week.  I would like to think my story is not unique.  I also grew up in a very small town before Facebook and Twitter were on everyone’s home screen.  It feels that the self obsession and “I must win mentality” is only getting worse. But I think we can do something about it!  It might sound silly but we have to learn to lose.
