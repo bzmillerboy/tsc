@@ -17,8 +17,9 @@ title: Dev Triumph Strength & Conditioning | Florence CrossFit
 email: info@triumphstrenght.net
 description: >- # this means to ignore newlines until "baseurl:"
   Get Your FREE Session Now at Triumph Strength and Conditioning, in Florence’s premier CrossFit gym.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "http://localhost:4000/" # the subpath of your site, e.g. /blog
 url: http://localhost:5678 # the base hostname & protocol for your site, e.g. http://example.com
+image: images/about-bg.jpg
 
 # Build settings
 markdown: kramdown
@@ -56,3 +57,5 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+    - package.json
+    - README.md
