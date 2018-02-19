@@ -85,13 +85,15 @@
 - sys:
     id: 5SWOIw0zsWAIwww2aiq4aY
     created_at: !ruby/object:DateTime 2018-02-18 18:13:20.737000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:35:58.189000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 04:08:49.362000000 Z
     content_type_id: 2wKn6yEnZewu2SCCkus4as
   title: '15 Minute Trainer: Squats, Push Up, Burpees, Sit Ups  '
-  body: |-
+  body: |
     Welcome to this week’s 15 Minute Trainer. Coach Chris takes you through an EMOM of air squats, push ups, burpees and sit ups.
 
     <a href="https://www.youtube.com/watch?v=8KrlQjI5KRM" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=8KrlQjI5KRM</a>
+
+    New line.
   featured_image:
     sys:
       id: 4wK4Mz9CbS6e80gwUM4WIq

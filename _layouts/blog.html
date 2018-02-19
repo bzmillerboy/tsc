@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+
+<head>
+  {% include head.html %}
+</head>
+
+<body class="stretched">
+
+  <!-- Document Wrapper
+	============================================= -->
+  <div id="wrapper" class="clearfix">
+
+    <!-- Header
+		============================================= -->
+    {% include header.html class-dark="light" %}
+    <!-- #header end -->
+
+    <!-- Page Title
+    		============================================= -->
+    <section id="page-title">
+    
+      <div class="container clearfix">
+        <h1>Blog</h1>
+        <span>Our Latest News and Happenings</span>
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+            <a href="/">Home</a>
+          </li>
+          <li class="breadcrumb-item">
+            <a href="/blog">Blog</a>
+          </li>
+          <li class="breadcrumb-item active" aria-current="page">Blog</li>
+        </ol>
+      </div>
+    
+    </section><!-- #page-title end -->
+
+    <!-- Content
+    		============================================= -->
+    <section id="content">
+    
+      <div class="content-wrap">
+    
+        <div class="container clearfix">
+    
+          <!-- Post Content
+    					============================================= -->
+          <div class="postcontent postcontentcentered nobottommargin clearfix">
+    
+            <!-- Posts
+    						============================================= -->
+            <div id="posts" class="post-timeline clearfix">
+    
+              <div class="timeline-border"></div>
+    
+              {% for post in site.data.tsc.2wKn6yEnZewu2SCCkus4as %}
+              <div class="entry clearfix">
+                <div class="entry-timeline">
+                  {{ post.date | date_to_string | date: "%d" }}
+                  <span>{{ post.date | date_to_string | date: "%b" }}</span>
+                  <div class="timeline-divider"></div>
+                </div>
+                <div class="entry-image">
+                  <img class="image_fade" src="{{ post.featured_image.url }}" alt="{{ post.featured_image.title }}">
+                </div>
+                <div class="entry-title">
+                  <h2>
+                    <a href="/post/{{ post.slug }}">{{ post.title }}</a>
+                  </h2>
+                </div>
+                <ul class="entry-meta clearfix">
+                  {% if post.author.name %}
+                  <li>
+                    <i class="icon-user"></i>
+                    <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                      <span class="p-author h-card" itemprop="name">{{ post.author.name }}</span>
+                    </span>
+                  </li>
+                  {% endif %}
+                </ul>
+                <div class="entry-content">
+                  <p>{{ post.body | markdownify | strip_html | truncate:355 }}</p>
+                  <a href="/post/{{ post.slug }}" class="more-link">Read More</a>
+                </div>
+              </div>
+              {% endfor %}
+
+    
+            </div>
+            <!-- #posts end -->
+    
+          </div>
+          <!-- .postcontent end -->
+    
+        </div>
+    
+      </div>
+    
+    </section>
+    <!-- #content end -->
+
+    <!-- Footer
+		============================================= -->
+    {% include footer.html %}
+    <!-- #footer end -->
+
+  </div>
+  <!-- #wrapper end -->
+
+  <!-- Go To Top
+	============================================= -->
+  <div id="gotoTop" class="icon-angle-up"></div>
+
+  <!-- External JavaScripts
+	============================================= -->
+  <script src="/js/jquery.js"></script>
+  <script src="/js/plugins.js"></script>
+
+  <!-- Footer Scripts
+	============================================= -->
+  <script src="/js/functions.js"></script>
+
+</body>
+</html>
