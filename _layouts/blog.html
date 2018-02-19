@@ -21,8 +21,8 @@
     <section id="page-title">
     
       <div class="container clearfix">
-        <h1>Blog</h1>
-        <span>Our Latest News and Happenings</span>
+        <h1>{{ page.title }}</h1>
+        <span>{{ page.subtitle }}</span>
         <ol class="breadcrumb">
           <li class="breadcrumb-item">
             <a href="/">Home</a>
@@ -30,7 +30,7 @@
           <li class="breadcrumb-item">
             <a href="/blog">Blog</a>
           </li>
-          <li class="breadcrumb-item active" aria-current="page">Blog</li>
+          <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
         </ol>
       </div>
     
@@ -55,37 +55,77 @@
               <div class="timeline-border"></div>
     
               {% for post in site.data.tsc.2wKn6yEnZewu2SCCkus4as %}
-              <div class="entry clearfix">
-                <div class="entry-timeline">
-                  {{ post.date | date_to_string | date: "%d" }}
-                  <span>{{ post.date | date_to_string | date: "%b" }}</span>
-                  <div class="timeline-divider"></div>
+                {% if post.category.slug == page.category %}
+                <div class="entry clearfix">
+                  <div class="entry-timeline">
+                    {{ post.date | date_to_string | date: "%d" }}
+                    <span>{{ post.date | date_to_string | date: "%b" }}</span>
+                    <div class="timeline-divider"></div>
+                  </div>
+                  <div class="entry-image">
+                    <a href="/blog/{{ post.slug }}">
+                      <img class="image_fade" src="{{ post.featured_image.url }}" alt="{{ post.featured_image.title }}">
+                    </a>
+                  </div>
+                  <div class="entry-title">
+                    <h2>
+                      <a href="/blog/{{ post.slug }}">{{ post.title }}</a>
+                    </h2>
+                  </div>
+                  <ul class="entry-meta clearfix">
+                    {% if post.author.name %}
+                    <li>
+                      <i class="icon-user"></i>
+                      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <span class="p-author h-card" itemprop="name">{{ post.author.name }}</span>
+                      </span>
+                    </li>
+                    {% endif %}
+                  </ul>
+                  <div class="entry-content">
+                    <p>{{ post.body | markdownify | strip_html | truncate:355 }}</p>
+                    <a href="/blog/{{ post.slug }}" class="more-link">Read More</a>
+                  </div>
                 </div>
-                <div class="entry-image">
-                  <img class="image_fade" src="{{ post.featured_image.url }}" alt="{{ post.featured_image.title }}">
-                </div>
-                <div class="entry-title">
-                  <h2>
-                    <a href="/post/{{ post.slug }}">{{ post.title }}</a>
-                  </h2>
-                </div>
-                <ul class="entry-meta clearfix">
-                  {% if post.author.name %}
-                  <li>
-                    <i class="icon-user"></i>
-                    <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                      <span class="p-author h-card" itemprop="name">{{ post.author.name }}</span>
-                    </span>
-                  </li>
-                  {% endif %}
-                </ul>
-                <div class="entry-content">
-                  <p>{{ post.body | markdownify | strip_html | truncate:355 }}</p>
-                  <a href="/post/{{ post.slug }}" class="more-link">Read More</a>
-                </div>
-              </div>
+                {% endif %}
               {% endfor %}
 
+
+              {% if page.category == 'all' %}
+                {% for post in site.data.tsc.2wKn6yEnZewu2SCCkus4as %}
+                <div class="entry clearfix">
+                  <div class="entry-timeline">
+                    {{ post.date | date_to_string | date: "%d" }}
+                    <span>{{ post.date | date_to_string | date: "%b" }}</span>
+                    <div class="timeline-divider"></div>
+                  </div>
+                  <div class="entry-image">
+                    <a href="/blog/{{ post.slug }}">
+                      <img class="image_fade" src="{{ post.featured_image.url }}" alt="{{ post.featured_image.title }}">
+                    </a>
+                  </div>
+                  <div class="entry-title">
+                    <h2>
+                      <a href="/blog/{{ post.slug }}">{{ post.title }}</a>
+                    </h2>
+                  </div>
+                  <ul class="entry-meta clearfix">
+                    {% if post.author.name %}
+                    <li>
+                      <i class="icon-user"></i>
+                      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <span class="p-author h-card" itemprop="name">{{ post.author.name }}</span>
+                      </span>
+                    </li>
+                    {% endif %}
+                  </ul>
+                  <div class="entry-content">
+                    <p>{{ post.body | markdownify | strip_html | truncate:355 }}</p>
+                    <a href="/blog/{{ post.slug }}" class="more-link">Read More</a>
+                  </div>
+                </div>
+                {% endfor %}
+              {% endif %}
     
             </div>
             <!-- #posts end -->
