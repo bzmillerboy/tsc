@@ -70,14 +70,12 @@
                       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %} {{ page.date | date: date_format }}
                     </time>
                   </li>
-                  {% if page.author %}
+                  {% if page.author.name %}
                     <li>
-                      <a href="#">
-                        <i class="icon-user"></i>
-                        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                          <span class="p-author h-card" itemprop="name">{{ page.author }}</span>
-                        </span>
-                      </a>
+                      <i class="icon-user"></i>
+                      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <span class="p-author h-card" itemprop="name">{{ page.author.name }}</span>
+                      </span>
                     </li>
                   {% endif %}
                 </ul>
@@ -87,7 +85,7 @@
     								============================================= -->
                 <div class="entry-image">
                   <a href="#">
-                    <img src="{{ site.baseurl }}/images/post/{{ page.image }}" alt="{{ page.title }}">
+                    <img src="{{ page.featured_image.url }}" alt="{{ page.featured_image.title }}">
                   </a>
                 </div>
                 <!-- .entry-image end -->
@@ -95,7 +93,8 @@
                 <!-- Entry Content
     								============================================= -->
                 <div class="entry-content notopmargin" itemprop="articleBody">
-                  {{ content }}
+
+                  {{ page.body | markdownify }}
                   <!-- Post Single - Content End -->
     
                   <!-- Tag Cloud
@@ -474,6 +473,18 @@
   <!-- Footer Scripts
 	============================================= -->
   <script src="/js/functions.js"></script>
+  <script>
+    (function (w, d) {
+      var id = 'embedly-platform', n = 'script';
+      if (!d.getElementById(id)) {
+        w.embedly = w.embedly || function () { (w.embedly.q = w.embedly.q || []).push(arguments); };
+        var e = d.createElement(n); e.id = id; e.async = 1;
+        e.src = ('https:' === document.location.protocol ? 'https' : 'http') + '://cdn.embedly.com/widgets/platform.js';
+        var s = d.getElementsByTagName(n)[0];
+        s.parentNode.insertBefore(e, s);
+      }
+    })(window, document);
+  </script>
 
 </body>
 

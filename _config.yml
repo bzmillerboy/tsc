@@ -27,6 +27,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-livereload
+  - jekyll-contentful-data-import
 
 sass:
   sass_dir: _sass
@@ -42,6 +43,32 @@ collections:
         layout: page
         permalink: {{ page.title }}
 
+contentful:
+  spaces:
+    - tsc: # Jekyll _data folder identifier - Required
+        space: ctmmyckif2fs                   # Required
+        access_token: 865b99cd1e453c2f5d4cfeccec6777141941c6e0ea7620586b12b58d56ea52fc  # Required
+        # cda_query:                  # Optional
+        #   include: 2
+        #   limit: 100
+        # all_entries: true           # Optional - Defaults to false, only grabbing the amount set on CDA Query
+        # all_entries_page_size: 1000 # Optional - Defaults to 1000, maximum amount of entries per CDA Request for all_entries
+        # content_types:              # Optional
+        #   cat: MyCoolMapper
+        # client_options:             # Optional
+        #   api_url: 'preview.contentful.com' # Defaults to 'api.contentful.com' which is Production
+        #   max_include_resolution_depth: 5 # Optional - Defaults to 20, maximum amount of levels to resolve includes
+        # base_path: app_path         # Optional - Defaults to Current directory
+        destination: / # Optional - Defaults to _data/contentful/spaces
+        # individual_entry_files: true # Optional - Defaults to false
+
+page_gen-dirs: true
+page_gen:
+  - index_files: true
+    data: 'tsc.2wKn6yEnZewu2SCCkus4as'
+    template: 'post'
+    name: 'slug'
+    dir: 'post'
 
 # Server Config options
 # livereload: true
@@ -50,7 +77,7 @@ collections:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

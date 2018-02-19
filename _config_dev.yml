@@ -17,8 +17,8 @@ title: Dev Triumph Strength & Conditioning | Florence CrossFit
 email: info@triumphstrenght.net
 description: >- # this means to ignore newlines until "baseurl:"
   Get Your FREE Session Now at Triumph Strength and Conditioning, in Florence’s premier CrossFit gym.
-baseurl: "http://localhost:4000/" # the subpath of your site, e.g. /blog
-url: http://localhost:5678 # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://localhost:4300" # the base hostname & protocol for your site, e.g. http://example.com
 image: images/about-bg.jpg
 
 # Build settings
@@ -33,7 +33,7 @@ sass:
 
 # Server Config options
 livereload: true
-reload_port: 5678
+reload_port: 4300
 
 collections:
   pages:
