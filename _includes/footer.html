@@ -78,15 +78,22 @@
                 <strong>Subscribe</strong> to Our Newsletter to get Important News, Amazing Offers &amp; Inside Scoops:</h5>
               <div class="widget-subscribe-form-result"></div>
 
-              <form netlify name="newsletter-signup" id="widget-subscribe-form" role="form" class="nobottommargin" action="/newsletter-signup-sucess">
+              <form netlify name="newsletter-signup" id="widget-subscribe-form" role="form" class="nobottommargin" netlify-honeypot="bot-field" action="/coaches">
                 <div class="input-group divcenter">
                   <input type="email" id="widget-subscribe-form-email" name="newsletter-email" class="form-control required email"
                     placeholder="Enter your Email">
+                  <p class="hidden">
+                    <label>Don’t fill this out if you're human:
+                      <input name="bot-field">
+                    </label>
+                  </p>
                   <div class="input-group-append">
                     <button class="btn btn-primary" type="submit">Subscribe</button>
+                    <!-- <button onclick="window.location.href = 'https://website.com/my-account';" class="btn btn-primary" type="submit">Subscribe</button> -->
                   </div>
                 </div>
               </form>
+
             </div>
 
             <div class="widget clearfix" style="margin-bottom: -20px;">
