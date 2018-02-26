@@ -46,7 +46,7 @@ permalink: /stories
 								<div class="team-desc">
 									<div class="team-title"><h4>{{ testimonial.name }}</h4><span>{{ testimonial.subtitle }}</span></div>
 									<div class="team-content testi-content">
-                    <p>{{ testimonial.body }}</p>
+                    {{ testimonial.body | markdownify }}
                   </div>
                   <div class="line topmargin-sm nobottommargin"></div>
                   

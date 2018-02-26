@@ -73,6 +73,11 @@ page_gen:
     template: 'episode'
     name: 'slug'
     dir: 'podcast'
+  - index_files: true 
+    data: 'tsc.coaches'
+    template: 'page'
+    name: 'slug'
+    dir: 'coaches'
 
 # Server Config options
 # livereload: true

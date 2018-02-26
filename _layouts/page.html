@@ -49,8 +49,9 @@
           {{ page.body | markdownify }}
           <div class="clear"></div>
 
-          {% include section-pricing.html %}
-
+          {% if page.url contains "crossfit" %}
+            {% include section-pricing.html %}
+          {% endif %}
     
         </div>
     
