@@ -32,17 +32,6 @@ plugins:
 sass:
   sass_dir: _sass
 
-collections:
-  pages:
-    output: true
-    defaults:
-    - scope:
-        path: ""
-        type: pages
-      values:
-        layout: page
-        permalink: {{ page.title }}
-
 contentful:
   spaces:
     - tsc: # Jekyll _data folder identifier - Required
@@ -65,11 +54,25 @@ contentful:
 page_gen-dirs: true
 page_gen:
   - index_files: true
-    data: 'tsc.2wKn6yEnZewu2SCCkus4as'
+    data: 'tsc.post'
     template: 'post'
     name: 'slug'
     dir: 'blog'
-
+  - index_files: true 
+    data: 'tsc.page'
+    template: 'page'
+    name: 'slug'
+    dir: ''
+  - index_files: true 
+    data: 'tsc.testimonials'
+    template: 'default'
+    name: 'slug'
+    dir: 'stories'
+  - index_files: true 
+    data: 'tsc.podcast'
+    template: 'episode'
+    name: 'slug'
+    dir: 'podcast'
 
 # Server Config options
 # livereload: true

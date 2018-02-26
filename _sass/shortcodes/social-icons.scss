@@ -331,6 +331,8 @@ body:not(.device-touch) {
 .si-colored.si-pinterest { background-color: $pinterest !important; }
 .si-fivehundredpx:hover,
 .si-colored.si-fivehundredpx { background-color: $fivehundredpx !important; }
+.si-snapchat:hover,
+.si-colored.si-snapchat { background-color: $snapchat !important; }
 
 
 /* Social Icons Text Color
@@ -410,5 +412,5 @@ body:not(.device-touch) {
 .si-text-color.si-appstore i { color: $appstore; }
 .si-text-color.si-pinterest i { color: $pinterest; }
 .si-text-color.si-fivehundredpx i { color: $fivehundredpx; }
-
 .si-text-color:hover { color: $si_text_color; }
+.si-text-color.si-snapchat i { color: $snapchat; }

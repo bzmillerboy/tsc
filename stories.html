@@ -1,0 +1,85 @@
+---
+layout: default
+title: Success Stories
+permalink: /stories
+---
+
+<!-- Page Title
+        ============================================= -->
+<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 150px 0; background-image: url('//images.contentful.com/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg'); background-size: cover; background-position: center center;"
+  data-bottom-top="background-position:0px 400px;" data-top-bottom="background-position:0px -500px;">
+
+  <div class="container clearfix">
+    <h1>Success Stories</h1>
+    <span>We’re in the business of changing lives.</span>
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item">
+        <a href="#">Home</a>
+      </li>
+      <li class="breadcrumb-item">
+        <a href="#">Pages</a>
+      </li>
+      <li class="breadcrumb-item active" aria-current="page">Stories</li>
+    </ol>
+  </div>
+
+</section>
+<!-- #page-title end -->
+
+
+<!-- Content
+============================================= -->
+<section id="content" style="margin-bottom: 0px;">
+
+  <div class="content-wrap">
+
+    <div class="container clearfix">
+
+					<div class="row">
+
+             {% for testimonial in site.data.tsc.testimonials %}
+						<div class="col-lg-12 bottommargin">
+							<div class="team team-list clearfix">
+								<div class="team-image" style="width: 150px;">
+									<img class="rounded-circle" src="{{ testimonial.profile_image.url }}" alt="Bryant Kellam">
+								</div>
+								<div class="team-desc">
+									<div class="team-title"><h4>{{ testimonial.name }}</h4><span>{{ testimonial.subtitle }}</span></div>
+									<div class="team-content testi-content">
+                    <p>{{ testimonial.body }}</p>
+                  </div>
+                  <div class="line topmargin-sm nobottommargin"></div>
+                  
+									<!-- <a href="#" class="social-icon si-borderless si-small si-facebook" title="Facebook">
+										<i class="icon-facebook"></i>
+										<i class="icon-facebook"></i>
+									</a>
+									<a href="#" class="social-icon si-borderless si-small si-twitter" title="Twitter">
+										<i class="icon-twitter"></i>
+										<i class="icon-twitter"></i>
+									</a>
+									<a href="#" class="social-icon si-borderless si-small si-pinterest" title="Pinterest">
+										<i class="icon-pinterest"></i>
+										<i class="icon-pinterest"></i>
+									</a>
+									<a href="#" class="social-icon si-borderless si-small si-instagram" title="Instagram">
+										<i class="icon-instagram"></i>
+										<i class="icon-instagram"></i>
+                  </a> -->
+                  
+								</div>
+							</div>
+            </div>
+             {% endfor %}
+
+
+          </div>
+          
+
+    </div>
+
+  </div>
+
+</section>
+<!-- #content end -->
+

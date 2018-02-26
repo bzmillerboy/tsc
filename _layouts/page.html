@@ -18,12 +18,12 @@
 
     <!-- Page Title
     		============================================= -->
-    <section id="page-title" class="page-title-parallax page-title-dark" style="padding: 150px 0; background-image: url('{{ page.image }}'); background-size: cover; background-position: center center;"
+    <section id="page-title" class="page-title-parallax page-title-dark" style="padding: 150px 0; background-image: url('{{ page.featured_image.url }}'); background-size: cover; background-position: center center;"
       data-bottom-top="background-position:0px 400px;" data-top-bottom="background-position:0px -500px;">
     
       <div class="container clearfix">
         <h1>{{ page.title }}</h1>
-        <span>{{ page.tagline }}</span>
+        <span>{{ page.sub_title }}</span>
         <ol class="breadcrumb">
           <li class="breadcrumb-item">
             <a href="#">Home</a>
@@ -38,7 +38,6 @@
     </section>
     <!-- #page-title end -->
 
-
     <!-- Content
     		============================================= -->
     <section id="content">
@@ -46,8 +45,12 @@
       <div class="content-wrap">
     
         <div class="container clearfix">
-          {{ content }}
+           
+          {{ page.body | markdownify }}
           <div class="clear"></div>
+
+          {% include section-pricing.html %}
+
     
         </div>
     
@@ -77,6 +80,18 @@
   <!-- Footer Scripts
 	============================================= -->
   <script src="/js/functions.js"></script>
+  <script>
+    (function (w, d) {
+      var id = 'embedly-platform', n = 'script';
+      if (!d.getElementById(id)) {
+        w.embedly = w.embedly || function () { (w.embedly.q = w.embedly.q || []).push(arguments); };
+        var e = d.createElement(n); e.id = id; e.async = 1;
+        e.src = ('https:' === document.location.protocol ? 'https' : 'http') + '://cdn.embedly.com/widgets/platform.js';
+        var s = d.getElementsByTagName(n)[0];
+        s.parentNode.insertBefore(e, s);
+      }
+    })(window, document);
+  </script>
 
 </body>
 

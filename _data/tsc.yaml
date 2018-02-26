@@ -1,61 +1,444 @@
 ---
-2wKn6yEnZewu2SCCkus4as:
+page:
 - sys:
-    id: A96usFSlY4G0W4kwAqswk
-    created_at: !ruby/object:DateTime 2018-02-18 17:16:53.677000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:36:11.250000000 Z
-    content_type_id: 2wKn6yEnZewu2SCCkus4as
-  title: Seven Tips From Ernest Hemingway on How to Write Fiction
-  body: |-
-    ### To get started, write one true sentence
-
-    Sometimes when I was starting a new story and I could not get it going, I would sit in front of the fire and squeeze the peel of the little oranges into the edge of the flame and watch the sputter of blue that they made. I would stand and look out over the roofs of Paris and think, “Do not worry. You have always written before and you will write now. All you have to do is write one true sentence. Write the truest sentence that you know.”
-
-    So finally I would write one true sentence, and then go on from there. It was easy then because there was always one true sentence that I knew or had seen or had heard someone say. If I started to write elaborately, or like someone introducing or presenting something, I found that I could cut that scrollwork or ornament out and throw it away and start with the first true simple declarative sentence I had written.
-
-
-    ### Always stop for the day while you still know what will happen next
-
-    The best way is always to stop when you are going good and when you know what will happen next. If you do that every day when you are writing a novel you will never be stuck. That is the most valuable thing I can tell you so try to remember it.
-
-
-    ### Never think about the story when you’re not working
-
-    When I was writing, it was necessary for me to read after I had written. If you kept thinking about it, you would lose the thing you were writing before you could go on with it the next day. It was necessary to get exercise, to be tired in the body, and it was very good to make love with whom you loved.
-
-    That was better than anything. But afterwards, when you were empty, it was necessary to read in order not to think or worry about your work until you could do it again. I had learned already never to empty the well of my writing, but always to stop when there was still something there in the deep part of the well, and let it refill at night from the springs that fed it.
-
-
-    ### When it’s time to work again, always start by reading what you’ve written so far
-
-    The best way is to read it all every day from the start, correcting as you go along, then go on from where you stopped the day before. When it gets so long that you can’t do this every day read back two or three chapters each day; then each week read it all from the start. That’s how you make it all of one piece.
-
-
-    ### Don’t describe an emotion–make it
-
-    I was trying to write then and I found the greatest difficulty, aside from knowing truly what you really felt, rather than what you were supposed to feel, and had been taught to feel, was to put down what really happened in action; what the actual things were which produced the emotion that you experienced. In writing for a newspaper you told what happened and, with one trick and another, you communicated the emotion aided by the element of timeliness which gives a certain emotion to any account of something that has happened on that day; but the real thing, the sequence of motion and fact which made the emotion and which would be as valid in a year or in ten years or, with luck and if you stated it purely enough, always, was beyond me and I was working very hard to get it.
-
-
-    ### Use a pencil
-
-    When you start to write you get all the kick and the reader gets none. So you might as well use a typewriter because it is that much easier and you enjoy it that much more. After you learn to write your whole object is to convey everything, every sensation, sight, feeling, place and emotion to the reader. To do this you have to work over what you write.
-
-    If you write with a pencil you get three different sights at it to see if the reader is getting what you want him to. First when you read it over; then when it is typed you get another chance to improve it, and again in the proof. Writing it first in pencil gives you one-third more chance to improve it. That is .333 which is a damned good average for a hitter. It also keeps it fluid longer so you can better it easier.
-
-
-    ### Be brief
-
-    It wasn’t by accident that the Gettysburg address was so short. The laws of prose writing are as immutable as those of flight, of mathematics, of physics.
-
-    The original, unabbreviated version of the blog post can be found on the [Open Culture](http://www.openculture.com/) website.
+    id: guuK2j30M800mA4QA8yk2
+    created_at: !ruby/object:DateTime 2018-02-25 04:15:50.554000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:15:50.554000000 Z
+    content_type_id: page
+  title: Open Gym
+  sub_title: Every Sunday. Come work on your weakness.
+  body: We host open gym every sunday from 2pm to 4pm. Come in and make up your own
+    workout or focus on a movement. They gym is yours.
   featured_image:
     sys:
-      id: 34zn49vAtyw8IAESWMsOeC
-      created_at: !ruby/object:DateTime 2018-02-18 21:02:04.118000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-18 21:02:04.118000000 Z
-    title: crossfit
+      id: 4J4NNfdXU4iA04aieM0oG4
+      created_at: !ruby/object:DateTime 2018-02-25 04:15:33.232000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 04:15:33.232000000 Z
+    title: open-gym-bg
     description: 
-    url: "//images.contentful.com/ctmmyckif2fs/34zn49vAtyw8IAESWMsOeC/bf8e90962701acda5f785ee00663cefd/crossfit.jpg"
+    url: "//images.contentful.com/ctmmyckif2fs/4J4NNfdXU4iA04aieM0oG4/ff92f3b23c9afd85f03e631b8656da4c/open-gym-bg.jpg"
+  slug: open
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 4ZcKS3C9Py6OU8K8Ic6Ewy
+    created_at: !ruby/object:DateTime 2018-02-25 03:20:22.890000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 03:45:26.970000000 Z
+    content_type_id: page
+  title: '12 Week Bootcamp: SWEAT'
+  sub_title: Get moving, get fit & feel great.
+  body: "Get moving, get fit & feel great. Starting on March 5, 2018 we'll be running
+    a 12 week bootcamp designed to get you in the door, get you out and sweating in
+    just 30 minutes. The cost is 12 weeks for $200, $140 for current Triumph members.
+    A 10 class package can  be purchased for $100 as well.\n\n__Class Times__\nMonday,
+    Wednesday & Friday\n- 5:00 AM\n- 8:00 AM\n- 11:00 AM\n\n### [Purchase your Sweat
+    Class Package Now](https://triumphstrength.wodify.com/OnlineSalesPortal/Sessions.aspx?LocationId=2081&IsMobile=False)
+    \n\n<a href=\"https://www.youtube.com/watch?v=2nzEKK97ZkA\" class=\"embedly-card\"
+    data-card-width=\"100%\" data-card-controls=\"1\">Embedded content: https://www.youtube.com/watch?v=2nzEKK97ZkA</a>"
+  featured_image:
+    sys:
+      id: 1x3OMTzrIEEqiq462gACgu
+      created_at: !ruby/object:DateTime 2018-02-25 03:19:58.634000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 03:19:58.634000000 Z
+    title: Screenshot 2018-02-24 22.16.51
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/1x3OMTzrIEEqiq462gACgu/c5557a7b81134bfece7438b61dc4cc7d/Screenshot_2018-02-24_22.16.51.jpg"
+  slug: 12-week-bootcamp-sweat
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+- sys:
+    id: 33AyohsyoMO6AUE66GAYAA
+    created_at: !ruby/object:DateTime 2018-02-25 01:53:41.986000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 01:53:41.986000000 Z
+    content_type_id: page
+  title: Tour the Facility
+  sub_title: 7,000-square-foot has everything you need to push yourself to new limits
+  body: |-
+    Triumph Strength and Conditioning’s 7,000-square-foot box has everything you need to push yourself to new limits. Plenty of room to stretch out and sweat, all the cool CrossFit tools you love (and sometimes love to hate), passionate coaches, and the kind of atmosphere that you can’t wait to get to at the end of the day. Come on by and check us out!
+
+    <iframe src="https://www.google.com/maps/embed?pb=!4v1519523579023!6m8!1m7!1sByo7d4Th5ccAAAQvPAbgEg!2m2!1d38.98405953656803!2d-84.63283061176617!3f16.68!4f-13.61!5f0.4000000000000002" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+  featured_image:
+    sys:
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: tour
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 5T4giVRj9KkWwIoQesCqcU
+    created_at: !ruby/object:DateTime 2018-02-25 03:38:58.897000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 03:38:58.897000000 Z
+    content_type_id: page
+  title: CrossFit Class
+  sub_title: Designed to help you meet your goals.
+  body: Based on the CrossFit prescription of “constantly varied functional movement
+    executed at high intensity,” our CrossFit program combines strength training with
+    the “classic” CrossFit cardio workout. For this class, you could be working on
+    pull-ups, rowing, burpees and much more. Every WOD is different so you never get
+    bored! We scale each workout to your fitness level, so you get the maximum workout
+    every time.
+  featured_image:
+    sys:
+      id: 43rvukjaZa2We8mUwGiAmC
+      created_at: !ruby/object:DateTime 2018-02-25 03:36:51.996000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 03:38:37.653000000 Z
+    title: CrossFit-Group-Class
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/43rvukjaZa2We8mUwGiAmC/0c3bdde57a4cf3886fefec78b8f037e9/crossfit-group-class.jpg"
+  slug: crossfit
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 54fEqNiCScS6UqsauqyaQe
+    created_at: !ruby/object:DateTime 2018-02-25 04:11:19.723000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:11:19.723000000 Z
+    content_type_id: page
+  title: Family Class
+  sub_title: Because your kids want to CrossFit too.
+  body: We offer family classes at 9:00am every Saturday. Bring your kids and we'll
+    cater a workout just for them. It's fun and a great way to get your entire family
+    out and moving.
+  featured_image:
+    sys:
+      id: 1nxOht8mUASq8OSg6QEOCu
+      created_at: !ruby/object:DateTime 2018-02-25 04:11:30.078000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 04:11:30.078000000 Z
+    title: family-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/1nxOht8mUASq8OSg6QEOCu/dfa21fa5d6ed5f656147904d8ad12a82/family-bg.jpg"
+  slug: family
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 3CfvjLdfgAa4GiSoGsOuaA
+    created_at: !ruby/object:DateTime 2018-02-25 04:45:50.693000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:45:50.693000000 Z
+    content_type_id: page
+  title: Programs
+  sub_title: Designed for lifetime health and fitness.
+  body: "At Triumph Strength & Conditioning, we’re all about you. We’ve designed our
+    classes to help you meet your goals for lifetime health and fitness and have a
+    great time doing it!\n\n## Fundamentals Class\nThe Fundamentals Course is designed
+    to set you up for success in a safe and confident environment prior to entering
+    our regular classes. You’ll learn what CrossFit is and why it is a great way to
+    get you fit for life and other endeavors. These 6 small-group classes (which are
+    required for everyone who has never tried CrossFit before) teach you all the basics
+    to get you ready for the intensity of CrossFit. Come prepared to learn new skills
+    and sweat a little. [Learn More](https://triumphstrength.net/fundamentals)\n\n##
+    CrossFit Class\nBased on the CrossFit prescription of “constantly varied functional
+    movement executed at high intensity,” our CrossFit program combines strength training
+    with the “classic” CrossFit cardio workout. For this class, you could be working
+    on pull-ups, rowing, burpees and much more. Every WOD is different so you never
+    get bored! We scale each workout to your fitness level, so you get the maximum
+    workout every time. [Learn More](https://triumphstrength.net/crossfit)\n\n## Personal
+    Training\nIn today’s busy world, it’s hard to find the time to get regular exercise.
+    So it’s important to make the most of the time you have. CrossFit Accretion offers
+    a wide range of personal workout programs to help you achieve your ideal body.
+    Your personal trainer will develop an exercise regimen suited specifically for
+    you, whether your goal is to gain muscle or lose weight. \n\n## Barbell Club\nThe
+    Triumph Barbell Club follows set cycles ranging from the introductory level to
+    more advanced cycles prepping lifters for WODs or competition. Whether you’re
+    looking to improve your technique and strength or want to pursue lifting as a
+    sport, this barbell class is for you. [Learn More](https://triumphstrength.net/barbell-club)\n\n##
+    Nutritional Guidance\nThe best workout in the world won’t work without the right
+    nutrition. We’ll help you find the right diet for your body type, goals, and particular
+    health needs. If you’re struggling with certain health issues, or even if you
+    feel “perfectly healthy,” nutritional guidance is critical to your success in
+    fitness and health.\n\n"
+  featured_image:
+    sys:
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: programs
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+- sys:
+    id: 6oV7ONvcJiOYwWA6qAEQa6
+    created_at: !ruby/object:DateTime 2018-02-25 03:59:49.017000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 03:59:49.017000000 Z
+    content_type_id: page
+  title: Spartan SGX
+  sub_title: Spartan training builds complete fitness.
+  body: |-
+    SGX is Spartan’s official training program and the leader in obstacle race fitness. SGX is designed for every fitness level and any age, a scientifically-supported solution to get anyone physically and mentally prepared for a Spartan Race, or to live more vitally. SGX is grounded in functional bodyweight exercise to improve agility, athleticism and power; the workouts are progressive, varying in exercise volume, intensity and specificity over time. SGX is also about empowerment. Coaches are trained to help people improve their nutritional and lifestyle habits and self-efficacy, all critical to success in the race and in daily life.
+
+    Because participating in a Spartan Race requires all-around fitness, SGX training necessarily develops well-rounded athletes. Because every Spartan Race is different, SGX training builds the transformational capability to take on whatever challenge arises.
+
+    SGX training will benefit you on the race course or on the soccer field, at the box or at the yoga studio, on the track or on the trail, at work and at home, and in how you feel every day.
+
+    Find an SGX coach, or experience SGX firsthand at our one-day obstacle race prep class Spartan Obstacle Specialist.
+
+
+    ### [Inquire about Spartan Training](https://triumphstrength.net/contact)
+  featured_image:
+    sys:
+      id: 9wSNAKdQswum4ky02SUoW
+      created_at: !ruby/object:DateTime 2018-02-25 03:59:34.422000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 03:59:34.422000000 Z
+    title: spartansgx-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/9wSNAKdQswum4ky02SUoW/8ae890616c0d0852196f4526a753cb12/spartansgx-bg.jpg"
+  slug: spartansgx
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 21tI2bgDeg0Eg86eiMuKC0
+    created_at: !ruby/object:DateTime 2018-02-25 04:47:43.826000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:47:43.826000000 Z
+    content_type_id: page
+  title: About
+  sub_title: Home of CrossFit Accretion
+  body: |-
+    Triumph Strength and Conditioning - Home of CrossFit Accretion holds our tight-knit community above everything else. Sure you'll find Florence's most highly trained coaches under this roof, but you'll also find our members going out of their way to welcome and support new clients and each other. We pride ourselves on making our box a clean place where you can obtain the guidance you need to begin changing your life forever.
+
+    Our functional and intense workouts are unmatched, and when paired with a solid nutritional foundation, you have the perfect combination for a healthier you. Our classes encourage the camaraderie that we're known for, which in turn drives the amazing results you'll soon experience. Find out what it means to Carry The Shield and join this amazing community today.
+  featured_image:
+    sys:
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: about
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: tuFOb0hI40GCky0g2Agc
+    created_at: !ruby/object:DateTime 2018-02-25 03:50:09.132000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 03:50:09.132000000 Z
+    content_type_id: page
+  title: Fundamentals
+  sub_title: Designed to set you up for success.
+  body: The Fundamentals Course is designed to set you up for success in a safe and
+    confident environment prior to entering our regular classes. You’ll learn what
+    CrossFit is and why it is a great way to get you fit for life and other endeavors.
+    These 6 small-group classes (which are required for everyone who has never tried
+    CrossFit before) teach you all the basics to get you ready for the intensity of
+    CrossFit. Come prepared to learn new skills and sweat a little.
+  featured_image:
+    sys:
+      id: 41nswb78Na0YIySQeIaAOI
+      created_at: !ruby/object:DateTime 2018-02-25 03:49:59.470000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 03:49:59.470000000 Z
+    title: fundamentals-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/41nswb78Na0YIySQeIaAOI/fbddadee1ac318cd7cdb35e42b966b03/fundamentals-bg.jpg"
+  slug: fundamentals
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 5I37BgFkOse880KMGCwA4k
+    created_at: !ruby/object:DateTime 2018-02-24 21:53:18.611000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 01:48:06.309000000 Z
+    content_type_id: page
+  title: Meet the Coaches
+  sub_title: We believe they're the best in the Florence area. Try a free class and
+    see for yourself.
+  body: "<div class=\"coachesPage\">\n        \n        <!-- /.internalHeader -->\n\n
+    \       <div class=\"contentArea\">\n\n                            <p class=\"bigBold
+    headerFont\">\n                    Passionate                    <span>\n                    Coaches
+    \                   </span>\n                </p>\n            \n                            <div
+    class=\"mainSectionText\">\n                    You don’t have to carry the shield
+    alone. Our coaches are here to carry it with you. These passionate folks are interested
+    in one thing only - YOU! Your goals, your growth, your well-being, that’s what
+    drives us to be our very best every single day.                </div>\n                <!--
+    /.mainSectionText -->\n            \n        </div>\n        <!-- /.contentArea
+    -->\n\n        <div class=\"coaches\">\n            <ul class=\"coachesList\">\n
+    \               <li class=\"coach alt\"><style>.coach_bg-8867:before { background:
+    url(\"https://triumphstrength.net/wp-content/uploads/2016/10/Jarrett-Baston.jpg\")
+    no-repeat scroll center center transparent;}.coach_bg-8867 { background: url(\"https://triumphstrength.net/wp-content/uploads/2016/10/Jarrett-Baston.jpg\")
+    no-repeat scroll center center transparent;}</style>\n                        <div
+    class=\"bioInfo bioPic coach_bg-8867\">\n                                                    </div>\n
+    \                       <!-- /.bioPic -->\n\n                        <div class=\"bioInfo
+    bio\">\n                            <h3 class=\"name\">Jarrett Baston</h3>\n                            <p
+    class=\"title\">Owner/Trainer</p>\n                            <div class=\"theBio\"><p>Owner/Trainer
+    Jarrett Baston has been CrossFitting for nearly a decade and specializes in Olympic
+    lifting and gymnastics. His passion for fitness, wellness, and self-improvement
+    all boil down to the same thing: pushing beyond the limits of what was previously
+    thought impossible.</p>\n<p>When coaching his members, Jarrett is inspired by
+    their willingness to learn and their sincerity in working hard to reach their
+    goals. His favorite quote is “Brought into this world without my consent, and
+    I’ll be taken out against my will.”</p>\n</div>\n\n                            <p
+    class=\"certTitle\">Certifications:</p><ul class=\"certs\"><li>CrossFit Level
+    1\n</li><li>CrossFit Level 2</li></ul>                        </div>\n                        <!--
+    /.bio -->\n                    </li>\n\n                    <li class=\"coach\"><style>.coach_bg-8868:before
+    { background: url(\"https://triumphstrength.net/wp-content/uploads/2016/10/Mark-McCain.jpg\")
+    no-repeat scroll center center transparent;}.coach_bg-8868 { background: url(\"https://triumphstrength.net/wp-content/uploads/2016/10/Mark-McCain.jpg\")
+    no-repeat scroll center center transparent;}</style>\n                        <div
+    class=\"bioInfo bioPic coach_bg-8868\">\n                                                    </div>\n
+    \                       <!-- /.bioPic -->\n\n                        <div class=\"bioInfo
+    bio\">\n                            <h3 class=\"name\">Mark McCain</h3>\n                            <p
+    class=\"title\">Owner/Trainer</p>\n                            <div class=\"theBio\"><p>Owner/Trainer
+    Mark McCain became a personal trainer while attending the University of Cincinnati
+    after transferring from West Liberty University, where&nbsp;he was attending on
+    a baseball scholarship. One day he “Got dragged to a Saturday CrossFit class,
+    got my butt kicked, and the rest is history.”</p>\n<p>When training his members,
+    he loves to “Reach deep inside and pull out a person that they didn’t know existed.”
+    It’s building members’ confidence and helping them reach their goals that he’s
+    most passionate about in the gym. “I am humbled daily by the CrossFit community
+    and the amazing people it attracts,” he says. “I feel super grateful for this
+    opportunity to do what I love.”</p>\n</div>\n\n                            <p
+    class=\"certTitle\">Certifications:</p><ul class=\"certs\"><li>CrossFit Level
+    1\n</li><li>CrossFit Mobility\n</li><li>CrossFit Powerlifting\n</li><li>CrossFit
+    Football</li></ul>                        </div>\n                        <!--
+    /.bio -->\n                    </li>\n\n                    <li class=\"coach
+    alt\"><style>.coach_bg-8866:before { background: url(\"https://triumphstrength.net/wp-content/uploads/2016/10/Derek-Kidney.jpg\")
+    no-repeat scroll center center transparent;}.coach_bg-8866 { background: url(\"https://triumphstrength.net/wp-content/uploads/2016/10/Derek-Kidney.jpg\")
+    no-repeat scroll center center transparent;}</style>\n                        <div
+    class=\"bioInfo bioPic coach_bg-8866\">\n                                                    </div>\n
+    \                       <!-- /.bioPic -->\n\n                        <div class=\"bioInfo
+    bio\">\n                            <h3 class=\"name\">Derek Kidney</h3>\n                            <p
+    class=\"title\">Coach</p>\n                            <div class=\"theBio\"><p>Coach
+    Derek Kidney got into coaching because “The more I did, the more I wanted to learn,
+    the more I wanted to teach.” When this “huge nerd” is coaching, he love watching
+    his members make positive changes, not just in the gym, but in multiple aspects
+    of their lives. They have more confidence and more strength both mentally and
+    physically.</p>\n<p>His favorite quote is “Everyone thinks of changing the world,
+    but no one thinks of changing themselves.”</p>\n</div>\n\n                            <p
+    class=\"certTitle\">Certifications:</p><ul class=\"certs\"><li>CrossFit Level
+    1\n</li><li>CFE\n</li><li>USAW\n</li><li>SPC-1</li></ul>                        </div>\n
+    \                       <!-- /.bio -->\n                    </li>\n\n                    <li
+    class=\"coach\"><style>.coach_bg-8865:before { background: url(\"https://triumphstrength.net/wp-content/uploads/2016/10/Chris-Lemmel.jpg\")
+    no-repeat scroll center center transparent;}.coach_bg-8865 { background: url(\"https://triumphstrength.net/wp-content/uploads/2016/10/Chris-Lemmel.jpg\")
+    no-repeat scroll center center transparent;}</style>\n                        <div
+    class=\"bioInfo bioPic coach_bg-8865\">\n                                                    </div>\n
+    \                       <!-- /.bioPic -->\n\n                        <div class=\"bioInfo
+    bio\">\n                            <h3 class=\"name\">Chris Lemmel</h3>\n                            <p
+    class=\"title\">Coach</p>\n                            <div class=\"theBio\"><p>Coach
+    Chris Lemmel is a lifelong, multi-sport athlete that always knew he’d have a career
+    in health and fitness. He chose CrossFit for his coaching career because “I felt
+    drawn to the interaction that CrossFit facilitates.”</p>\n<p>Chris is fanatical
+    about constantly improving his coaching skills and connecting with his members
+    in a way that motivates them to achieve more than they ever believed they could.
+    In the gym, he says the relationships he builds with members help him grow as
+    a person as he helps members grow as athletes.</p>\n</div>\n\n                            <p
+    class=\"certTitle\">Certifications:</p><ul class=\"certs\"><li>CrossFit Level
+    1\n</li><li>CrossFit weightlifting\n</li><li>Spartan SGX</li></ul>                        </div>\n
+    \                       <!-- /.bio -->\n                    </li>\n\n                    <li
+    class=\"coach alt\"><style>.coach_bg-10066:before { background: url(\"https://triumphstrength.net/wp-content/uploads/2017/07/DSC_4741-e1500555401516.jpg\")
+    no-repeat scroll center center transparent;}.coach_bg-10066 { background: url(\"https://triumphstrength.net/wp-content/uploads/2017/07/DSC_4741-e1500555401516.jpg\")
+    no-repeat scroll center center transparent;}</style>\n                        <div
+    class=\"bioInfo bioPic coach_bg-10066\">\n                                                    </div>\n
+    \                       <!-- /.bioPic -->\n\n                        <div class=\"bioInfo
+    bio\">\n                            <h3 class=\"name\">Kelsey Blaze</h3>\n                            <p
+    class=\"title\">Coach</p>\n                            <div class=\"theBio\"><p>When
+    asked why she wanted to become a coach, Kelsey responded with a simple “I knew
+    I wanted to coach when I saw that although life will knock you down 10 times,
+    CrossFit will help you stand up 11.”</p>\n<p>Kelsey has years of experience in
+    and out of the gym helping people. When not coaching, Kelsey is a&nbsp;Clinical
+    Research Coordinator at&nbsp;University of Cincinnati where she helps&nbsp;run
+    studies that allow us to learn more about disease processes, improve treatments
+    and help save lives.</p>\n</div>\n\n                            <p class=\"certTitle\">Certifications:</p><ul
+    class=\"certs\"><li>CrossFit Level 1</li></ul>                        </div>\n
+    \                       <!-- /.bio -->\n                    </li>\n\n                                </ul>\n
+    \       </div>\n        <!-- /.coaches -->\n\n\n    </div>"
+  featured_image:
+    sys:
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: coaches
+  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
+- sys:
+    id: 5benbMEbHGY82mwY0eQWOK
+    created_at: !ruby/object:DateTime 2018-02-25 03:30:14.120000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 03:30:14.120000000 Z
+    content_type_id: page
+  title: Barbell Club
+  sub_title: Whether you're a seasoned lifter or just starting out.
+  body: |-
+    Whether you're a seasoned lifter or just starting out Triumph Barbell is based around your needs as a lifter. With a 3-day and 5-day a week program we cater to your abilities and build up areas you may struggle with. Meeting every Tuesday, Thursday and Saturday from 6:30 AM - 8:00 AM and 5:30 PM - 7:00 PM.
+
+    Our 3-day a week program is designed for novice lifters wanting to incorporate the strength, agility and speed into their CrossFit workouts. The 5-day a week program is designed for intermediate and advanced lifters with their sole focus being Olympic weightlifting. This program includes a multitude of skills and drills paired with a percentage based strength cycle will help athletes improve their snatch and clean & jerk totals.
+
+    Here are some additional benefits to Triumph Barbell:
+    - Customized program based around you strengths and weaknesses
+    - Hands on coaching in small group setting
+    - Access to equipment outside of class times
+    - Guidance building up to weightlifting meets and coaching at weightlifting meets
+    - Video feed back from coaches using team Coaches Eye platform
+
+
+
+    ### [Sign Up for Barbell Fundamentals Now](https://triumphstrength.wodify.com/OnlineSalesPortal/ReviewPlanPurchase.aspx?OnlineMembershipId=83789&OnlineMembershipPaymentOptionId=327472&IsMobile=False)
+
+
+    <a href="https://www.youtube.com/watch?v=0_fJyc7Xfao" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=0_fJyc7Xfao</a>
+  featured_image:
+    sys:
+      id: 4Q6pPaz7YAywgIQ0OcQqqw
+      created_at: !ruby/object:DateTime 2018-02-25 03:29:48.976000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 03:29:48.976000000 Z
+    title: barbell-club-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/4Q6pPaz7YAywgIQ0OcQqqw/b57b87b810bd8f9ab7427958d60b5441/barbell-club-bg.jpg"
+  slug: barbell-club
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+category:
+- sys:
+    id: 6sU7yeWA9iQ60yquUGm0ss
+    created_at: !ruby/object:DateTime 2018-02-19 06:17:12.010000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 06:17:12.010000000 Z
+    content_type_id: category
+  name: Nutrition
+  slug: nutrition
+- sys:
+    id: 3d8Q1ODKusYmIYaOM8qOy
+    created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+    content_type_id: category
+  name: 'Podcast: Everyday Athelete'
+  slug: podcast-everyday-athelete
+- sys:
+    id: 25qMMuioYAQyu2c46qg2Ki
+    created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+    content_type_id: category
+  name: Gym News
+  slug: gym-news
+- sys:
+    id: 6LVaTXj0l2k2w0g0Q6WCiA
+    created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+    content_type_id: category
+  name: Coaches Corner
+  slug: coaches-corner
+- sys:
+    id: 4hTMi0NG9WcusWCiiKKCK6
+    created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+    content_type_id: category
+  name: Featured Athlete
+  slug: featured-athlete
+- sys:
+    id: 4RIo8OQ5ygYuEkMQOyOgoI
+    created_at: !ruby/object:DateTime 2018-02-19 06:17:32.665000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 06:17:32.665000000 Z
+    content_type_id: category
+  name: Lastest WOD
+  slug: lastest-wod
+post:
+- sys:
+    id: 2y8x4r5N5ese6QcKqOgYMg
+    created_at: !ruby/object:DateTime 2018-02-24 21:17:18.646000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-24 21:27:38.764000000 Z
+    content_type_id: post
+  title: '15 Minute Trainer: Squats, Push Up, Burpees, Sit Ups'
+  body: |-
+    Welcome to this week's 15 Minute Trainer. Coach Chris takes you through an EMOM of air squats, push ups, burpees and sit ups.
+
+    <a href="https://www.youtube.com/embed/8KrlQjI5KRM" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/embed/8KrlQjI5KRM</a>
+  featured_image:
+    sys:
+      id: 4D1cMZflRKyakmm4U8yaai
+      created_at: !ruby/object:DateTime 2018-02-24 21:16:47.590000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 21:16:47.590000000 Z
+    title: Screenshot-2018-02-11-19.23.01-1038x576
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/4D1cMZflRKyakmm4U8yaai/89148cc1b62bf629b3be3afa71772c49/Screenshot-2018-02-11-19.23.01-1038x576.png"
   author:
     sys:
       id: 37TyZJB8buu0CeqEgcOYuS
@@ -74,122 +457,72 @@
     slug: jarrett-baston
   category:
     sys:
-      id: 25qMMuioYAQyu2c46qg2Ki
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      content_type_id: category
-    name: Gym News
-    slug: gym-news
-  date: !ruby/object:DateTime 2018-02-12 00:00:00.000000000 -05:00
-  slug: seven-tips-from-ernest-hemingway-on-how-to-write-fiction
-- sys:
-    id: 5SWOIw0zsWAIwww2aiq4aY
-    created_at: !ruby/object:DateTime 2018-02-18 18:13:20.737000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 04:08:49.362000000 Z
-    content_type_id: 2wKn6yEnZewu2SCCkus4as
-  title: '15 Minute Trainer: Squats, Push Up, Burpees, Sit Ups  '
-  body: |
-    Welcome to this week’s 15 Minute Trainer. Coach Chris takes you through an EMOM of air squats, push ups, burpees and sit ups.
-
-    <a href="https://www.youtube.com/watch?v=8KrlQjI5KRM" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=8KrlQjI5KRM</a>
-
-    New line.
-  featured_image:
-    sys:
-      id: 4wK4Mz9CbS6e80gwUM4WIq
-      created_at: !ruby/object:DateTime 2018-02-18 21:01:03.918000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-18 21:01:03.918000000 Z
-    title: Screenshot-2018-02-11-19.23.01-1038x576
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/4wK4Mz9CbS6e80gwUM4WIq/bf8e90962701acda5f785ee00663cefd/Screenshot-2018-02-11-19.23.01-1038x576.png"
-  author:
-    sys:
-      id: 31GAZQYq3u0SMo4mm2S8O8
-      created_at: !ruby/object:DateTime 2018-02-19 03:29:54.600000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:29:54.600000000 Z
-      content_type_id: author
-    name: Mark McCain
-    profile_image:
-      sys:
-        id: 6LZE8SkAF2c6gKWSwgSyIq
-        created_at: !ruby/object:DateTime 2018-02-19 03:29:48.781000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:29:48.781000000 Z
-      title: Mark McCain
-      description: Mark McCain
-      url: "//images.contentful.com/ctmmyckif2fs/6LZE8SkAF2c6gKWSwgSyIq/bf8e90962701acda5f785ee00663cefd/Mark-McCain.jpg"
-    slug: mark-mccain
-  category:
-    sys:
       id: 6LVaTXj0l2k2w0g0Q6WCiA
       created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
       updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
       content_type_id: category
     name: Coaches Corner
     slug: coaches-corner
-  date: !ruby/object:DateTime 2018-02-18 00:00:00.000000000 -05:00
-  slug: 15-min
+  date: !ruby/object:DateTime 2018-02-16 00:00:00.000000000 -05:00
+  slug: 15-minute-trainer-squats-push-up-burpees-sit-ups
 - sys:
-    id: 1asN98Ph3mUiCYIYiiqwko
-    created_at: !ruby/object:DateTime 2018-02-18 17:16:52.694000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:36:41.570000000 Z
-    content_type_id: 2wKn6yEnZewu2SCCkus4as
-  title: Down the Rabbit Hole
+    id: 41npSeXgPuWQMQm8GusI44
+    created_at: !ruby/object:DateTime 2018-02-24 20:53:23.910000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-24 20:53:23.910000000 Z
+    content_type_id: post
+  title: 'Athlete Profile:  Jenny Beene-Skuban'
   body: |-
-    Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, 'and what is the use of a book,' thought Alice 'without pictures or conversation?'
+    **Name**
 
-    So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy- chain would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by her.
+    Jenny Beene-Skuban
 
-    There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, `Oh dear! Oh dear! I shall be late!' (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually took a watch out of its waistcoat- pocket, and looked at it, and then hurried on, Alice started to her feet, for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge.
+    **Where are you from?**
 
-    In another moment down went Alice after it, never once considering how in the world she was to get out again.
+    Ft. Thomas, K to the Y
 
-    The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.
+    **What is your favorite vacation spot? Why?**
 
-    Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next. First, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs. She took down a jar from one of the shelves as she passed; it was labelled 'ORANGE MARMALADE', but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody, so managed to put it into one of the cupboards as she fell past it.
+    Vieques, Puerto Rico. Laid-back beautiful place that is still fairly undeveloped, and it has an amazing bioluminescent bay. I’m saddened by the devastation there by Hurricane Maria :(
 
-    'Well!' thought Alice to herself, 'after such a fall as this, I shall think nothing of tumbling down stairs! How brave they'll all think me at home! Why, I wouldn't say anything about it, even if I fell off the top of the house!' (Which was very likely true.)
+    **What is your favorite movie or TV show?**
 
-    Down, down, down. Would the fall never come to an end! 'I wonder how many miles I've fallen by this time?' she said aloud. 'I must be getting somewhere near the centre of the earth. Let me see: that would be four thousand miles down , I think--'(for, you see, Alice had learnt several things of this sort in her lessons in the schoolroom, and though this was not a very good opportunity for showing off her knowledge, as there was no one to listen to her, still it was good practice to say it over) '--yes, that's about the right distance--but then I wonder what Latitude or Longitude I've got to?' (Alice had no idea what Latitude was, or Longitude either, but thought they were nice grand words to say .)
+    The Three Amigos!
 
-    Presently she began again. 'I wonder if I shall fall right through the earth! How funny it'll seem to come out among the people that walk with their heads downward! The Antipathies, I think--' (she was rather glad there was no one listening, this time, as it didn't sound at all the right word) '--but I shall have to ask them what the name of the country is, you know. Please, Ma' am, is this New Zealand or Australia?' (and she tried to curtsey as she spoke-- fancy curtseying as you're falling through the air! Do you think you could manage it?) 'And what an ignorant little girl she'll think me for asking! No, it'll never do to ask: perhaps I shall see it written up somewhere.'
+    **What is the best gift you've ever received?**
 
-    Down, down, down. There was nothing else to do, so Alice soon began talking again. 'Dinah'll miss me very much to-night, I should think!' (Dinah was the cat.) 'I hope they'll remember her saucer of milk at tea-time. Dinah my dear! I wish you were down here with me! There are no mice in the air, I'm afraid, but you might catch a bat, and that's very like a mouse, you know. But do cats eat bats, I wonder?' And here Alice began to get rather sleepy, and went on saying to herself, in a dreamy sort of way, `Do cats eat bats? Do cats eat bats?' and sometimes, 'Do bats eat cats?' for, you see, as she couldn't answer either question, it didn't much matter which way she put it. She felt that she was dozing off, and had just begun to dream that she was walking hand in hand with Dinah, and saying to her very earnestly, 'Now, Dinah, tell me the truth: did you ever eat a bat?' when suddenly, thump! thump! down she came upon a heap of sticks and dry leaves, and the fall was over.
+    The opportunity to work out with Colgan.
 
-    Alice was not a bit hurt, and she jumped up on to her feet in a moment: she looked up, but it was all dark overhead; before her was another long passage, and the White Rabbit was still in sight, hurrying down it. There was not a moment to be lost: away went Alice like the wind, and was just in time to hear it say, as it turned a corner, 'Oh my ears and whiskers, how late it's getting!' She was close behind it when she turned the corner, but the Rabbit was no longer to be seen: she found herself in a long, low hall, which was lit up by a row of lamps hanging from the roof.
+    **Who is your hero?**
 
-    There were doors all round the hall, but they were all locked; and when Alice had been all the way down one side and up the other, trying every door, she walked sadly down the middle, wondering how she was ever to get out again.
+    Notorious RBG (yes I’m a lawyer nerd)
 
-    Suddenly she came upon a little three-legged table, all made of solid glass; there was nothing on it except a tiny golden key, and Alice's first thought was that it might belong to one of the doors of the hall; but, alas! either the locks were too large, or the key was too small, but at any rate it would not open any of them. However, on the second time round, she came upon a low curtain she had not noticed before, and behind it was a little door about fifteen inches high: she tried the little golden key in the lock, and to her great delight it fitted!
+    **What's something we don't know about you?**
 
-    Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw. How she longed to get out of that dark hall, and wander about among those beds of bright flowers and those cool fountains, but she could not even get her head though the doorway; 'and even if my head would go through,' thought poor Alice, 'it would be of very little use without my shoulders. Oh, how I wish I could shut up like a telescope! I think I could, if I only know how to begin.' For, you see, so many out-of-the-way things had happened lately, that Alice had begun to think that very few things indeed were really impossible.
+    I can solve a rubik’s cube \*without\* peeling the stickers off
 
-     There seemed to be no use in waiting by the little door, so she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting people up like telescopes: this time she found a little bottle on it, ('which certainly was not here before,' said Alice,) and round the neck of the bottle was a paper label, with the words 'DRINK ME' beautifully printed on it in large letters.
+    **What are two pet peeves?**
 
-    It was all very well to say 'Drink me,' but the wise little Alice was not going to do that in a hurry. 'No, I'll look first,' she said, 'and see whether it's marked "poison" or not'; for she had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant things, all because they would not remember the simple rules their friends had taught them: such as, that a red-hot poker will burn you if you hold it too long; and that if you cut your finger very deeply with a knife, it usually bleeds; and she had never forgotten that, if you drink much from a bottle marked `poison,' it is almost certain to disagree with you, sooner or later.
+    Excessive use’s of apostrophe’s and when Mike Whalen goes to any class besides 6:30am
 
-    However, this bottle was NOT marked 'poison,' so Alice ventured to taste it, and finding it very nice, (it had, in fact, a sort of mixed flavour of cherry- tart, custard, pine-apple, roast turkey, toffee, and hot buttered toast,) she very soon finished it off.
+    **Favorite CrossFit movement?**
 
-    'What a curious feeling!' said Alice; 'I must be shutting up like a telescope .'
+    ROWING
 
-    And so it was indeed: she was now only ten inches high, and her face brightened up at the thought that she was now the right size for going though the little door into that lovely garden. First, however, she waited for a few minutes to see if she was going to shrink any further: she felt a little nervous about this; 'for it might end, you know,' said Alice to herself, 'in my going out altogether, like a candle. I wonder what I should be like then?' And she tried to fancy what the flame of a candle is like after the candle is blown out, for she could not remember ever having seen such a thing.
+    **Favorite CrossFit WOD?**
 
-    After a while, finding that nothing more happened, she decided on going into the garden at once; but, alas for poor Alice! when she got to the door, she found he had forgotten the little golden key, and when she went back to the table for it, she found she could not possibly reach it: she could see it quite plainly through the glass, and she tried her best to climb up one of the legs of the table, but it was too slippery; and when she had tired herself out with trying, the poor little thing sat down and cried.
+    ROWING
 
-    'Come, there's no use in crying like that!' said Alice to herself, rather sharply; 'I advise you to leave off this minute!' She generally gave herself very good advice, (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes; and once she remembered trying to box her own ears for having cheated herself in a game of croquet she was playing against herself, for this curious child was very fond of pretending to be two people. `But it's no use now,' thought poor Alice, 'to pretend to be two people! Why, there's hardly enough of me left to make ONE respectable person!'
+    **Anything else you'd like to share?**
 
-    Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words `EAT ME' were beautifully marked in currants. 'Well, I'll eat it,' said Alice, 'and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door; so either way I'll get into the garden, and I don't care which happens!'
-
-    She ate a little bit, and said anxiously to herself, 'Which way? Which way?', holding her hand on the top of her head to feel which way it was growing, and she was quite surprised to find that she remained the same size: to be sure, this generally happens when one eats cake, but Alice had got so much into the way of expecting nothing but out-of-the-way things to happen, that it seemed quite dull and stupid for life to go on in the common way.
-
-    So she set to work, and very soon finished off the cake.
+    That’s what she said.
   featured_image:
     sys:
-      id: bXvdSYHB3Guy2uUmuEco8
-      created_at: !ruby/object:DateTime 2018-02-18 17:16:54.687000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-18 17:16:54.687000000 Z
-    title: Alice in Wonderland
+      id: 36FMzRF5qoUeWOSYuakMSq
+      created_at: !ruby/object:DateTime 2018-02-24 21:23:38.299000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 21:23:38.299000000 Z
+    title: 13906636 1090769924334073 6257749024098892694 n
     description: 
-    url: "//images.contentful.com/ctmmyckif2fs/bXvdSYHB3Guy2uUmuEco8/bf8e90962701acda5f785ee00663cefd/alice-in-wonderland.gif"
+    url: "//images.contentful.com/ctmmyckif2fs/36FMzRF5qoUeWOSYuakMSq/fcc4b5a4cbcc8e481ae5d6f06e88b369/13906636_1090769924334073_6257749024098892694_n.jpg"
   author:
     sys:
       id: 37TyZJB8buu0CeqEgcOYuS
@@ -214,55 +547,208 @@
       content_type_id: category
     name: Featured Athlete
     slug: featured-athlete
-  tags:
-  - Literature
-  - fantasy
-  - children
-  - novel
-  - fiction
-  - animals
-  - rabbit
-  - girl
-  date: !ruby/object:DateTime 1865-11-26 00:00:00.000000000 Z
-  slug: down-the-rabbit-hole
-category:
+  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
+  slug: athlete-profile-jenny-beene-skuban
 - sys:
-    id: 4hTMi0NG9WcusWCiiKKCK6
-    created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-    content_type_id: category
-  name: Featured Athlete
-  slug: featured-athlete
+    id: 7encPoOvvyyqikA6qMYAco
+    created_at: !ruby/object:DateTime 2018-02-24 21:15:00.891000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-24 21:28:21.813000000 Z
+    content_type_id: post
+  title: Programming Preview 2/19
+  body: |-
+    The Open is officially here. Check out the programming preview to see what's in store for you this week. If this is your first Open get ready for some good ol' fashioned blood, sweat and tears over the next few weeks.
+
+    <a href="https://www.youtube.com/embed/wJIVx45Qrb4" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/embed/wJIVx45Qrb4</a>
+  featured_image:
+    sys:
+      id: 5IrsiVOVkkw4gCkiwAecUy
+      created_at: !ruby/object:DateTime 2018-02-24 21:14:11.542000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 21:14:11.542000000 Z
+    title: 22886209 1511593425585052 1155380533416304955 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/5IrsiVOVkkw4gCkiwAecUy/b5025793f59bc53bd4e8d972ee7813f8/22886209_1511593425585052_1155380533416304955_n.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.contentful.com/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 25qMMuioYAQyu2c46qg2Ki
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      content_type_id: category
+    name: Gym News
+    slug: gym-news
+  date: !ruby/object:DateTime 2018-02-18 00:00:00.000000000 -05:00
+  slug: programming-preview-2-19
+testimonials:
 - sys:
-    id: 25qMMuioYAQyu2c46qg2Ki
-    created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-    content_type_id: category
-  name: Gym News
-  slug: gym-news
-- sys:
-    id: 6LVaTXj0l2k2w0g0Q6WCiA
-    created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-    content_type_id: category
-  name: Coaches Corner
-  slug: coaches-corner
-author:
-- sys:
-    id: 37TyZJB8buu0CeqEgcOYuS
-    created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-    content_type_id: author
-  name: Jarrett Baston
+    id: 1PIC7doLiweC6EWEy802Oy
+    created_at: !ruby/object:DateTime 2018-02-25 19:58:51.011000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 19:58:51.011000000 Z
+    content_type_id: testimonials
+  name: Kathy Laws
+  subtitle: Defies the rules
+  body: '<a href="https://www.youtube.com/watch?v=sU-Z95b1x-4" class="embedly-card"
+    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=sU-Z95b1x-4</a>'
   profile_image:
     sys:
-      id: 75DgW8T6tGkcOsOWmcoCG6
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-    title: Jarrett-Baston
-    description: Jarrett Baston
-    url: "//images.contentful.com/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-  slug: jarrett-baston
+      id: 2kDyYjN3kMWIEqCOuEUkaS
+      created_at: !ruby/object:DateTime 2018-02-25 19:58:41.951000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 19:58:41.951000000 Z
+    title: 1116068 10201393439665170 1198181197 o
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/2kDyYjN3kMWIEqCOuEUkaS/1bc8948ca1612cae1854a4d0cd0b947d/1116068_10201393439665170_1198181197_o.jpg"
+  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
+  slug: kathy-laws
+- sys:
+    id: 2ac2e5HTyQ8KOSIee46c8k
+    created_at: !ruby/object:DateTime 2018-02-25 19:50:18.901000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 19:50:18.901000000 Z
+    content_type_id: testimonials
+  name: Suzanne Fernbach
+  subtitle: Never gives up
+  body: '<a href="https://www.youtube.com/watch?time_continue=19&v=LqVVGlLRqrg" class="embedly-card"
+    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?time_continue=19&v=LqVVGlLRqrg</a>'
+  profile_image:
+    sys:
+      id: 1D8tXQklGsUiaGSAAEG8KE
+      created_at: !ruby/object:DateTime 2018-02-25 19:50:05.758000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 19:50:05.758000000 Z
+    title: 1551581 10204550986443487 3377037807497003843 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/1D8tXQklGsUiaGSAAEG8KE/af621c1480c30a865b4e50916aa8b4ff/1551581_10204550986443487_3377037807497003843_n.jpg"
+  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
+  slug: suzanne-fernbach
+- sys:
+    id: 464u14RIFiawMicOSoOCAM
+    created_at: !ruby/object:DateTime 2018-02-25 20:04:12.133000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 20:04:12.133000000 Z
+    content_type_id: testimonials
+  name: Jeff Ryan
+  subtitle: Outlifts challenges
+  body: |-
+    My main goal is to retire in 10 years and do a lot of the things I have missed out on or put off while pursuing the American Dream. It wasn’t until my last doctor’s appointment for a checkup that the proverbial light went on. Isn’t that always the way?
+
+    He explained that the constant stress of my job combined with a crappy diet and no exercise are going to end up killing me. He wasn’t talking about ten or fifteen years, he was talking between one and three. Combine that with the news I received six months ago, a diagnoses of a chronic and incurable disease, and I walked out of his office with a whole new outlook on my life. I actually Googled P90X when I got to my office. While surfing around on the net, I stumbled upon this thing called CrossFit. For some reason, that looked a hell of a lot more exciting than anything else so I told my wife I was going to try that.
+
+    You guys have been a Godsend to me. I sincerely mean that. The other places threw me right into the fray. I had no idea what I was doing at all. The only thing I did know was I sucked really, really bad. You were the first Box that had a mandatory introductory class. It was great.
+
+    The Coaches at Triumph are what make the place special. I came through those overhead garage doors about four or five months ago with no idea what I was getting into. You guys took great care in guiding me through the CrossFit experience right from the very beginning. The beginner’s classes are a great way to get acclimated to this experience.
+
+    A big thing that I like is you guys push me. Especially Chris. He’s the one I’m most familiar with since he does the majority of the morning classes. When I utter something evenly remotely along the lines of “I’m not sure I can do that,” he makes me do it. I’m glad he does, too. I’m doing things I never thought I would do at this age. Not to beat the proverbial dead horse but I’ll be 52 in September, and I’m trying to do Toes to Bar! Who would have thunk it?
+
+    I’ve lost weight, which is something I have wanted to do for years. I’m stronger in numerous ways than I was when I first showed up. I eat much better thanks to Keith’s suggestions. I’m not gasping for air during the warmups anymore, either. Another really noticeable improvement is my ability to do my job better. Part of my job requires that I be present on job sites for projects. This usually involves a lot of climbing and lifting various items. I am not nearly as worn out and I can climb and move around much, much better.
+
+    By and large, every person that comes in to train is there to give it their all. Each and every person just impresses the hell out of me. I’m still at the stage where I can watch anyone there and be inspired. I guess it might be easier to put it this way. When you are doing burpees or wall-balls as part of a METCON (and I am terrible at burpees), it would be easy to stop at 18 instead of 21, however, you can’t. All of those other people are doing the METCON properly, and if I were to cheat on some reps, I would feel like I was cheating on the whole group. That is a powerful motivator.
+
+    My favorite thing is the fist-bump and the WODIFY. Being a newcomer to Triumph is really like any other group type activity. When you show up, everyone is nice and polite and helpful but you know intuitively that you are not yet part of “the group.” For me, I felt like part of “the group” as it were, when one of those big young guys, I’m not sure which one, gave me a fist bump after we were finished and said “good job.” That was progress! Then when we were told we must sign in on WODIFY, I did and I started logging my results. One day, out of the blue, I get this notification that Becca and Vicky “liked” something or other on my results. I thought, wow, if those two think I’m doing ok, I must be doing something right. That was like a first fist bump all over again.
+  profile_image:
+    sys:
+      id: 3ye7nZaWcwAmOSKQ4mkAI0
+      created_at: !ruby/object:DateTime 2018-02-25 20:04:04.418000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 20:04:04.418000000 Z
+    title: 23416456 1902792749734934 1016521748536885248 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/3ye7nZaWcwAmOSKQ4mkAI0/6f0c61f256df51c79bbc83e6eefa2fdc/23416456_1902792749734934_1016521748536885248_n.jpg"
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+  slug: jeff-ryan
+- sys:
+    id: 2xb1x0z1aYGQG4Yims8gIC
+    created_at: !ruby/object:DateTime 2018-02-25 20:00:52.685000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 20:15:22.839000000 Z
+    content_type_id: testimonials
+  name: Crystal Warner
+  subtitle: Gives more than takes
+  body: |-
+    In July, I decided to give CrossFit a try, something I had always been interested in, but had always allowed FEAR (False Evidence Appearing Real) to hold me back. Would I be strong enough? Would people laugh at me? Would I be able to even do such a program as CrossFit?
+
+    Despite my reservations, I decided to contact Triumph and go with it! I remember showing up for my first class not really knowing what to expect. Let’s face it, I was terrified! I walked away different! During that class, I witnessed everyone cheering one another on, encouraging one another, celebrating someone hitting a PR, and picking up others who were falling a bit short on that day.
+
+    I loved the camaraderie that existed in that BOX and still do! The coaches are not only knowledgeable but passionate athletes that are dedicated to each person’s success, and they push you every day to be your personal best!! A big thanks to the coaches for all their support and the examples they set for us all. Your coaching, inspiration, and guidance make a difference in the lives of so many, and you have made an irreversible difference in mine!
+
+    That day I walked into Triumph has changed my life in more ways than I could’ve imagined in such a short period of time. CrossFit has given me so much more than fitness. I always have a sense of accomplishment after class, and I carry that with me throughout the day. I have the courage to take risks without fear. It has taught me that I can push myself beyond what I ever believed possible. CrossFit has totally redefined my definition of fitness. It’s fun, exciting, challenging, and humbling. I’ve set goals and priorities for myself and there is no stopping me! I’m looking forward to seeing where this CrossFit journey takes me!
+  profile_image:
+    sys:
+      id: 3VyEasf2XuS2CWowU4a8eu
+      created_at: !ruby/object:DateTime 2018-02-25 20:00:44.577000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 20:00:44.577000000 Z
+    title: 946145 10209052633658755 2640718070601360147 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/3VyEasf2XuS2CWowU4a8eu/b3f6f6827e401342ec3c72477c5fb352/946145_10209052633658755_2640718070601360147_n.jpg"
+  date: !ruby/object:DateTime 2018-02-13 00:00:00.000000000 -05:00
+  slug: crystal-warner
+- sys:
+    id: 5BZK9CdtJYyygYaimKSk2I
+    created_at: !ruby/object:DateTime 2018-02-25 19:54:04.977000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 19:54:04.977000000 Z
+    content_type_id: testimonials
+  name: Vicky Bolger
+  subtitle: Blissfully Unraveled
+  body: '<a href="https://www.youtube.com/watch?v=D86Rutc0BLM" class="embedly-card"
+    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=D86Rutc0BLM</a>'
+  profile_image:
+    sys:
+      id: 5msxhXkifSk80yuu2a0aeC
+      created_at: !ruby/object:DateTime 2018-02-25 19:53:55.499000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 19:53:55.499000000 Z
+    title: 11377381 10206045030578712 8529809396349289368 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/5msxhXkifSk80yuu2a0aeC/4675e2ead217fa136c176adcef847a66/11377381_10206045030578712_8529809396349289368_n.jpg"
+  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
+  slug: vicky-bolger
+- sys:
+    id: 1L2vUMjyOkYo4CIImaeQqm
+    created_at: !ruby/object:DateTime 2018-02-25 20:05:45.187000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 20:05:45.187000000 Z
+    content_type_id: testimonials
+  name: Heather Goldsberry
+  subtitle: Keeps on going
+  body: |-
+    Honestly, my goals in life are simple. I always wanted to be a good wife, good mother and a good example to all of those around me. In doing all of that, I need to be able to be strong mentally, physically, spiritually and emotionally.
+
+    Being a part of Triumph is, well, totally awesome. First, it definitely helps me be the best me I can be for my family. It has increased my mental toughness by leaps and bounds. I’ve learned day in and day out by walking into Triumph that it’s up to me to decide what I can and can’t do. Sometimes it doesn’t happen that day, but it’s no reason to give up.
+
+    I can remember in my early CrossFit days seeing the things that people would do and I thought to myself “Holy crap! I’ll never be able to do that.” But, little by little, I’ve seen myself inch closer and closer to those goals and in some cases pass them. In some cases, I just needed a coach to tell me to pick up the bar one more time and try again. I needed someone else to show me they had confidence in me when I wasn’t quite sure. Sometimes it was staying after class to work on that first pull-up or try that failed clean and jerk for a new PR AFTER time expired during the first open workout this year.
+
+    Second, Triumph helps me be a good example to my family. A little over seven years ago the only time you would have heard my name and exercise in the same sentence was to hear “Heather doesn’t exercise.” I got to a point where I needed to make some changes. Some changes are still being made but my kids see the difference in me physically and mentally, and they actually ask me to work out with them. Both of them have participated in the CrossFit Kids classes as well. My husband, despite being a farmer all his life and being physically active in that aspect, also realizes it’s sometimes necessary to make changes as you get older. Together, we all try to be a little more active and better eaters to become a better US. MISSION ACCOMPLISHED!!!
+
+    So yes, Triumph has helped me achieve my goals and create new ones as I go. Ironically, I’ve had to modify some of my goals due to some minor physical setbacks, and the coaches have helped me see and understand that the ultimate goal is to stay healthy and safe and have helped me modify my workouts when needed.
+
+    One of my biggest improvements has been mental. Instead of telling myself I can’t do something, I ask myself “Why not? Why can’t I do a muscle-up? Why should I let numbers on weights tell me I can or can’t. They are just numbers, but I’m boss of my destiny in that gym.” It’s made me realize that at any given time, I am where I never thought I would be several years ago when I started CrossFit, but I’m also where somebody else thinks they can’t be today.
+
+    Almost three years ago I was invited to a free Saturday class (thanks Whitney Rich) when Triumph (UMPH at the time) was just getting started. That day was all it took. I was hooked. I was diligent for 3-4 months but then the busy season of my work got in my way. Then, out of the blue, I started to connect with more and more people. For me, it became the unofficial buddy system. People would ask where I was or reach out to make sure everything was ok. It made me feel like people cared. It’s been a snowball effect ever since.
+
+    I feel like the community is a just that: a community. There are so many different types of people from so many different walks of life that I never would have met otherwise. I can’t imagine not being associated with and knowing these people who are such a huge part of my life right now. Honestly, it’s sometimes the thought of just walking in there to see all the people that gives me the motivation to go.
+
+    In case, you can’t already tell, I kind of like this place … a little. Who am I kidding? I LOVE this place … A LOT. Other than the community vibe and helping make me a better person, my favorite thing about Triumph is the coaches. It is amazing to watch each of the coaches work out, sometimes multiple times a day. I’m amazed at all they are capable of, which really shouldn’t be a surprise. What stands out in my mind is, on more occasions than I can count, watching them not only tell us the workout but doing it right alongside the very athletes they train.
+
+    To prove my point, I was looking for a partner for a competition last fall. I just threw it out there on Facebook. The first person to agree to be my partner was none other than one of our fabulous coaches, Chris Lemmel. I often asked myself if he knew what he was getting himself into, and then I started to wonder about what I had gotten myself into. Here’s what I found out: Chris only wanted me to be the best that I could be that day. He didn’t ask me to be the best that HE could be that day. He also didn’t “trump” my thoughts on how to tackle something or tell me I needed to do something that I wasn’t comfortable doing (those darn box jumps). We made decisions as a team. At that point in time, him believing in me enough to stand beside me as my partner was what I needed at that time.
+
+    Lastly, one of my favorite things about the coaches is their desire and willingness to create bonds with the members and keep the future bright. They are always looking for ways to keep members engaged (whether it’s socially, from a goal perspective or from a personal perspective). They are constantly looking to make things better for all members (present and future). I feel like they often know if I’m having a bad day before I do. They like me for me and just want me to be the best me I can be and want to help me get there safely.
+  profile_image:
+    sys:
+      id: 3jgDClOusEiWyiMYoqaII4
+      created_at: !ruby/object:DateTime 2018-02-25 20:05:38.308000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 20:05:38.308000000 Z
+    title: 10857916 903426409675992 4062297024879830736 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/3jgDClOusEiWyiMYoqaII4/fcc258321b725e3d115fe8c8319ab6cc/10857916_903426409675992_4062297024879830736_n.jpg"
+  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
+  slug: heather-goldsberry
+author:
 - sys:
     id: 31GAZQYq3u0SMo4mm2S8O8
     created_at: !ruby/object:DateTime 2018-02-19 03:29:54.600000000 Z
@@ -278,3 +764,48 @@ author:
     description: Mark McCain
     url: "//images.contentful.com/ctmmyckif2fs/6LZE8SkAF2c6gKWSwgSyIq/bf8e90962701acda5f785ee00663cefd/Mark-McCain.jpg"
   slug: mark-mccain
+- sys:
+    id: 37TyZJB8buu0CeqEgcOYuS
+    created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+    content_type_id: author
+  name: Jarrett Baston
+  profile_image:
+    sys:
+      id: 75DgW8T6tGkcOsOWmcoCG6
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+    title: Jarrett-Baston
+    description: Jarrett Baston
+    url: "//images.contentful.com/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+  slug: jarrett-baston
+podcast:
+- sys:
+    id: 1RhzGcTkEgMysC2wsccmQQ
+    created_at: !ruby/object:DateTime 2018-02-24 21:09:31.483000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 21:56:11.007000000 Z
+    content_type_id: podcast
+  title: 'Everyday Athlete: Ep. 32 Jayne Collins'
+  description: Jayne Collins sits down with us this week as we talk about her beginnings
+    in gymnastics and diving and how they have both transferred and hindered her in
+    the sport of CrossFit.
+  video_link: https://www.youtube.com/watch?v=5WCl3nUzVUE
+  audio_link: https://soundcloud.com/user-4939135/everyday-athlete-ep-32-jayne-collins
+  featured_image:
+    sys:
+      id: 5iQAgbVScMI6O6uG2egEyi
+      created_at: !ruby/object:DateTime 2018-02-25 21:55:46.027000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 21:55:46.027000000 Z
+    title: EA Youtube JayneCollins-1038x576
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/5iQAgbVScMI6O6uG2egEyi/2cebe3b80b67a61570f47e2851d68dda/EA_Youtube_JayneCollins-1038x576.jpg"
+  category:
+  - sys:
+      id: 3d8Q1ODKusYmIYaOM8qOy
+      created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+      content_type_id: category
+    name: 'Podcast: Everyday Athelete'
+    slug: podcast-everyday-athelete
+  slug: everyday-athlete-ep-32-jayne-collins
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00

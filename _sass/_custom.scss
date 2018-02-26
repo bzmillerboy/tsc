@@ -89,3 +89,30 @@ footer .accretion-logo svg {
   margin-right: auto;
   float: initial;
 }
+
+.v-hidden {
+  visibility: hidden;
+}
+
+@media (max-width: 575px) {
+  .toggle.toggle-bg .togglec {
+    padding: 12px 0 0 0;
+  }
+}
+
+.schedule {
+  .table-bordered thead th, .table-bordered thead td {
+    min-width: 100px;
+  }
+}
+
+.vertical-center {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.slider-parallax-inner {
+  min-height: 500px;
+  min-height: 100vh;
+}
