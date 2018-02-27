@@ -1,5 +1,144 @@
 ---
+author:
+- sys:
+    id: 37TyZJB8buu0CeqEgcOYuS
+    created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+    content_type_id: author
+  name: Jarrett Baston
+  profile_image:
+    sys:
+      id: 75DgW8T6tGkcOsOWmcoCG6
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+    title: Jarrett-Baston
+    description: Jarrett Baston
+    url: "//images.contentful.com/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+  slug: jarrett-baston
+- sys:
+    id: 31GAZQYq3u0SMo4mm2S8O8
+    created_at: !ruby/object:DateTime 2018-02-19 03:29:54.600000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:29:54.600000000 Z
+    content_type_id: author
+  name: Mark McCain
+  profile_image:
+    sys:
+      id: 6LZE8SkAF2c6gKWSwgSyIq
+      created_at: !ruby/object:DateTime 2018-02-19 03:29:48.781000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:29:48.781000000 Z
+    title: Mark McCain
+    description: Mark McCain
+    url: "//images.contentful.com/ctmmyckif2fs/6LZE8SkAF2c6gKWSwgSyIq/bf8e90962701acda5f785ee00663cefd/Mark-McCain.jpg"
+  slug: mark-mccain
+category:
+- sys:
+    id: 6LVaTXj0l2k2w0g0Q6WCiA
+    created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+    content_type_id: category
+  name: Coaches Corner
+  slug: coaches-corner
+- sys:
+    id: 25qMMuioYAQyu2c46qg2Ki
+    created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+    content_type_id: category
+  name: Gym News
+  slug: gym-news
+- sys:
+    id: 3d8Q1ODKusYmIYaOM8qOy
+    created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+    content_type_id: category
+  name: 'Podcast: Everyday Athelete'
+  slug: podcast-everyday-athelete
+- sys:
+    id: 4RIo8OQ5ygYuEkMQOyOgoI
+    created_at: !ruby/object:DateTime 2018-02-19 06:17:32.665000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 06:17:32.665000000 Z
+    content_type_id: category
+  name: Lastest WOD
+  slug: lastest-wod
+- sys:
+    id: 6sU7yeWA9iQ60yquUGm0ss
+    created_at: !ruby/object:DateTime 2018-02-19 06:17:12.010000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 06:17:12.010000000 Z
+    content_type_id: category
+  name: Nutrition
+  slug: nutrition
+- sys:
+    id: 4hTMi0NG9WcusWCiiKKCK6
+    created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+    content_type_id: category
+  name: Featured Athlete
+  slug: featured-athlete
 page:
+- sys:
+    id: 3CfvjLdfgAa4GiSoGsOuaA
+    created_at: !ruby/object:DateTime 2018-02-25 04:45:50.693000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:45:50.693000000 Z
+    content_type_id: page
+  title: Programs
+  sub_title: Designed for lifetime health and fitness.
+  body: "At Triumph Strength & Conditioning, we’re all about you. We’ve designed our
+    classes to help you meet your goals for lifetime health and fitness and have a
+    great time doing it!\n\n## Fundamentals Class\nThe Fundamentals Course is designed
+    to set you up for success in a safe and confident environment prior to entering
+    our regular classes. You’ll learn what CrossFit is and why it is a great way to
+    get you fit for life and other endeavors. These 6 small-group classes (which are
+    required for everyone who has never tried CrossFit before) teach you all the basics
+    to get you ready for the intensity of CrossFit. Come prepared to learn new skills
+    and sweat a little. [Learn More](https://triumphstrength.net/fundamentals)\n\n##
+    CrossFit Class\nBased on the CrossFit prescription of “constantly varied functional
+    movement executed at high intensity,” our CrossFit program combines strength training
+    with the “classic” CrossFit cardio workout. For this class, you could be working
+    on pull-ups, rowing, burpees and much more. Every WOD is different so you never
+    get bored! We scale each workout to your fitness level, so you get the maximum
+    workout every time. [Learn More](https://triumphstrength.net/crossfit)\n\n## Personal
+    Training\nIn today’s busy world, it’s hard to find the time to get regular exercise.
+    So it’s important to make the most of the time you have. CrossFit Accretion offers
+    a wide range of personal workout programs to help you achieve your ideal body.
+    Your personal trainer will develop an exercise regimen suited specifically for
+    you, whether your goal is to gain muscle or lose weight. \n\n## Barbell Club\nThe
+    Triumph Barbell Club follows set cycles ranging from the introductory level to
+    more advanced cycles prepping lifters for WODs or competition. Whether you’re
+    looking to improve your technique and strength or want to pursue lifting as a
+    sport, this barbell class is for you. [Learn More](https://triumphstrength.net/barbell-club)\n\n##
+    Nutritional Guidance\nThe best workout in the world won’t work without the right
+    nutrition. We’ll help you find the right diet for your body type, goals, and particular
+    health needs. If you’re struggling with certain health issues, or even if you
+    feel “perfectly healthy,” nutritional guidance is critical to your success in
+    fitness and health.\n\n"
+  featured_image:
+    sys:
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: programs
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+- sys:
+    id: guuK2j30M800mA4QA8yk2
+    created_at: !ruby/object:DateTime 2018-02-25 04:15:50.554000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:15:50.554000000 Z
+    content_type_id: page
+  title: Open Gym
+  sub_title: Every Sunday. Come work on your weakness.
+  body: We host open gym every sunday from 2pm to 4pm. Come in and make up your own
+    workout or focus on a movement. They gym is yours.
+  featured_image:
+    sys:
+      id: 4J4NNfdXU4iA04aieM0oG4
+      created_at: !ruby/object:DateTime 2018-02-25 04:15:33.232000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 04:15:33.232000000 Z
+    title: open-gym-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/4J4NNfdXU4iA04aieM0oG4/ff92f3b23c9afd85f03e631b8656da4c/open-gym-bg.jpg"
+  slug: open
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
 - sys:
     id: 5T4giVRj9KkWwIoQesCqcU
     created_at: !ruby/object:DateTime 2018-02-25 03:38:58.897000000 Z
@@ -24,23 +163,75 @@ page:
   slug: crossfit
   date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
 - sys:
-    id: guuK2j30M800mA4QA8yk2
-    created_at: !ruby/object:DateTime 2018-02-25 04:15:50.554000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 04:15:50.554000000 Z
+    id: tuFOb0hI40GCky0g2Agc
+    created_at: !ruby/object:DateTime 2018-02-25 03:50:09.132000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 03:50:09.132000000 Z
     content_type_id: page
-  title: Open Gym
-  sub_title: Every Sunday. Come work on your weakness.
-  body: We host open gym every sunday from 2pm to 4pm. Come in and make up your own
-    workout or focus on a movement. They gym is yours.
+  title: Fundamentals
+  sub_title: Designed to set you up for success.
+  body: The Fundamentals Course is designed to set you up for success in a safe and
+    confident environment prior to entering our regular classes. You’ll learn what
+    CrossFit is and why it is a great way to get you fit for life and other endeavors.
+    These 6 small-group classes (which are required for everyone who has never tried
+    CrossFit before) teach you all the basics to get you ready for the intensity of
+    CrossFit. Come prepared to learn new skills and sweat a little.
   featured_image:
     sys:
-      id: 4J4NNfdXU4iA04aieM0oG4
-      created_at: !ruby/object:DateTime 2018-02-25 04:15:33.232000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 04:15:33.232000000 Z
-    title: open-gym-bg
+      id: 41nswb78Na0YIySQeIaAOI
+      created_at: !ruby/object:DateTime 2018-02-25 03:49:59.470000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 03:49:59.470000000 Z
+    title: fundamentals-bg
     description: 
-    url: "//images.contentful.com/ctmmyckif2fs/4J4NNfdXU4iA04aieM0oG4/ff92f3b23c9afd85f03e631b8656da4c/open-gym-bg.jpg"
-  slug: open
+    url: "//images.contentful.com/ctmmyckif2fs/41nswb78Na0YIySQeIaAOI/fbddadee1ac318cd7cdb35e42b966b03/fundamentals-bg.jpg"
+  slug: fundamentals
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 54fEqNiCScS6UqsauqyaQe
+    created_at: !ruby/object:DateTime 2018-02-25 04:11:19.723000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:11:19.723000000 Z
+    content_type_id: page
+  title: Family Class
+  sub_title: Because your kids want to CrossFit too.
+  body: We offer family classes at 9:00am every Saturday. Bring your kids and we'll
+    cater a workout just for them. It's fun and a great way to get your entire family
+    out and moving.
+  featured_image:
+    sys:
+      id: 1nxOht8mUASq8OSg6QEOCu
+      created_at: !ruby/object:DateTime 2018-02-25 04:11:30.078000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 04:11:30.078000000 Z
+    title: family-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/1nxOht8mUASq8OSg6QEOCu/dfa21fa5d6ed5f656147904d8ad12a82/family-bg.jpg"
+  slug: family
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 6oV7ONvcJiOYwWA6qAEQa6
+    created_at: !ruby/object:DateTime 2018-02-25 03:59:49.017000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 03:59:49.017000000 Z
+    content_type_id: page
+  title: Spartan SGX
+  sub_title: Spartan training builds complete fitness.
+  body: |-
+    SGX is Spartan’s official training program and the leader in obstacle race fitness. SGX is designed for every fitness level and any age, a scientifically-supported solution to get anyone physically and mentally prepared for a Spartan Race, or to live more vitally. SGX is grounded in functional bodyweight exercise to improve agility, athleticism and power; the workouts are progressive, varying in exercise volume, intensity and specificity over time. SGX is also about empowerment. Coaches are trained to help people improve their nutritional and lifestyle habits and self-efficacy, all critical to success in the race and in daily life.
+
+    Because participating in a Spartan Race requires all-around fitness, SGX training necessarily develops well-rounded athletes. Because every Spartan Race is different, SGX training builds the transformational capability to take on whatever challenge arises.
+
+    SGX training will benefit you on the race course or on the soccer field, at the box or at the yoga studio, on the track or on the trail, at work and at home, and in how you feel every day.
+
+    Find an SGX coach, or experience SGX firsthand at our one-day obstacle race prep class Spartan Obstacle Specialist.
+
+
+    ### [Inquire about Spartan Training](https://triumphstrength.net/contact)
+  featured_image:
+    sys:
+      id: 9wSNAKdQswum4ky02SUoW
+      created_at: !ruby/object:DateTime 2018-02-25 03:59:34.422000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 03:59:34.422000000 Z
+    title: spartansgx-bg
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/9wSNAKdQswum4ky02SUoW/8ae890616c0d0852196f4526a753cb12/spartansgx-bg.jpg"
+  slug: spartansgx
   date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
 - sys:
     id: 33AyohsyoMO6AUE66GAYAA
@@ -89,121 +280,6 @@ page:
   slug: 12-week-bootcamp-sweat
   date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
 - sys:
-    id: 3CfvjLdfgAa4GiSoGsOuaA
-    created_at: !ruby/object:DateTime 2018-02-25 04:45:50.693000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 04:45:50.693000000 Z
-    content_type_id: page
-  title: Programs
-  sub_title: Designed for lifetime health and fitness.
-  body: "At Triumph Strength & Conditioning, we’re all about you. We’ve designed our
-    classes to help you meet your goals for lifetime health and fitness and have a
-    great time doing it!\n\n## Fundamentals Class\nThe Fundamentals Course is designed
-    to set you up for success in a safe and confident environment prior to entering
-    our regular classes. You’ll learn what CrossFit is and why it is a great way to
-    get you fit for life and other endeavors. These 6 small-group classes (which are
-    required for everyone who has never tried CrossFit before) teach you all the basics
-    to get you ready for the intensity of CrossFit. Come prepared to learn new skills
-    and sweat a little. [Learn More](https://triumphstrength.net/fundamentals)\n\n##
-    CrossFit Class\nBased on the CrossFit prescription of “constantly varied functional
-    movement executed at high intensity,” our CrossFit program combines strength training
-    with the “classic” CrossFit cardio workout. For this class, you could be working
-    on pull-ups, rowing, burpees and much more. Every WOD is different so you never
-    get bored! We scale each workout to your fitness level, so you get the maximum
-    workout every time. [Learn More](https://triumphstrength.net/crossfit)\n\n## Personal
-    Training\nIn today’s busy world, it’s hard to find the time to get regular exercise.
-    So it’s important to make the most of the time you have. CrossFit Accretion offers
-    a wide range of personal workout programs to help you achieve your ideal body.
-    Your personal trainer will develop an exercise regimen suited specifically for
-    you, whether your goal is to gain muscle or lose weight. \n\n## Barbell Club\nThe
-    Triumph Barbell Club follows set cycles ranging from the introductory level to
-    more advanced cycles prepping lifters for WODs or competition. Whether you’re
-    looking to improve your technique and strength or want to pursue lifting as a
-    sport, this barbell class is for you. [Learn More](https://triumphstrength.net/barbell-club)\n\n##
-    Nutritional Guidance\nThe best workout in the world won’t work without the right
-    nutrition. We’ll help you find the right diet for your body type, goals, and particular
-    health needs. If you’re struggling with certain health issues, or even if you
-    feel “perfectly healthy,” nutritional guidance is critical to your success in
-    fitness and health.\n\n"
-  featured_image:
-    sys:
-      id: 2Te3QCAfpmYgayu0kCgS8Y
-      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-    title: contact-bg
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
-  slug: programs
-  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-- sys:
-    id: 6oV7ONvcJiOYwWA6qAEQa6
-    created_at: !ruby/object:DateTime 2018-02-25 03:59:49.017000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 03:59:49.017000000 Z
-    content_type_id: page
-  title: Spartan SGX
-  sub_title: Spartan training builds complete fitness.
-  body: |-
-    SGX is Spartan’s official training program and the leader in obstacle race fitness. SGX is designed for every fitness level and any age, a scientifically-supported solution to get anyone physically and mentally prepared for a Spartan Race, or to live more vitally. SGX is grounded in functional bodyweight exercise to improve agility, athleticism and power; the workouts are progressive, varying in exercise volume, intensity and specificity over time. SGX is also about empowerment. Coaches are trained to help people improve their nutritional and lifestyle habits and self-efficacy, all critical to success in the race and in daily life.
-
-    Because participating in a Spartan Race requires all-around fitness, SGX training necessarily develops well-rounded athletes. Because every Spartan Race is different, SGX training builds the transformational capability to take on whatever challenge arises.
-
-    SGX training will benefit you on the race course or on the soccer field, at the box or at the yoga studio, on the track or on the trail, at work and at home, and in how you feel every day.
-
-    Find an SGX coach, or experience SGX firsthand at our one-day obstacle race prep class Spartan Obstacle Specialist.
-
-
-    ### [Inquire about Spartan Training](https://triumphstrength.net/contact)
-  featured_image:
-    sys:
-      id: 9wSNAKdQswum4ky02SUoW
-      created_at: !ruby/object:DateTime 2018-02-25 03:59:34.422000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 03:59:34.422000000 Z
-    title: spartansgx-bg
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/9wSNAKdQswum4ky02SUoW/8ae890616c0d0852196f4526a753cb12/spartansgx-bg.jpg"
-  slug: spartansgx
-  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
-- sys:
-    id: 54fEqNiCScS6UqsauqyaQe
-    created_at: !ruby/object:DateTime 2018-02-25 04:11:19.723000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 04:11:19.723000000 Z
-    content_type_id: page
-  title: Family Class
-  sub_title: Because your kids want to CrossFit too.
-  body: We offer family classes at 9:00am every Saturday. Bring your kids and we'll
-    cater a workout just for them. It's fun and a great way to get your entire family
-    out and moving.
-  featured_image:
-    sys:
-      id: 1nxOht8mUASq8OSg6QEOCu
-      created_at: !ruby/object:DateTime 2018-02-25 04:11:30.078000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 04:11:30.078000000 Z
-    title: family-bg
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/1nxOht8mUASq8OSg6QEOCu/dfa21fa5d6ed5f656147904d8ad12a82/family-bg.jpg"
-  slug: family
-  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
-- sys:
-    id: 21tI2bgDeg0Eg86eiMuKC0
-    created_at: !ruby/object:DateTime 2018-02-25 04:47:43.826000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 04:47:43.826000000 Z
-    content_type_id: page
-  title: About
-  sub_title: Home of CrossFit Accretion
-  body: |-
-    Triumph Strength and Conditioning - Home of CrossFit Accretion holds our tight-knit community above everything else. Sure you'll find Florence's most highly trained coaches under this roof, but you'll also find our members going out of their way to welcome and support new clients and each other. We pride ourselves on making our box a clean place where you can obtain the guidance you need to begin changing your life forever.
-
-    Our functional and intense workouts are unmatched, and when paired with a solid nutritional foundation, you have the perfect combination for a healthier you. Our classes encourage the camaraderie that we're known for, which in turn drives the amazing results you'll soon experience. Find out what it means to Carry The Shield and join this amazing community today.
-  featured_image:
-    sys:
-      id: 2Te3QCAfpmYgayu0kCgS8Y
-      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-    title: contact-bg
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
-  slug: about
-  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
-- sys:
     id: 5benbMEbHGY82mwY0eQWOK
     created_at: !ruby/object:DateTime 2018-02-25 03:30:14.120000000 Z
     updated_at: !ruby/object:DateTime 2018-02-25 03:30:14.120000000 Z
@@ -239,490 +315,27 @@ page:
   slug: barbell-club
   date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
 - sys:
-    id: tuFOb0hI40GCky0g2Agc
-    created_at: !ruby/object:DateTime 2018-02-25 03:50:09.132000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 03:50:09.132000000 Z
+    id: 21tI2bgDeg0Eg86eiMuKC0
+    created_at: !ruby/object:DateTime 2018-02-25 04:47:43.826000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:47:43.826000000 Z
     content_type_id: page
-  title: Fundamentals
-  sub_title: Designed to set you up for success.
-  body: The Fundamentals Course is designed to set you up for success in a safe and
-    confident environment prior to entering our regular classes. You’ll learn what
-    CrossFit is and why it is a great way to get you fit for life and other endeavors.
-    These 6 small-group classes (which are required for everyone who has never tried
-    CrossFit before) teach you all the basics to get you ready for the intensity of
-    CrossFit. Come prepared to learn new skills and sweat a little.
+  title: About
+  sub_title: Home of CrossFit Accretion
+  body: |-
+    Triumph Strength and Conditioning - Home of CrossFit Accretion holds our tight-knit community above everything else. Sure you'll find Florence's most highly trained coaches under this roof, but you'll also find our members going out of their way to welcome and support new clients and each other. We pride ourselves on making our box a clean place where you can obtain the guidance you need to begin changing your life forever.
+
+    Our functional and intense workouts are unmatched, and when paired with a solid nutritional foundation, you have the perfect combination for a healthier you. Our classes encourage the camaraderie that we're known for, which in turn drives the amazing results you'll soon experience. Find out what it means to Carry The Shield and join this amazing community today.
   featured_image:
     sys:
-      id: 41nswb78Na0YIySQeIaAOI
-      created_at: !ruby/object:DateTime 2018-02-25 03:49:59.470000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 03:49:59.470000000 Z
-    title: fundamentals-bg
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
     description: 
-    url: "//images.contentful.com/ctmmyckif2fs/41nswb78Na0YIySQeIaAOI/fbddadee1ac318cd7cdb35e42b966b03/fundamentals-bg.jpg"
-  slug: fundamentals
+    url: "//images.contentful.com/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: about
   date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
-coaches:
-- sys:
-    id: 6y6eb9ymYMqeEAQ6QkUEYa
-    created_at: !ruby/object:DateTime 2018-02-26 03:10:02.168000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-26 03:10:02.168000000 Z
-    content_type_id: coaches
-  name: Chris Lemmel
-  subtitle: Coach
-  body: |-
-    Coach Chris Lemmel is a lifelong, multi-sport athlete that always knew he’d have a career in health and fitness. He chose CrossFit for his coaching career because “I felt drawn to the interaction that CrossFit facilitates.”
-
-    Chris is fanatical about constantly improving his coaching skills and connecting with his members in a way that motivates them to achieve more than they ever believed they could. In the gym, he says the relationships he builds with members help him grow as a person as he helps members grow as athletes.
-
-    ### CERTIFICATIONS:
-
-    - CrossFit Level 1
-    - CrossFit weightlifting
-    - Spartan SGX
-  profile_image:
-    sys:
-      id: 3qlcwEibT2uq2GQqigScqy
-      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.066000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.066000000 Z
-    title: cl
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/3qlcwEibT2uq2GQqigScqy/2a33150e220fa9b3a1e73746653d98cf/cl.jpg"
-  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
-  slug: chris-lemmel
-- sys:
-    id: 4SRucmw6Y88Y2S4KAeIke8
-    created_at: !ruby/object:DateTime 2018-02-26 03:10:40.792000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-26 03:10:40.792000000 Z
-    content_type_id: coaches
-  name: Kelsey Blaze
-  subtitle: Coach
-  body: |-
-    When asked why she wanted to become a coach, Kelsey responded with a simple “I knew I wanted to coach when I saw that although life will knock you down 10 times, CrossFit will help you stand up 11.”
-
-    Kelsey has years of experience in and out of the gym helping people. When not coaching, Kelsey is a Clinical Research Coordinator at University of Cincinnati where she helps run studies that allow us to learn more about disease processes, improve treatments and help save lives.
-
-    ### CERTIFICATIONS:
-
-    - CrossFit Level 1
-  profile_image:
-    sys:
-      id: 54KRcLToyQcGSSoCuGqS4k
-      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.053000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.053000000 Z
-    title: kb
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/54KRcLToyQcGSSoCuGqS4k/c02d5dfb67ef2a4be556e9524c0667ac/kb.jpg"
-  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
-  slug: kelsey-blaze
-- sys:
-    id: 4TmJC6oePusgk8iYgOmMKG
-    created_at: !ruby/object:DateTime 2018-02-26 03:09:19.618000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-26 03:09:19.618000000 Z
-    content_type_id: coaches
-  name: Derek Kidney
-  subtitle: Coach
-  body: |-
-    Coach Derek Kidney got into coaching because “The more I did, the more I wanted to learn, the more I wanted to teach.” When this “huge nerd” is coaching, he love watching his members make positive changes, not just in the gym, but in multiple aspects of their lives. They have more confidence and more strength both mentally and physically.
-
-    His favorite quote is “Everyone thinks of changing the world, but no one thinks of changing themselves.”
-
-    ### CERTIFICATIONS:
-
-    - CrossFit Level 1
-    - CFE
-    - USAW
-    - SPC-1
-  profile_image:
-    sys:
-      id: 4QFBwZcue4w0AeUcYiYIM2
-      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.067000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.067000000 Z
-    title: dk
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/4QFBwZcue4w0AeUcYiYIM2/54c05065cd23185b624073ae8f2b9312/dk.jpg"
-  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-  slug: derek-kidney
-- sys:
-    id: 38pE5Mm1HGc8iMq0Way62i
-    created_at: !ruby/object:DateTime 2018-02-26 03:07:13.150000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-26 03:07:13.150000000 Z
-    content_type_id: coaches
-  name: Jarrett Baston
-  subtitle: Owner / Trainer
-  body: |-
-    Owner/Trainer Jarrett Baston has been CrossFitting for nearly a decade and specializes in Olympic lifting and gymnastics. His passion for fitness, wellness, and self-improvement all boil down to the same thing: pushing beyond the limits of what was previously thought impossible.
-
-    When coaching his members, Jarrett is inspired by their willingness to learn and their sincerity in working hard to reach their goals. His favorite quote is “Brought into this world without my consent, and I’ll be taken out against my will.”
-
-    ### CERTIFICATIONS:
-
-    - CrossFit Level 1
-    - CrossFit Level 2
-  profile_image:
-    sys:
-      id: 5fev7RDgHuWI2uAuSGkwU
-      created_at: !ruby/object:DateTime 2018-02-26 03:06:34.287000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-26 03:06:34.287000000 Z
-    title: jb
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/5fev7RDgHuWI2uAuSGkwU/138b311afc6cd96032616343b66bd26a/jb.jpg"
-  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
-  slug: jarrett-baston
-- sys:
-    id: 1E0q3JMxFmK4Ewaiy2QYqc
-    created_at: !ruby/object:DateTime 2018-02-26 03:08:14.625000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-26 03:08:14.625000000 Z
-    content_type_id: coaches
-  name: Mark McCain
-  subtitle: Owner / Trainer
-  body: |-
-    Owner/Trainer Mark McCain became a personal trainer while attending the University of Cincinnati after transferring from West Liberty University, where he was attending on a baseball scholarship. One day he “Got dragged to a Saturday CrossFit class, got my butt kicked, and the rest is history.”
-
-    When training his members, he loves to “Reach deep inside and pull out a person that they didn’t know existed.” It’s building members’ confidence and helping them reach their goals that he’s most passionate about in the gym. “I am humbled daily by the CrossFit community and the amazing people it attracts,” he says. “I feel super grateful for this opportunity to do what I love.”
-
-    ### CERTIFICATIONS:
-
-    - CrossFit Level 1
-    - CrossFit Mobility
-    - CrossFit Powerlifting
-    - CrossFit Football
-  profile_image:
-    sys:
-      id: 7eNSlfjimcQg8Qqe0moo2O
-      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.197000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.197000000 Z
-    title: mm
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/7eNSlfjimcQg8Qqe0moo2O/214e3c5ad4b1027180adc8013201e3c2/mm.jpg"
-  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-  slug: mark-mccain
-testimonials:
-- sys:
-    id: 1PIC7doLiweC6EWEy802Oy
-    created_at: !ruby/object:DateTime 2018-02-25 19:58:51.011000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 19:58:51.011000000 Z
-    content_type_id: testimonials
-  name: Kathy Laws
-  subtitle: Defies the rules
-  body: '<a href="https://www.youtube.com/watch?v=sU-Z95b1x-4" class="embedly-card"
-    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=sU-Z95b1x-4</a>'
-  profile_image:
-    sys:
-      id: 2kDyYjN3kMWIEqCOuEUkaS
-      created_at: !ruby/object:DateTime 2018-02-25 19:58:41.951000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 19:58:41.951000000 Z
-    title: 1116068 10201393439665170 1198181197 o
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/2kDyYjN3kMWIEqCOuEUkaS/1bc8948ca1612cae1854a4d0cd0b947d/1116068_10201393439665170_1198181197_o.jpg"
-  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
-  slug: kathy-laws
-- sys:
-    id: 2ac2e5HTyQ8KOSIee46c8k
-    created_at: !ruby/object:DateTime 2018-02-25 19:50:18.901000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 19:50:18.901000000 Z
-    content_type_id: testimonials
-  name: Suzanne Fernbach
-  subtitle: Never gives up
-  body: '<a href="https://www.youtube.com/watch?time_continue=19&v=LqVVGlLRqrg" class="embedly-card"
-    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?time_continue=19&v=LqVVGlLRqrg</a>'
-  profile_image:
-    sys:
-      id: 1D8tXQklGsUiaGSAAEG8KE
-      created_at: !ruby/object:DateTime 2018-02-25 19:50:05.758000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 19:50:05.758000000 Z
-    title: 1551581 10204550986443487 3377037807497003843 n
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/1D8tXQklGsUiaGSAAEG8KE/af621c1480c30a865b4e50916aa8b4ff/1551581_10204550986443487_3377037807497003843_n.jpg"
-  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
-  slug: suzanne-fernbach
-- sys:
-    id: 464u14RIFiawMicOSoOCAM
-    created_at: !ruby/object:DateTime 2018-02-25 20:04:12.133000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 20:04:12.133000000 Z
-    content_type_id: testimonials
-  name: Jeff Ryan
-  subtitle: Outlifts challenges
-  body: |-
-    My main goal is to retire in 10 years and do a lot of the things I have missed out on or put off while pursuing the American Dream. It wasn’t until my last doctor’s appointment for a checkup that the proverbial light went on. Isn’t that always the way?
-
-    He explained that the constant stress of my job combined with a crappy diet and no exercise are going to end up killing me. He wasn’t talking about ten or fifteen years, he was talking between one and three. Combine that with the news I received six months ago, a diagnoses of a chronic and incurable disease, and I walked out of his office with a whole new outlook on my life. I actually Googled P90X when I got to my office. While surfing around on the net, I stumbled upon this thing called CrossFit. For some reason, that looked a hell of a lot more exciting than anything else so I told my wife I was going to try that.
-
-    You guys have been a Godsend to me. I sincerely mean that. The other places threw me right into the fray. I had no idea what I was doing at all. The only thing I did know was I sucked really, really bad. You were the first Box that had a mandatory introductory class. It was great.
-
-    The Coaches at Triumph are what make the place special. I came through those overhead garage doors about four or five months ago with no idea what I was getting into. You guys took great care in guiding me through the CrossFit experience right from the very beginning. The beginner’s classes are a great way to get acclimated to this experience.
-
-    A big thing that I like is you guys push me. Especially Chris. He’s the one I’m most familiar with since he does the majority of the morning classes. When I utter something evenly remotely along the lines of “I’m not sure I can do that,” he makes me do it. I’m glad he does, too. I’m doing things I never thought I would do at this age. Not to beat the proverbial dead horse but I’ll be 52 in September, and I’m trying to do Toes to Bar! Who would have thunk it?
-
-    I’ve lost weight, which is something I have wanted to do for years. I’m stronger in numerous ways than I was when I first showed up. I eat much better thanks to Keith’s suggestions. I’m not gasping for air during the warmups anymore, either. Another really noticeable improvement is my ability to do my job better. Part of my job requires that I be present on job sites for projects. This usually involves a lot of climbing and lifting various items. I am not nearly as worn out and I can climb and move around much, much better.
-
-    By and large, every person that comes in to train is there to give it their all. Each and every person just impresses the hell out of me. I’m still at the stage where I can watch anyone there and be inspired. I guess it might be easier to put it this way. When you are doing burpees or wall-balls as part of a METCON (and I am terrible at burpees), it would be easy to stop at 18 instead of 21, however, you can’t. All of those other people are doing the METCON properly, and if I were to cheat on some reps, I would feel like I was cheating on the whole group. That is a powerful motivator.
-
-    My favorite thing is the fist-bump and the WODIFY. Being a newcomer to Triumph is really like any other group type activity. When you show up, everyone is nice and polite and helpful but you know intuitively that you are not yet part of “the group.” For me, I felt like part of “the group” as it were, when one of those big young guys, I’m not sure which one, gave me a fist bump after we were finished and said “good job.” That was progress! Then when we were told we must sign in on WODIFY, I did and I started logging my results. One day, out of the blue, I get this notification that Becca and Vicky “liked” something or other on my results. I thought, wow, if those two think I’m doing ok, I must be doing something right. That was like a first fist bump all over again.
-  profile_image:
-    sys:
-      id: 3ye7nZaWcwAmOSKQ4mkAI0
-      created_at: !ruby/object:DateTime 2018-02-25 20:04:04.418000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 20:04:04.418000000 Z
-    title: 23416456 1902792749734934 1016521748536885248 n
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/3ye7nZaWcwAmOSKQ4mkAI0/6f0c61f256df51c79bbc83e6eefa2fdc/23416456_1902792749734934_1016521748536885248_n.jpg"
-  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-  slug: jeff-ryan
-- sys:
-    id: 2xb1x0z1aYGQG4Yims8gIC
-    created_at: !ruby/object:DateTime 2018-02-25 20:00:52.685000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 20:15:22.839000000 Z
-    content_type_id: testimonials
-  name: Crystal Warner
-  subtitle: Gives more than takes
-  body: |-
-    In July, I decided to give CrossFit a try, something I had always been interested in, but had always allowed FEAR (False Evidence Appearing Real) to hold me back. Would I be strong enough? Would people laugh at me? Would I be able to even do such a program as CrossFit?
-
-    Despite my reservations, I decided to contact Triumph and go with it! I remember showing up for my first class not really knowing what to expect. Let’s face it, I was terrified! I walked away different! During that class, I witnessed everyone cheering one another on, encouraging one another, celebrating someone hitting a PR, and picking up others who were falling a bit short on that day.
-
-    I loved the camaraderie that existed in that BOX and still do! The coaches are not only knowledgeable but passionate athletes that are dedicated to each person’s success, and they push you every day to be your personal best!! A big thanks to the coaches for all their support and the examples they set for us all. Your coaching, inspiration, and guidance make a difference in the lives of so many, and you have made an irreversible difference in mine!
-
-    That day I walked into Triumph has changed my life in more ways than I could’ve imagined in such a short period of time. CrossFit has given me so much more than fitness. I always have a sense of accomplishment after class, and I carry that with me throughout the day. I have the courage to take risks without fear. It has taught me that I can push myself beyond what I ever believed possible. CrossFit has totally redefined my definition of fitness. It’s fun, exciting, challenging, and humbling. I’ve set goals and priorities for myself and there is no stopping me! I’m looking forward to seeing where this CrossFit journey takes me!
-  profile_image:
-    sys:
-      id: 3VyEasf2XuS2CWowU4a8eu
-      created_at: !ruby/object:DateTime 2018-02-25 20:00:44.577000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 20:00:44.577000000 Z
-    title: 946145 10209052633658755 2640718070601360147 n
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/3VyEasf2XuS2CWowU4a8eu/b3f6f6827e401342ec3c72477c5fb352/946145_10209052633658755_2640718070601360147_n.jpg"
-  date: !ruby/object:DateTime 2018-02-13 00:00:00.000000000 -05:00
-  slug: crystal-warner
-- sys:
-    id: 5BZK9CdtJYyygYaimKSk2I
-    created_at: !ruby/object:DateTime 2018-02-25 19:54:04.977000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 19:54:04.977000000 Z
-    content_type_id: testimonials
-  name: Vicky Bolger
-  subtitle: Blissfully Unraveled
-  body: '<a href="https://www.youtube.com/watch?v=D86Rutc0BLM" class="embedly-card"
-    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=D86Rutc0BLM</a>'
-  profile_image:
-    sys:
-      id: 5msxhXkifSk80yuu2a0aeC
-      created_at: !ruby/object:DateTime 2018-02-25 19:53:55.499000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 19:53:55.499000000 Z
-    title: 11377381 10206045030578712 8529809396349289368 n
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/5msxhXkifSk80yuu2a0aeC/4675e2ead217fa136c176adcef847a66/11377381_10206045030578712_8529809396349289368_n.jpg"
-  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
-  slug: vicky-bolger
-- sys:
-    id: 1L2vUMjyOkYo4CIImaeQqm
-    created_at: !ruby/object:DateTime 2018-02-25 20:05:45.187000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 20:05:45.187000000 Z
-    content_type_id: testimonials
-  name: Heather Goldsberry
-  subtitle: Keeps on going
-  body: |-
-    Honestly, my goals in life are simple. I always wanted to be a good wife, good mother and a good example to all of those around me. In doing all of that, I need to be able to be strong mentally, physically, spiritually and emotionally.
-
-    Being a part of Triumph is, well, totally awesome. First, it definitely helps me be the best me I can be for my family. It has increased my mental toughness by leaps and bounds. I’ve learned day in and day out by walking into Triumph that it’s up to me to decide what I can and can’t do. Sometimes it doesn’t happen that day, but it’s no reason to give up.
-
-    I can remember in my early CrossFit days seeing the things that people would do and I thought to myself “Holy crap! I’ll never be able to do that.” But, little by little, I’ve seen myself inch closer and closer to those goals and in some cases pass them. In some cases, I just needed a coach to tell me to pick up the bar one more time and try again. I needed someone else to show me they had confidence in me when I wasn’t quite sure. Sometimes it was staying after class to work on that first pull-up or try that failed clean and jerk for a new PR AFTER time expired during the first open workout this year.
-
-    Second, Triumph helps me be a good example to my family. A little over seven years ago the only time you would have heard my name and exercise in the same sentence was to hear “Heather doesn’t exercise.” I got to a point where I needed to make some changes. Some changes are still being made but my kids see the difference in me physically and mentally, and they actually ask me to work out with them. Both of them have participated in the CrossFit Kids classes as well. My husband, despite being a farmer all his life and being physically active in that aspect, also realizes it’s sometimes necessary to make changes as you get older. Together, we all try to be a little more active and better eaters to become a better US. MISSION ACCOMPLISHED!!!
-
-    So yes, Triumph has helped me achieve my goals and create new ones as I go. Ironically, I’ve had to modify some of my goals due to some minor physical setbacks, and the coaches have helped me see and understand that the ultimate goal is to stay healthy and safe and have helped me modify my workouts when needed.
-
-    One of my biggest improvements has been mental. Instead of telling myself I can’t do something, I ask myself “Why not? Why can’t I do a muscle-up? Why should I let numbers on weights tell me I can or can’t. They are just numbers, but I’m boss of my destiny in that gym.” It’s made me realize that at any given time, I am where I never thought I would be several years ago when I started CrossFit, but I’m also where somebody else thinks they can’t be today.
-
-    Almost three years ago I was invited to a free Saturday class (thanks Whitney Rich) when Triumph (UMPH at the time) was just getting started. That day was all it took. I was hooked. I was diligent for 3-4 months but then the busy season of my work got in my way. Then, out of the blue, I started to connect with more and more people. For me, it became the unofficial buddy system. People would ask where I was or reach out to make sure everything was ok. It made me feel like people cared. It’s been a snowball effect ever since.
-
-    I feel like the community is a just that: a community. There are so many different types of people from so many different walks of life that I never would have met otherwise. I can’t imagine not being associated with and knowing these people who are such a huge part of my life right now. Honestly, it’s sometimes the thought of just walking in there to see all the people that gives me the motivation to go.
-
-    In case, you can’t already tell, I kind of like this place … a little. Who am I kidding? I LOVE this place … A LOT. Other than the community vibe and helping make me a better person, my favorite thing about Triumph is the coaches. It is amazing to watch each of the coaches work out, sometimes multiple times a day. I’m amazed at all they are capable of, which really shouldn’t be a surprise. What stands out in my mind is, on more occasions than I can count, watching them not only tell us the workout but doing it right alongside the very athletes they train.
-
-    To prove my point, I was looking for a partner for a competition last fall. I just threw it out there on Facebook. The first person to agree to be my partner was none other than one of our fabulous coaches, Chris Lemmel. I often asked myself if he knew what he was getting himself into, and then I started to wonder about what I had gotten myself into. Here’s what I found out: Chris only wanted me to be the best that I could be that day. He didn’t ask me to be the best that HE could be that day. He also didn’t “trump” my thoughts on how to tackle something or tell me I needed to do something that I wasn’t comfortable doing (those darn box jumps). We made decisions as a team. At that point in time, him believing in me enough to stand beside me as my partner was what I needed at that time.
-
-    Lastly, one of my favorite things about the coaches is their desire and willingness to create bonds with the members and keep the future bright. They are always looking for ways to keep members engaged (whether it’s socially, from a goal perspective or from a personal perspective). They are constantly looking to make things better for all members (present and future). I feel like they often know if I’m having a bad day before I do. They like me for me and just want me to be the best me I can be and want to help me get there safely.
-  profile_image:
-    sys:
-      id: 3jgDClOusEiWyiMYoqaII4
-      created_at: !ruby/object:DateTime 2018-02-25 20:05:38.308000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 20:05:38.308000000 Z
-    title: 10857916 903426409675992 4062297024879830736 n
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/3jgDClOusEiWyiMYoqaII4/fcc258321b725e3d115fe8c8319ab6cc/10857916_903426409675992_4062297024879830736_n.jpg"
-  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
-  slug: heather-goldsberry
-category:
-- sys:
-    id: 3d8Q1ODKusYmIYaOM8qOy
-    created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
-    content_type_id: category
-  name: 'Podcast: Everyday Athelete'
-  slug: podcast-everyday-athelete
-- sys:
-    id: 6sU7yeWA9iQ60yquUGm0ss
-    created_at: !ruby/object:DateTime 2018-02-19 06:17:12.010000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 06:17:12.010000000 Z
-    content_type_id: category
-  name: Nutrition
-  slug: nutrition
-- sys:
-    id: 25qMMuioYAQyu2c46qg2Ki
-    created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-    content_type_id: category
-  name: Gym News
-  slug: gym-news
-- sys:
-    id: 6LVaTXj0l2k2w0g0Q6WCiA
-    created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-    content_type_id: category
-  name: Coaches Corner
-  slug: coaches-corner
-- sys:
-    id: 4hTMi0NG9WcusWCiiKKCK6
-    created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-    content_type_id: category
-  name: Featured Athlete
-  slug: featured-athlete
-- sys:
-    id: 4RIo8OQ5ygYuEkMQOyOgoI
-    created_at: !ruby/object:DateTime 2018-02-19 06:17:32.665000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 06:17:32.665000000 Z
-    content_type_id: category
-  name: Lastest WOD
-  slug: lastest-wod
 post:
-- sys:
-    id: 41npSeXgPuWQMQm8GusI44
-    created_at: !ruby/object:DateTime 2018-02-24 20:53:23.910000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-24 20:53:23.910000000 Z
-    content_type_id: post
-  title: 'Athlete Profile:  Jenny Beene-Skuban'
-  body: |-
-    **Name**
-
-    Jenny Beene-Skuban
-
-    **Where are you from?**
-
-    Ft. Thomas, K to the Y
-
-    **What is your favorite vacation spot? Why?**
-
-    Vieques, Puerto Rico. Laid-back beautiful place that is still fairly undeveloped, and it has an amazing bioluminescent bay. I’m saddened by the devastation there by Hurricane Maria :(
-
-    **What is your favorite movie or TV show?**
-
-    The Three Amigos!
-
-    **What is the best gift you've ever received?**
-
-    The opportunity to work out with Colgan.
-
-    **Who is your hero?**
-
-    Notorious RBG (yes I’m a lawyer nerd)
-
-    **What's something we don't know about you?**
-
-    I can solve a rubik’s cube \*without\* peeling the stickers off
-
-    **What are two pet peeves?**
-
-    Excessive use’s of apostrophe’s and when Mike Whalen goes to any class besides 6:30am
-
-    **Favorite CrossFit movement?**
-
-    ROWING
-
-    **Favorite CrossFit WOD?**
-
-    ROWING
-
-    **Anything else you'd like to share?**
-
-    That’s what she said.
-  featured_image:
-    sys:
-      id: 36FMzRF5qoUeWOSYuakMSq
-      created_at: !ruby/object:DateTime 2018-02-24 21:23:38.299000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-24 21:23:38.299000000 Z
-    title: 13906636 1090769924334073 6257749024098892694 n
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/36FMzRF5qoUeWOSYuakMSq/fcc4b5a4cbcc8e481ae5d6f06e88b369/13906636_1090769924334073_6257749024098892694_n.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.contentful.com/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 4hTMi0NG9WcusWCiiKKCK6
-      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      content_type_id: category
-    name: Featured Athlete
-    slug: featured-athlete
-  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
-  slug: athlete-profile-jenny-beene-skuban
-- sys:
-    id: 2y8x4r5N5ese6QcKqOgYMg
-    created_at: !ruby/object:DateTime 2018-02-24 21:17:18.646000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-24 21:27:38.764000000 Z
-    content_type_id: post
-  title: '15 Minute Trainer: Squats, Push Up, Burpees, Sit Ups'
-  body: |-
-    Welcome to this week's 15 Minute Trainer. Coach Chris takes you through an EMOM of air squats, push ups, burpees and sit ups.
-
-    <a href="https://www.youtube.com/embed/8KrlQjI5KRM" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/embed/8KrlQjI5KRM</a>
-  featured_image:
-    sys:
-      id: 4D1cMZflRKyakmm4U8yaai
-      created_at: !ruby/object:DateTime 2018-02-24 21:16:47.590000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-24 21:16:47.590000000 Z
-    title: Screenshot-2018-02-11-19.23.01-1038x576
-    description: 
-    url: "//images.contentful.com/ctmmyckif2fs/4D1cMZflRKyakmm4U8yaai/89148cc1b62bf629b3be3afa71772c49/Screenshot-2018-02-11-19.23.01-1038x576.png"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.contentful.com/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 6LVaTXj0l2k2w0g0Q6WCiA
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      content_type_id: category
-    name: Coaches Corner
-    slug: coaches-corner
-  date: !ruby/object:DateTime 2018-02-16 00:00:00.000000000 -05:00
-  slug: 15-minute-trainer-squats-push-up-burpees-sit-ups
 - sys:
     id: 7encPoOvvyyqikA6qMYAco
     created_at: !ruby/object:DateTime 2018-02-24 21:15:00.891000000 Z
@@ -809,38 +422,456 @@ post:
     slug: gym-news
   date: !ruby/object:DateTime 2018-02-25 22:59:00.000000000 -05:00
   slug: programming-preview-week-of-2-26
-author:
 - sys:
-    id: 37TyZJB8buu0CeqEgcOYuS
-    created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-    content_type_id: author
-  name: Jarrett Baston
+    id: 2y8x4r5N5ese6QcKqOgYMg
+    created_at: !ruby/object:DateTime 2018-02-24 21:17:18.646000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-24 21:27:38.764000000 Z
+    content_type_id: post
+  title: '15 Minute Trainer: Squats, Push Up, Burpees, Sit Ups'
+  body: |-
+    Welcome to this week's 15 Minute Trainer. Coach Chris takes you through an EMOM of air squats, push ups, burpees and sit ups.
+
+    <a href="https://www.youtube.com/embed/8KrlQjI5KRM" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/embed/8KrlQjI5KRM</a>
+  featured_image:
+    sys:
+      id: 4D1cMZflRKyakmm4U8yaai
+      created_at: !ruby/object:DateTime 2018-02-24 21:16:47.590000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 21:16:47.590000000 Z
+    title: Screenshot-2018-02-11-19.23.01-1038x576
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/4D1cMZflRKyakmm4U8yaai/89148cc1b62bf629b3be3afa71772c49/Screenshot-2018-02-11-19.23.01-1038x576.png"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.contentful.com/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 6LVaTXj0l2k2w0g0Q6WCiA
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      content_type_id: category
+    name: Coaches Corner
+    slug: coaches-corner
+  date: !ruby/object:DateTime 2018-02-16 00:00:00.000000000 -05:00
+  slug: 15-minute-trainer-squats-push-up-burpees-sit-ups
+- sys:
+    id: 41npSeXgPuWQMQm8GusI44
+    created_at: !ruby/object:DateTime 2018-02-24 20:53:23.910000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-24 20:53:23.910000000 Z
+    content_type_id: post
+  title: 'Athlete Profile:  Jenny Beene-Skuban'
+  body: |-
+    **Name**
+
+    Jenny Beene-Skuban
+
+    **Where are you from?**
+
+    Ft. Thomas, K to the Y
+
+    **What is your favorite vacation spot? Why?**
+
+    Vieques, Puerto Rico. Laid-back beautiful place that is still fairly undeveloped, and it has an amazing bioluminescent bay. I’m saddened by the devastation there by Hurricane Maria :(
+
+    **What is your favorite movie or TV show?**
+
+    The Three Amigos!
+
+    **What is the best gift you've ever received?**
+
+    The opportunity to work out with Colgan.
+
+    **Who is your hero?**
+
+    Notorious RBG (yes I’m a lawyer nerd)
+
+    **What's something we don't know about you?**
+
+    I can solve a rubik’s cube \*without\* peeling the stickers off
+
+    **What are two pet peeves?**
+
+    Excessive use’s of apostrophe’s and when Mike Whalen goes to any class besides 6:30am
+
+    **Favorite CrossFit movement?**
+
+    ROWING
+
+    **Favorite CrossFit WOD?**
+
+    ROWING
+
+    **Anything else you'd like to share?**
+
+    That’s what she said.
+  featured_image:
+    sys:
+      id: 36FMzRF5qoUeWOSYuakMSq
+      created_at: !ruby/object:DateTime 2018-02-24 21:23:38.299000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 21:23:38.299000000 Z
+    title: 13906636 1090769924334073 6257749024098892694 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/36FMzRF5qoUeWOSYuakMSq/fcc4b5a4cbcc8e481ae5d6f06e88b369/13906636_1090769924334073_6257749024098892694_n.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.contentful.com/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 4hTMi0NG9WcusWCiiKKCK6
+      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      content_type_id: category
+    name: Featured Athlete
+    slug: featured-athlete
+  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
+  slug: athlete-profile-jenny-beene-skuban
+coaches:
+- sys:
+    id: 6y6eb9ymYMqeEAQ6QkUEYa
+    created_at: !ruby/object:DateTime 2018-02-26 03:10:02.168000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-26 03:10:02.168000000 Z
+    content_type_id: coaches
+  name: Chris Lemmel
+  subtitle: Coach
+  body: |-
+    Coach Chris Lemmel is a lifelong, multi-sport athlete that always knew he’d have a career in health and fitness. He chose CrossFit for his coaching career because “I felt drawn to the interaction that CrossFit facilitates.”
+
+    Chris is fanatical about constantly improving his coaching skills and connecting with his members in a way that motivates them to achieve more than they ever believed they could. In the gym, he says the relationships he builds with members help him grow as a person as he helps members grow as athletes.
+
+    ### CERTIFICATIONS:
+
+    - CrossFit Level 1
+    - CrossFit weightlifting
+    - Spartan SGX
   profile_image:
     sys:
-      id: 75DgW8T6tGkcOsOWmcoCG6
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-    title: Jarrett-Baston
-    description: Jarrett Baston
-    url: "//images.contentful.com/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+      id: 3qlcwEibT2uq2GQqigScqy
+      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.066000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.066000000 Z
+    title: cl
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/3qlcwEibT2uq2GQqigScqy/2a33150e220fa9b3a1e73746653d98cf/cl.jpg"
+  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
+  slug: chris-lemmel
+- sys:
+    id: 38pE5Mm1HGc8iMq0Way62i
+    created_at: !ruby/object:DateTime 2018-02-26 03:07:13.150000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-26 03:07:13.150000000 Z
+    content_type_id: coaches
+  name: Jarrett Baston
+  subtitle: Owner / Trainer
+  body: |-
+    Owner/Trainer Jarrett Baston has been CrossFitting for nearly a decade and specializes in Olympic lifting and gymnastics. His passion for fitness, wellness, and self-improvement all boil down to the same thing: pushing beyond the limits of what was previously thought impossible.
+
+    When coaching his members, Jarrett is inspired by their willingness to learn and their sincerity in working hard to reach their goals. His favorite quote is “Brought into this world without my consent, and I’ll be taken out against my will.”
+
+    ### CERTIFICATIONS:
+
+    - CrossFit Level 1
+    - CrossFit Level 2
+  profile_image:
+    sys:
+      id: 5fev7RDgHuWI2uAuSGkwU
+      created_at: !ruby/object:DateTime 2018-02-26 03:06:34.287000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-26 03:06:34.287000000 Z
+    title: jb
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/5fev7RDgHuWI2uAuSGkwU/138b311afc6cd96032616343b66bd26a/jb.jpg"
+  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
   slug: jarrett-baston
 - sys:
-    id: 31GAZQYq3u0SMo4mm2S8O8
-    created_at: !ruby/object:DateTime 2018-02-19 03:29:54.600000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:29:54.600000000 Z
-    content_type_id: author
+    id: 1E0q3JMxFmK4Ewaiy2QYqc
+    created_at: !ruby/object:DateTime 2018-02-26 03:08:14.625000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-26 03:08:14.625000000 Z
+    content_type_id: coaches
   name: Mark McCain
+  subtitle: Owner / Trainer
+  body: |-
+    Owner/Trainer Mark McCain became a personal trainer while attending the University of Cincinnati after transferring from West Liberty University, where he was attending on a baseball scholarship. One day he “Got dragged to a Saturday CrossFit class, got my butt kicked, and the rest is history.”
+
+    When training his members, he loves to “Reach deep inside and pull out a person that they didn’t know existed.” It’s building members’ confidence and helping them reach their goals that he’s most passionate about in the gym. “I am humbled daily by the CrossFit community and the amazing people it attracts,” he says. “I feel super grateful for this opportunity to do what I love.”
+
+    ### CERTIFICATIONS:
+
+    - CrossFit Level 1
+    - CrossFit Mobility
+    - CrossFit Powerlifting
+    - CrossFit Football
   profile_image:
     sys:
-      id: 6LZE8SkAF2c6gKWSwgSyIq
-      created_at: !ruby/object:DateTime 2018-02-19 03:29:48.781000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:29:48.781000000 Z
-    title: Mark McCain
-    description: Mark McCain
-    url: "//images.contentful.com/ctmmyckif2fs/6LZE8SkAF2c6gKWSwgSyIq/bf8e90962701acda5f785ee00663cefd/Mark-McCain.jpg"
+      id: 7eNSlfjimcQg8Qqe0moo2O
+      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.197000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.197000000 Z
+    title: mm
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/7eNSlfjimcQg8Qqe0moo2O/214e3c5ad4b1027180adc8013201e3c2/mm.jpg"
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
   slug: mark-mccain
+- sys:
+    id: 4SRucmw6Y88Y2S4KAeIke8
+    created_at: !ruby/object:DateTime 2018-02-26 03:10:40.792000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-26 03:10:40.792000000 Z
+    content_type_id: coaches
+  name: Kelsey Blaze
+  subtitle: Coach
+  body: |-
+    When asked why she wanted to become a coach, Kelsey responded with a simple “I knew I wanted to coach when I saw that although life will knock you down 10 times, CrossFit will help you stand up 11.”
+
+    Kelsey has years of experience in and out of the gym helping people. When not coaching, Kelsey is a Clinical Research Coordinator at University of Cincinnati where she helps run studies that allow us to learn more about disease processes, improve treatments and help save lives.
+
+    ### CERTIFICATIONS:
+
+    - CrossFit Level 1
+  profile_image:
+    sys:
+      id: 54KRcLToyQcGSSoCuGqS4k
+      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.053000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.053000000 Z
+    title: kb
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/54KRcLToyQcGSSoCuGqS4k/c02d5dfb67ef2a4be556e9524c0667ac/kb.jpg"
+  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
+  slug: kelsey-blaze
+- sys:
+    id: 4TmJC6oePusgk8iYgOmMKG
+    created_at: !ruby/object:DateTime 2018-02-26 03:09:19.618000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-26 03:09:19.618000000 Z
+    content_type_id: coaches
+  name: Derek Kidney
+  subtitle: Coach
+  body: |-
+    Coach Derek Kidney got into coaching because “The more I did, the more I wanted to learn, the more I wanted to teach.” When this “huge nerd” is coaching, he love watching his members make positive changes, not just in the gym, but in multiple aspects of their lives. They have more confidence and more strength both mentally and physically.
+
+    His favorite quote is “Everyone thinks of changing the world, but no one thinks of changing themselves.”
+
+    ### CERTIFICATIONS:
+
+    - CrossFit Level 1
+    - CFE
+    - USAW
+    - SPC-1
+  profile_image:
+    sys:
+      id: 4QFBwZcue4w0AeUcYiYIM2
+      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.067000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.067000000 Z
+    title: dk
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/4QFBwZcue4w0AeUcYiYIM2/54c05065cd23185b624073ae8f2b9312/dk.jpg"
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+  slug: derek-kidney
+testimonials:
+- sys:
+    id: 1L2vUMjyOkYo4CIImaeQqm
+    created_at: !ruby/object:DateTime 2018-02-25 20:05:45.187000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 20:05:45.187000000 Z
+    content_type_id: testimonials
+  name: Heather Goldsberry
+  subtitle: Keeps on going
+  body: |-
+    Honestly, my goals in life are simple. I always wanted to be a good wife, good mother and a good example to all of those around me. In doing all of that, I need to be able to be strong mentally, physically, spiritually and emotionally.
+
+    Being a part of Triumph is, well, totally awesome. First, it definitely helps me be the best me I can be for my family. It has increased my mental toughness by leaps and bounds. I’ve learned day in and day out by walking into Triumph that it’s up to me to decide what I can and can’t do. Sometimes it doesn’t happen that day, but it’s no reason to give up.
+
+    I can remember in my early CrossFit days seeing the things that people would do and I thought to myself “Holy crap! I’ll never be able to do that.” But, little by little, I’ve seen myself inch closer and closer to those goals and in some cases pass them. In some cases, I just needed a coach to tell me to pick up the bar one more time and try again. I needed someone else to show me they had confidence in me when I wasn’t quite sure. Sometimes it was staying after class to work on that first pull-up or try that failed clean and jerk for a new PR AFTER time expired during the first open workout this year.
+
+    Second, Triumph helps me be a good example to my family. A little over seven years ago the only time you would have heard my name and exercise in the same sentence was to hear “Heather doesn’t exercise.” I got to a point where I needed to make some changes. Some changes are still being made but my kids see the difference in me physically and mentally, and they actually ask me to work out with them. Both of them have participated in the CrossFit Kids classes as well. My husband, despite being a farmer all his life and being physically active in that aspect, also realizes it’s sometimes necessary to make changes as you get older. Together, we all try to be a little more active and better eaters to become a better US. MISSION ACCOMPLISHED!!!
+
+    So yes, Triumph has helped me achieve my goals and create new ones as I go. Ironically, I’ve had to modify some of my goals due to some minor physical setbacks, and the coaches have helped me see and understand that the ultimate goal is to stay healthy and safe and have helped me modify my workouts when needed.
+
+    One of my biggest improvements has been mental. Instead of telling myself I can’t do something, I ask myself “Why not? Why can’t I do a muscle-up? Why should I let numbers on weights tell me I can or can’t. They are just numbers, but I’m boss of my destiny in that gym.” It’s made me realize that at any given time, I am where I never thought I would be several years ago when I started CrossFit, but I’m also where somebody else thinks they can’t be today.
+
+    Almost three years ago I was invited to a free Saturday class (thanks Whitney Rich) when Triumph (UMPH at the time) was just getting started. That day was all it took. I was hooked. I was diligent for 3-4 months but then the busy season of my work got in my way. Then, out of the blue, I started to connect with more and more people. For me, it became the unofficial buddy system. People would ask where I was or reach out to make sure everything was ok. It made me feel like people cared. It’s been a snowball effect ever since.
+
+    I feel like the community is a just that: a community. There are so many different types of people from so many different walks of life that I never would have met otherwise. I can’t imagine not being associated with and knowing these people who are such a huge part of my life right now. Honestly, it’s sometimes the thought of just walking in there to see all the people that gives me the motivation to go.
+
+    In case, you can’t already tell, I kind of like this place … a little. Who am I kidding? I LOVE this place … A LOT. Other than the community vibe and helping make me a better person, my favorite thing about Triumph is the coaches. It is amazing to watch each of the coaches work out, sometimes multiple times a day. I’m amazed at all they are capable of, which really shouldn’t be a surprise. What stands out in my mind is, on more occasions than I can count, watching them not only tell us the workout but doing it right alongside the very athletes they train.
+
+    To prove my point, I was looking for a partner for a competition last fall. I just threw it out there on Facebook. The first person to agree to be my partner was none other than one of our fabulous coaches, Chris Lemmel. I often asked myself if he knew what he was getting himself into, and then I started to wonder about what I had gotten myself into. Here’s what I found out: Chris only wanted me to be the best that I could be that day. He didn’t ask me to be the best that HE could be that day. He also didn’t “trump” my thoughts on how to tackle something or tell me I needed to do something that I wasn’t comfortable doing (those darn box jumps). We made decisions as a team. At that point in time, him believing in me enough to stand beside me as my partner was what I needed at that time.
+
+    Lastly, one of my favorite things about the coaches is their desire and willingness to create bonds with the members and keep the future bright. They are always looking for ways to keep members engaged (whether it’s socially, from a goal perspective or from a personal perspective). They are constantly looking to make things better for all members (present and future). I feel like they often know if I’m having a bad day before I do. They like me for me and just want me to be the best me I can be and want to help me get there safely.
+  profile_image:
+    sys:
+      id: 3jgDClOusEiWyiMYoqaII4
+      created_at: !ruby/object:DateTime 2018-02-25 20:05:38.308000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 20:05:38.308000000 Z
+    title: 10857916 903426409675992 4062297024879830736 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/3jgDClOusEiWyiMYoqaII4/fcc258321b725e3d115fe8c8319ab6cc/10857916_903426409675992_4062297024879830736_n.jpg"
+  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
+  slug: heather-goldsberry
+- sys:
+    id: 5BZK9CdtJYyygYaimKSk2I
+    created_at: !ruby/object:DateTime 2018-02-25 19:54:04.977000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 19:54:04.977000000 Z
+    content_type_id: testimonials
+  name: Vicky Bolger
+  subtitle: Blissfully Unraveled
+  body: '<a href="https://www.youtube.com/watch?v=D86Rutc0BLM" class="embedly-card"
+    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=D86Rutc0BLM</a>'
+  profile_image:
+    sys:
+      id: 5msxhXkifSk80yuu2a0aeC
+      created_at: !ruby/object:DateTime 2018-02-25 19:53:55.499000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 19:53:55.499000000 Z
+    title: 11377381 10206045030578712 8529809396349289368 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/5msxhXkifSk80yuu2a0aeC/4675e2ead217fa136c176adcef847a66/11377381_10206045030578712_8529809396349289368_n.jpg"
+  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
+  slug: vicky-bolger
+- sys:
+    id: 2xb1x0z1aYGQG4Yims8gIC
+    created_at: !ruby/object:DateTime 2018-02-25 20:00:52.685000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 20:15:22.839000000 Z
+    content_type_id: testimonials
+  name: Crystal Warner
+  subtitle: Gives more than takes
+  body: |-
+    In July, I decided to give CrossFit a try, something I had always been interested in, but had always allowed FEAR (False Evidence Appearing Real) to hold me back. Would I be strong enough? Would people laugh at me? Would I be able to even do such a program as CrossFit?
+
+    Despite my reservations, I decided to contact Triumph and go with it! I remember showing up for my first class not really knowing what to expect. Let’s face it, I was terrified! I walked away different! During that class, I witnessed everyone cheering one another on, encouraging one another, celebrating someone hitting a PR, and picking up others who were falling a bit short on that day.
+
+    I loved the camaraderie that existed in that BOX and still do! The coaches are not only knowledgeable but passionate athletes that are dedicated to each person’s success, and they push you every day to be your personal best!! A big thanks to the coaches for all their support and the examples they set for us all. Your coaching, inspiration, and guidance make a difference in the lives of so many, and you have made an irreversible difference in mine!
+
+    That day I walked into Triumph has changed my life in more ways than I could’ve imagined in such a short period of time. CrossFit has given me so much more than fitness. I always have a sense of accomplishment after class, and I carry that with me throughout the day. I have the courage to take risks without fear. It has taught me that I can push myself beyond what I ever believed possible. CrossFit has totally redefined my definition of fitness. It’s fun, exciting, challenging, and humbling. I’ve set goals and priorities for myself and there is no stopping me! I’m looking forward to seeing where this CrossFit journey takes me!
+  profile_image:
+    sys:
+      id: 3VyEasf2XuS2CWowU4a8eu
+      created_at: !ruby/object:DateTime 2018-02-25 20:00:44.577000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 20:00:44.577000000 Z
+    title: 946145 10209052633658755 2640718070601360147 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/3VyEasf2XuS2CWowU4a8eu/b3f6f6827e401342ec3c72477c5fb352/946145_10209052633658755_2640718070601360147_n.jpg"
+  date: !ruby/object:DateTime 2018-02-13 00:00:00.000000000 -05:00
+  slug: crystal-warner
+- sys:
+    id: 2ac2e5HTyQ8KOSIee46c8k
+    created_at: !ruby/object:DateTime 2018-02-25 19:50:18.901000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 19:50:18.901000000 Z
+    content_type_id: testimonials
+  name: Suzanne Fernbach
+  subtitle: Never gives up
+  body: '<a href="https://www.youtube.com/watch?time_continue=19&v=LqVVGlLRqrg" class="embedly-card"
+    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?time_continue=19&v=LqVVGlLRqrg</a>'
+  profile_image:
+    sys:
+      id: 1D8tXQklGsUiaGSAAEG8KE
+      created_at: !ruby/object:DateTime 2018-02-25 19:50:05.758000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 19:50:05.758000000 Z
+    title: 1551581 10204550986443487 3377037807497003843 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/1D8tXQklGsUiaGSAAEG8KE/af621c1480c30a865b4e50916aa8b4ff/1551581_10204550986443487_3377037807497003843_n.jpg"
+  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
+  slug: suzanne-fernbach
+- sys:
+    id: 464u14RIFiawMicOSoOCAM
+    created_at: !ruby/object:DateTime 2018-02-25 20:04:12.133000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 20:04:12.133000000 Z
+    content_type_id: testimonials
+  name: Jeff Ryan
+  subtitle: Outlifts challenges
+  body: |-
+    My main goal is to retire in 10 years and do a lot of the things I have missed out on or put off while pursuing the American Dream. It wasn’t until my last doctor’s appointment for a checkup that the proverbial light went on. Isn’t that always the way?
+
+    He explained that the constant stress of my job combined with a crappy diet and no exercise are going to end up killing me. He wasn’t talking about ten or fifteen years, he was talking between one and three. Combine that with the news I received six months ago, a diagnoses of a chronic and incurable disease, and I walked out of his office with a whole new outlook on my life. I actually Googled P90X when I got to my office. While surfing around on the net, I stumbled upon this thing called CrossFit. For some reason, that looked a hell of a lot more exciting than anything else so I told my wife I was going to try that.
+
+    You guys have been a Godsend to me. I sincerely mean that. The other places threw me right into the fray. I had no idea what I was doing at all. The only thing I did know was I sucked really, really bad. You were the first Box that had a mandatory introductory class. It was great.
+
+    The Coaches at Triumph are what make the place special. I came through those overhead garage doors about four or five months ago with no idea what I was getting into. You guys took great care in guiding me through the CrossFit experience right from the very beginning. The beginner’s classes are a great way to get acclimated to this experience.
+
+    A big thing that I like is you guys push me. Especially Chris. He’s the one I’m most familiar with since he does the majority of the morning classes. When I utter something evenly remotely along the lines of “I’m not sure I can do that,” he makes me do it. I’m glad he does, too. I’m doing things I never thought I would do at this age. Not to beat the proverbial dead horse but I’ll be 52 in September, and I’m trying to do Toes to Bar! Who would have thunk it?
+
+    I’ve lost weight, which is something I have wanted to do for years. I’m stronger in numerous ways than I was when I first showed up. I eat much better thanks to Keith’s suggestions. I’m not gasping for air during the warmups anymore, either. Another really noticeable improvement is my ability to do my job better. Part of my job requires that I be present on job sites for projects. This usually involves a lot of climbing and lifting various items. I am not nearly as worn out and I can climb and move around much, much better.
+
+    By and large, every person that comes in to train is there to give it their all. Each and every person just impresses the hell out of me. I’m still at the stage where I can watch anyone there and be inspired. I guess it might be easier to put it this way. When you are doing burpees or wall-balls as part of a METCON (and I am terrible at burpees), it would be easy to stop at 18 instead of 21, however, you can’t. All of those other people are doing the METCON properly, and if I were to cheat on some reps, I would feel like I was cheating on the whole group. That is a powerful motivator.
+
+    My favorite thing is the fist-bump and the WODIFY. Being a newcomer to Triumph is really like any other group type activity. When you show up, everyone is nice and polite and helpful but you know intuitively that you are not yet part of “the group.” For me, I felt like part of “the group” as it were, when one of those big young guys, I’m not sure which one, gave me a fist bump after we were finished and said “good job.” That was progress! Then when we were told we must sign in on WODIFY, I did and I started logging my results. One day, out of the blue, I get this notification that Becca and Vicky “liked” something or other on my results. I thought, wow, if those two think I’m doing ok, I must be doing something right. That was like a first fist bump all over again.
+  profile_image:
+    sys:
+      id: 3ye7nZaWcwAmOSKQ4mkAI0
+      created_at: !ruby/object:DateTime 2018-02-25 20:04:04.418000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 20:04:04.418000000 Z
+    title: 23416456 1902792749734934 1016521748536885248 n
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/3ye7nZaWcwAmOSKQ4mkAI0/6f0c61f256df51c79bbc83e6eefa2fdc/23416456_1902792749734934_1016521748536885248_n.jpg"
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+  slug: jeff-ryan
+- sys:
+    id: 1PIC7doLiweC6EWEy802Oy
+    created_at: !ruby/object:DateTime 2018-02-25 19:58:51.011000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 19:58:51.011000000 Z
+    content_type_id: testimonials
+  name: Kathy Laws
+  subtitle: Defies the rules
+  body: '<a href="https://www.youtube.com/watch?v=sU-Z95b1x-4" class="embedly-card"
+    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=sU-Z95b1x-4</a>'
+  profile_image:
+    sys:
+      id: 2kDyYjN3kMWIEqCOuEUkaS
+      created_at: !ruby/object:DateTime 2018-02-25 19:58:41.951000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 19:58:41.951000000 Z
+    title: 1116068 10201393439665170 1198181197 o
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/2kDyYjN3kMWIEqCOuEUkaS/1bc8948ca1612cae1854a4d0cd0b947d/1116068_10201393439665170_1198181197_o.jpg"
+  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
+  slug: kathy-laws
 podcast:
+- sys:
+    id: 1ySl6PxuvKswiMgC4ywW4
+    created_at: !ruby/object:DateTime 2018-02-26 04:22:59.097000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-26 04:22:59.097000000 Z
+    content_type_id: podcast
+  title: Everyday Athlete Ep. 15 Melissa Doss
+  description: Welcome to this weeks Everyday Athlete podcast. This week we sit down
+    with Central Regional and CrossFit Games athlete Melissa Doss and discuss how
+    CrossFit has helped her just not physically but in the professional world as well.
+    As well as how she got started with fitness and where she plans to go next. Check
+    it out!
+  video_link: https://www.youtube.com/watch?v=ijoRsmAuY3g
+  audio_link: https://soundcloud.com/user-4939135/everyday-athlete-ep-15-melissa-doss
+  featured_image:
+    sys:
+      id: 3KBHYA3wQUO6K4a2K86qcW
+      created_at: !ruby/object:DateTime 2018-02-26 04:19:57.823000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-26 04:22:54.581000000 Z
+    title: artworks-000244747449-gpehch-t500x500
+    description: 
+    url: "//images.contentful.com/ctmmyckif2fs/3KBHYA3wQUO6K4a2K86qcW/bcc6518b08e3e4d925b8252d53ff6a69/maxresdefault.jpg"
+  category:
+  - sys:
+      id: 3d8Q1ODKusYmIYaOM8qOy
+      created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+      content_type_id: category
+    name: 'Podcast: Everyday Athelete'
+    slug: podcast-everyday-athelete
+  slug: everyday-athlete-ep-15-melissa-doss
+  date: !ruby/object:DateTime 2017-09-28 00:00:00.000000000 -05:00
 - sys:
     id: 1RhzGcTkEgMysC2wsccmQQ
     created_at: !ruby/object:DateTime 2018-02-24 21:09:31.483000000 Z
