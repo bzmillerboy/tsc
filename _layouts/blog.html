@@ -54,7 +54,9 @@
     
               <div class="timeline-border"></div>
     
-              {% for post in site.data.tsc.post %}
+              {% assign sorted = (site.data.tsc.post | sort: 'date') | reverse %}
+
+              {% for post in sorted %}
                 {% if post.category.slug == page.category %}
                 <div class="entry clearfix">
                   <div class="entry-timeline">
@@ -90,9 +92,8 @@
                 {% endif %}
               {% endfor %}
 
-
               {% if page.category == 'all' %}
-                {% for post in site.data.tsc.post %}
+                {% for post in sorted %}
                 <div class="entry clearfix">
                   <div class="entry-timeline">
                     {{ post.date | date_to_string | date: "%d" }}

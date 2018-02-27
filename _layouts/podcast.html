@@ -54,7 +54,9 @@
     
               <div class="timeline-border"></div>
     
-              {% for episode in site.data.tsc.podcast %}
+              {% assign sorted = (site.data.tsc.podcast | sort: 'date') | reverse %}
+
+              {% for episode in sorted %}
                 <div class="entry clearfix">
                   <div class="entry-timeline">
                     {{ episode.date | date_to_string | date: "%d" }}
