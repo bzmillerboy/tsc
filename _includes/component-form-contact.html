@@ -1,34 +1,76 @@
-<style>
-
-</style>
-<form method="POST" action="https://triumphstrengthandconditioning.activehosted.com/proc.php" id="_form_3_" class="_form _form_3 _inline-form  _dark" novalidate>
-  <input type="hidden" name="u" value="3" />
-  <input type="hidden" name="f" value="3" />
+<form method="POST" action="https://triumphstrengthandconditioning.activehosted.com/proc.php" id="_form_5_" class="_form _form_5 _inline-form  _dark" novalidate>
+  <input type="hidden" name="u" value="5" />
+  <input type="hidden" name="f" value="5" />
   <input type="hidden" name="s" />
   <input type="hidden" name="c" value="0" />
   <input type="hidden" name="m" value="0" />
   <input type="hidden" name="act" value="sub" />
   <input type="hidden" name="v" value="2" />
   <div class="_form-content">
-    <div class="_form_element _x49796712 _full_width " >
+
+    <div class="col_one_third">
+      <label for="template-contactform-name">Name <small>*</small> </label>
+      <input type="text" name="fullname" placeholder="Type your full name" class="sm-form-control required" required/>
+    </div>
+    <div class="col_one_third">
+      <label for="template-contactform-email">Email <small>*</small></label>
+      <input type="text" name="email" placeholder="Type your email" class="required email sm-form-control" required/>
+    </div>
+    <div class="col_one_third col_last">
+      <label for="template-contactform-phone">Phone</label>
+      <input type="text" name="phone" placeholder="Type your phone number" class="sm-form-control" />
+    </div>
+    <div class="col_full">
+      <label for="template-contactform-message">Message <small>*</small></label>
+      <textarea name="field[1]" placeholder="Enter your message" class="required sm-form-control" rows="6" cols="30" required></textarea>
+    </div>
+    <div class="col_full">
+      <button class="button button-3d nomargin" type="submit" value="submit">Send Message</button>
+    </div>
+    <!-- <div class="_form_element _x12994029 _full_width " >
+      <label class="_form-label">
+        Full Name*
+      </label>
       <div class="_field-wrapper">
-        <input class="form-control required email" type="text" name="email" placeholder="Type your email" required/>
+        <input type="text" name="fullname" placeholder="Type your name" required/>
       </div>
-    </div>
-    <div class="_button-wrapper _full_width">
-      <button id="_form_3_submit" class="_submit btn btn-primary mt-2 btn-block" type="submit">
-        Subscribe
+    </div> -->
+    <!-- <div class="_form_element _x11957612 _full_width " >
+      <label class="_form-label">
+        Email*
+      </label>
+      <div class="_field-wrapper">
+        <input type="text" name="email" placeholder="Type your email" required/>
+      </div>
+    </div> -->
+    <!-- <div class="_form_element _x17789391 _full_width " >
+      <label class="_form-label">
+        Phone
+      </label>
+      <div class="_field-wrapper">
+        <input type="text" name="phone" placeholder="Type your phone number" />
+      </div>
+    </div> -->
+    <!-- <div class="_form_element _field1 _full_width " >
+      <label class="_form-label">
+        Message*
+      </label>
+      <div class="_field-wrapper">
+        <textarea name="field[1]" placeholder="Enter your message"  required></textarea>
+      </div>
+    </div> -->
+    <!-- <div class="_button-wrapper _full_width">
+      <button id="_form_5_submit" class="_submit" type="submit">
+        Submit
       </button>
-    </div>
+    </div> -->
     <div class="_clear-element">
     </div>
   </div>
   <div class="_form-thank-you" style="display:none;">
   </div>
-  <div class="_form-branding">
-  </div>
 </form><script type="text/javascript">
-window.cfields = [];
+window.cfields = {"1":"message"};
 window._show_thank_you = function(id, message, trackcmp_url) {
   var form = document.getElementById('_form_' + id + '_'), thank_you = form.querySelector('._form-thank-you');
   form.querySelector('._form-content').style.display = 'none';
@@ -97,7 +139,7 @@ window._load_script = function(url, callback) {
     }
   }
   var _removed = false;
-  var form_to_submit = document.getElementById('_form_3_');
+  var form_to_submit = document.getElementById('_form_5_');
   var allInputs = form_to_submit.querySelectorAll('input, select, textarea'), tooltips = [], submitted = false;
 
   var getUrlParam = function(name) {
@@ -323,7 +365,7 @@ window._load_script = function(url, callback) {
     if (validate_form()) {
       // use this trick to get the submit button & disable it using plain javascript
       document.querySelector('[id^="_form"][id$="_submit"]').disabled = true;
-            var serialized = _form_serialize(document.getElementById('_form_3_'));
+            var serialized = _form_serialize(document.getElementById('_form_5_'));
       var err = form_to_submit.querySelector('._form_error');
       err ? err.parentNode.removeChild(err) : false;
       _load_script('https://triumphstrengthandconditioning.activehosted.com/proc.php?' + serialized + '&jsonp=true');

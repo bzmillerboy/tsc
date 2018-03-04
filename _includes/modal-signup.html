@@ -2,34 +2,15 @@
 <div class="modal1 mfp-hide" id="modal-signup">
   <div class="block divcenter" style="background-color: #FFF; max-width: 700px;">
     <div class="row nomargin clearfix">
-      <div class="col-md-6" data-height-xl="526" data-height-lg="526" data-height-md="526" data-height-sm="0" data-height-xs="0"
+      <div class="col-md-6" data-height-xl="596" data-height-lg="596" data-height-md="526" data-height-sm="75" data-height-xs="75"
         style="background-image: url(/images/signup-bg.jpg); background-size: cover;"></div>
-      <div class="col-md-6 col-padding" data-height-xl="526" data-height-lg="526" data-height-md="526" data-height-sm="526" data-height-xs="526">
+      <div class="col-md-6 col-padding scroll" data-height-xl="596" data-height-lg="596" data-height-md="526" data-height-sm="526" data-height-xs="526">
         <div>
           <h4 class="uppercase ls1 nomargin">Tell us about yourself</h4>
           <p style=" margin-bottom: 10px;"><small class="t300">Complete the form below and we'll contact you regarding your membership.</small></p>
-          <form netlify name="signup" action="/signup-success" class="clearfix" style="max-width: 300px;" netlify-honeypot="bot-field">
-            <div class="col_full">
-              <label for="" class="capitalize t600">Full Name:</label>
-              <input type="text" name="name" value="" class="sm-form-control" required />
-            </div>
-            <div class="col_full">
-              <label for="" class="capitalize t600">Email:</label>
-              <input type="email" name="email" value="" class="sm-form-control" required/>
-            </div>
-            <div class="col_full">
-              <label for="" class="capitalize t600">Phone:</label>
-              <input type="phone" name="phone" value="" class="sm-form-control" required />
-            </div>
-            <p class="hidden">
-              <label>Don’t fill this out if you're human:
-                <input name="bot-field">
-              </label>
-            </p>
-            <div class="col_full nobottommargin">
-              <button type="submit" class="button button-rounded button-small button-dark nomargin" value="submit">Submit</button>
-            </div>
-          </form>
+          
+          {% include component-form-signup.html %}
+
         </div>
       </div>
     </div>

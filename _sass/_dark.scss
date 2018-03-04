@@ -1232,9 +1232,9 @@ body #side-panel.dark #side-panel-trigger-close a {
 .dark .sm-form-control:not(.not-dark)[readonly],
 .dark fieldset[disabled] .sm-form-control:not(.not-dark) { background-color: rgba(255,255,255,0.1); }
 
-.dark .input-group .form-control.error:not(.not-dark) { color: #E42C3E; }
+.dark .input-group .form-control.error:not(.not-dark), ._error-inner { color: #E42C3E; }
 
-.dark .sm-form-control.error:not(.not-dark) { border-color: #E42C3E !important; }
+.dark .sm-form-control.error:not(.not-dark), ._has_error { border-color: #E42C3E !important; }
 
 .dark .form-control.error:not(.not-dark)::-moz-placeholder { color: rgba(228,44,62,0.6); }
 .dark .form-control.error:not(.not-dark):-ms-input-placeholder { color: rgba(228,44,62,0.6); }
