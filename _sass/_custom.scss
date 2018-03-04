@@ -4,6 +4,9 @@ body {
   font-size: 16px;
 	font-family: 'Lato', sans-serif;
 }
+ul {
+  margin-left: 30px;
+}
 .slider-caption-center {
 	top: 178px !important;
 }
@@ -34,19 +37,21 @@ div.image-thumb {
 }
 
 .section-programs {
+
   .program-left,.program-right {
     height: 50vw;
-    background-size: cover;
+    background-size: 100%;
     background-position: 50% 50%;
     background-repeat: no-repeat;
+    @media (max-width: 575px) {
+      height: 80vw;
+    }
   }
   .program-left {
-    background-color: $brand-orange;
-    background-image: url("/images/program-barbell-bg.png");
+    background-image: url("/images/promo-barbell.jpg");
   }
   .program-right {
-    background-color: $brand-black;
-    background-image: url("/images/program-sgx-bg.png");
+    background-image: url("/images/promo-sweat.jpg");
   }
   .program-img {
     width: 80%;
