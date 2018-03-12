@@ -97,3 +97,6 @@ exclude:
 #   - vendor/ruby/
     - package.json
     - README.md
+
+include:
+  - _redirects

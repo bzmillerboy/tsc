@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+
+/programming-preview-week-of-3-12 /blog/programming-preview-week-of-3-12
+/home              /
+/news              /blog
