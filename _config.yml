@@ -28,6 +28,7 @@ plugins:
   - jekyll-feed
   - jekyll-livereload
   - jekyll-contentful-data-import
+  - jekyll-redirect-from
 
 sass:
   sass_dir: _sass

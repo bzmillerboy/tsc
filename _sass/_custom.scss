@@ -125,3 +125,19 @@ footer .accretion-logo svg {
 .scroll {
   overflow: scroll;
 }
+
+@media (max-width: 575px) {
+  #header, #header-wrap, #logo img {
+    height: 70px;
+  }
+  #header, #header-wrap, #logo a {
+    padding-top: 6px;
+  }
+  #primary-menu-trigger {
+    top: 18px;
+  }
+  #primary-menu-trigger i {
+    font-size: 34px;
+  }
+
+}

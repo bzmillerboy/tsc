@@ -48,6 +48,8 @@ GEM
     jekyll-livereload (0.2.2)
       em-websocket (~> 0.5)
       jekyll (~> 3.0)
+    jekyll-redirect-from (0.13.0)
+      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
     jekyll-seo-tag (2.4.0)
@@ -91,6 +93,7 @@ DEPENDENCIES
   jekyll-contentful-data-import
   jekyll-feed (~> 0.6)
   jekyll-livereload
+  jekyll-redirect-from
   minima (~> 2.0)
   tzinfo-data
 
