@@ -5,30 +5,40 @@
       <h1>LATEST NEWS & EVENTS</h1>
   </div>
 
-  {% for post in site.data.tsc.post limit:3 %}
-  <div class="col_one_third">
-    <div class="ipost clearfix">
-      <div class="entry-image image-thumb image_fade">
-        <a href="/blog/{{ post.slug }}">
-          <figure class="fixed-ratio img-responsive" style="background-image:url('{{ post.featured_image.url }}')">
-          </figure>
-        </a>
+
+  {% assign cf-post = site.data.tsc.post %}
+  {% assign sorted = cf-post | sort: 'date' | reverse  %}
+   
+  {% assign count = 0 %}
+  {% for post in sorted %}
+    {% if post.category.slug == 'gym-news' or post.category.slug == 'coaches-corner' %}
+      {% if count < 3 %}
+      <div class="col_one_third">
+        <div class="ipost clearfix">
+          <div class="entry-image image-thumb image_fade">
+            <a href="/blog/{{ post.slug }}">
+              <figure class="fixed-ratio img-responsive" style="background-image:url('{{ post.featured_image.url }}')">
+              </figure>
+            </a>
+          </div>
+          <div class="entry-title">
+            <h3>
+              <a href="/blog/{{ post.slug }}">{{ post.title }}</a>
+            </h3>
+          </div>
+          <ul class="entry-meta clearfix">
+            <li>
+              <i class="icon-calendar3"></i>{{ post.date | date_to_string }}
+            </li>
+          </ul>
+          <div class="entry-content">
+            <p>{{ post.body | markdownify | strip_html | truncate:255 }}</p>
+          </div>
+        </div>
       </div>
-      <div class="entry-title">
-        <h3>
-          <a href="/blog/{{ post.slug }}">{{ post.title }}</a>
-        </h3>
-      </div>
-      <ul class="entry-meta clearfix">
-        <li>
-          <i class="icon-calendar3"></i>{{ post.date | date_to_string }}
-        </li>
-      </ul>
-      <div class="entry-content">
-        <p>{{ post.body | markdownify | strip_html | truncate:255 }}</p>
-      </div>
-    </div>
-  </div>
+      {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endif %}
   {% endfor %}
 
   <div class="clear"></div>

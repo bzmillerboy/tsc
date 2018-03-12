@@ -1,320 +1,23 @@
 ---
-page:
-- sys:
-    id: 5benbMEbHGY82mwY0eQWOK
-    created_at: !ruby/object:DateTime 2018-02-25 03:30:14.120000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 03:30:14.120000000 Z
-    content_type_id: page
-  title: Barbell Club
-  sub_title: Whether you're a seasoned lifter or just starting out.
-  body: |-
-    Whether you're a seasoned lifter or just starting out Triumph Barbell is based around your needs as a lifter. With a 3-day and 5-day a week program we cater to your abilities and build up areas you may struggle with. Meeting every Tuesday, Thursday and Saturday from 6:30 AM - 8:00 AM and 5:30 PM - 7:00 PM.
-
-    Our 3-day a week program is designed for novice lifters wanting to incorporate the strength, agility and speed into their CrossFit workouts. The 5-day a week program is designed for intermediate and advanced lifters with their sole focus being Olympic weightlifting. This program includes a multitude of skills and drills paired with a percentage based strength cycle will help athletes improve their snatch and clean & jerk totals.
-
-    Here are some additional benefits to Triumph Barbell:
-    - Customized program based around you strengths and weaknesses
-    - Hands on coaching in small group setting
-    - Access to equipment outside of class times
-    - Guidance building up to weightlifting meets and coaching at weightlifting meets
-    - Video feed back from coaches using team Coaches Eye platform
-
-
-
-    ### [Sign Up for Barbell Fundamentals Now](https://triumphstrength.wodify.com/OnlineSalesPortal/ReviewPlanPurchase.aspx?OnlineMembershipId=83789&OnlineMembershipPaymentOptionId=327472&IsMobile=False)
-
-
-    <a href="https://www.youtube.com/watch?v=0_fJyc7Xfao" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=0_fJyc7Xfao</a>
-  featured_image:
-    sys:
-      id: 4Q6pPaz7YAywgIQ0OcQqqw
-      created_at: !ruby/object:DateTime 2018-02-25 03:29:48.976000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-27 03:51:00.760000000 Z
-    title: barbell-club-bg
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/4Q6pPaz7YAywgIQ0OcQqqw/3b64014d6b52fd1cfb79fef41ad7016b/barbell-club-bg.jpg"
-  slug: barbell-club
-  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-- sys:
-    id: guuK2j30M800mA4QA8yk2
-    created_at: !ruby/object:DateTime 2018-02-25 04:15:50.554000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 04:15:50.554000000 Z
-    content_type_id: page
-  title: Open Gym
-  sub_title: Every Sunday. Come work on your weakness.
-  body: We host open gym every sunday from 2pm to 4pm. Come in and make up your own
-    workout or focus on a movement. They gym is yours.
-  featured_image:
-    sys:
-      id: 4J4NNfdXU4iA04aieM0oG4
-      created_at: !ruby/object:DateTime 2018-02-25 04:15:33.232000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-27 03:54:25.844000000 Z
-    title: open-gym-bg
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/4J4NNfdXU4iA04aieM0oG4/da3f8e1e002a1d153b373ebe861d438a/open-gym-bg.jpg"
-  slug: open
-  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
-- sys:
-    id: 5T4giVRj9KkWwIoQesCqcU
-    created_at: !ruby/object:DateTime 2018-02-25 03:38:58.897000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 03:38:58.897000000 Z
-    content_type_id: page
-  title: CrossFit Class
-  sub_title: Designed to help you meet your goals.
-  body: Based on the CrossFit prescription of “constantly varied functional movement
-    executed at high intensity,” our CrossFit program combines strength training with
-    the “classic” CrossFit cardio workout. For this class, you could be working on
-    pull-ups, rowing, burpees and much more. Every WOD is different so you never get
-    bored! We scale each workout to your fitness level, so you get the maximum workout
-    every time.
-  featured_image:
-    sys:
-      id: 43rvukjaZa2We8mUwGiAmC
-      created_at: !ruby/object:DateTime 2018-02-25 03:36:51.996000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-27 03:48:35.571000000 Z
-    title: CrossFit-Group-Class
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/43rvukjaZa2We8mUwGiAmC/f1783e4758ae0eac2cd276d7955a7156/crossfit-group-class.jpg"
-  slug: crossfit
-  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
-- sys:
-    id: 3CfvjLdfgAa4GiSoGsOuaA
-    created_at: !ruby/object:DateTime 2018-02-25 04:45:50.693000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 04:45:50.693000000 Z
-    content_type_id: page
-  title: Programs
-  sub_title: Designed for lifetime health and fitness.
-  body: "At Triumph Strength & Conditioning, we’re all about you. We’ve designed our
-    classes to help you meet your goals for lifetime health and fitness and have a
-    great time doing it!\n\n## Fundamentals Class\nThe Fundamentals Course is designed
-    to set you up for success in a safe and confident environment prior to entering
-    our regular classes. You’ll learn what CrossFit is and why it is a great way to
-    get you fit for life and other endeavors. These 6 small-group classes (which are
-    required for everyone who has never tried CrossFit before) teach you all the basics
-    to get you ready for the intensity of CrossFit. Come prepared to learn new skills
-    and sweat a little. [Learn More](https://triumphstrength.net/fundamentals)\n\n##
-    CrossFit Class\nBased on the CrossFit prescription of “constantly varied functional
-    movement executed at high intensity,” our CrossFit program combines strength training
-    with the “classic” CrossFit cardio workout. For this class, you could be working
-    on pull-ups, rowing, burpees and much more. Every WOD is different so you never
-    get bored! We scale each workout to your fitness level, so you get the maximum
-    workout every time. [Learn More](https://triumphstrength.net/crossfit)\n\n## Personal
-    Training\nIn today’s busy world, it’s hard to find the time to get regular exercise.
-    So it’s important to make the most of the time you have. CrossFit Accretion offers
-    a wide range of personal workout programs to help you achieve your ideal body.
-    Your personal trainer will develop an exercise regimen suited specifically for
-    you, whether your goal is to gain muscle or lose weight. \n\n## Barbell Club\nThe
-    Triumph Barbell Club follows set cycles ranging from the introductory level to
-    more advanced cycles prepping lifters for WODs or competition. Whether you’re
-    looking to improve your technique and strength or want to pursue lifting as a
-    sport, this barbell class is for you. [Learn More](https://triumphstrength.net/barbell-club)\n\n##
-    Nutritional Guidance\nThe best workout in the world won’t work without the right
-    nutrition. We’ll help you find the right diet for your body type, goals, and particular
-    health needs. If you’re struggling with certain health issues, or even if you
-    feel “perfectly healthy,” nutritional guidance is critical to your success in
-    fitness and health.\n\n"
-  featured_image:
-    sys:
-      id: 2Te3QCAfpmYgayu0kCgS8Y
-      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-    title: contact-bg
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
-  slug: programs
-  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-- sys:
-    id: tuFOb0hI40GCky0g2Agc
-    created_at: !ruby/object:DateTime 2018-02-25 03:50:09.132000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 03:50:09.132000000 Z
-    content_type_id: page
-  title: Fundamentals
-  sub_title: Designed to set you up for success.
-  body: The Fundamentals Course is designed to set you up for success in a safe and
-    confident environment prior to entering our regular classes. You’ll learn what
-    CrossFit is and why it is a great way to get you fit for life and other endeavors.
-    These 6 small-group classes (which are required for everyone who has never tried
-    CrossFit before) teach you all the basics to get you ready for the intensity of
-    CrossFit. Come prepared to learn new skills and sweat a little.
-  featured_image:
-    sys:
-      id: 41nswb78Na0YIySQeIaAOI
-      created_at: !ruby/object:DateTime 2018-02-25 03:49:59.470000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-27 03:47:52.666000000 Z
-    title: fundamentals-bg
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/41nswb78Na0YIySQeIaAOI/1b3d16ac1252615c3647fbd8477a150e/fundamentals-bg.jpg"
-  slug: fundamentals
-  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
-- sys:
-    id: 4ZcKS3C9Py6OU8K8Ic6Ewy
-    created_at: !ruby/object:DateTime 2018-02-25 03:20:22.890000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-04 02:08:51.149000000 Z
-    content_type_id: page
-  title: SWEAT Class
-  sub_title: Get moving, get fit & feel great.
-  body: "Get moving, get fit & feel great. Starting on March 5, 2018 we'll be running
-    a 12 week bootcamp designed to get you in the door, get you out and sweating in
-    just 30 minutes. The cost is 12 weeks for $200, $140 for current Triumph members.
-    A 10 class package can  be purchased for $100 as well.\n\n__Class Times__\nMonday,
-    Wednesday & Friday\n- 5:00 AM\n- 8:00 AM\n- 11:00 AM\n\n### [Purchase your Sweat
-    Class Package Now](https://triumphstrength.wodify.com/OnlineSalesPortal/Sessions.aspx?LocationId=2081&IsMobile=False)
-    \n\n<a href=\"https://www.youtube.com/watch?v=2nzEKK97ZkA\" class=\"embedly-card\"
-    data-card-width=\"100%\" data-card-controls=\"1\">Embedded content: https://www.youtube.com/watch?v=2nzEKK97ZkA</a>"
-  featured_image:
-    sys:
-      id: 1x3OMTzrIEEqiq462gACgu
-      created_at: !ruby/object:DateTime 2018-02-25 03:19:58.634000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-27 03:49:59.976000000 Z
-    title: 12 week bootcamp bg
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/1x3OMTzrIEEqiq462gACgu/e829c994eee99a362bd93b6b3ec1a2b1/Screenshot_2018-02-24_22.16.51.jpg"
-  slug: sweat
-  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-- sys:
-    id: 33AyohsyoMO6AUE66GAYAA
-    created_at: !ruby/object:DateTime 2018-02-25 01:53:41.986000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 01:53:41.986000000 Z
-    content_type_id: page
-  title: Tour the Facility
-  sub_title: 7,000-square-foot has everything you need to push yourself to new limits
-  body: |-
-    Triumph Strength and Conditioning’s 7,000-square-foot box has everything you need to push yourself to new limits. Plenty of room to stretch out and sweat, all the cool CrossFit tools you love (and sometimes love to hate), passionate coaches, and the kind of atmosphere that you can’t wait to get to at the end of the day. Come on by and check us out!
-
-    <iframe src="https://www.google.com/maps/embed?pb=!4v1519523579023!6m8!1m7!1sByo7d4Th5ccAAAQvPAbgEg!2m2!1d38.98405953656803!2d-84.63283061176617!3f16.68!4f-13.61!5f0.4000000000000002" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-  featured_image:
-    sys:
-      id: 2Te3QCAfpmYgayu0kCgS8Y
-      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-    title: contact-bg
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
-  slug: tour
-  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
-- sys:
-    id: 54fEqNiCScS6UqsauqyaQe
-    created_at: !ruby/object:DateTime 2018-02-25 04:11:19.723000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 04:11:19.723000000 Z
-    content_type_id: page
-  title: Family Class
-  sub_title: Because your kids want to CrossFit too.
-  body: We offer family classes at 9:00am every Saturday. Bring your kids and we'll
-    cater a workout just for them. It's fun and a great way to get your entire family
-    out and moving.
-  featured_image:
-    sys:
-      id: 1nxOht8mUASq8OSg6QEOCu
-      created_at: !ruby/object:DateTime 2018-02-25 04:11:30.078000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-27 03:53:37.777000000 Z
-    title: family-bg
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/1nxOht8mUASq8OSg6QEOCu/23754f015848fc2f95bf14b736d6ce39/family-bg.jpg"
-  slug: family
-  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
-- sys:
-    id: 6oV7ONvcJiOYwWA6qAEQa6
-    created_at: !ruby/object:DateTime 2018-02-25 03:59:49.017000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 03:59:49.017000000 Z
-    content_type_id: page
-  title: Spartan SGX
-  sub_title: Spartan training builds complete fitness.
-  body: |-
-    SGX is Spartan’s official training program and the leader in obstacle race fitness. SGX is designed for every fitness level and any age, a scientifically-supported solution to get anyone physically and mentally prepared for a Spartan Race, or to live more vitally. SGX is grounded in functional bodyweight exercise to improve agility, athleticism and power; the workouts are progressive, varying in exercise volume, intensity and specificity over time. SGX is also about empowerment. Coaches are trained to help people improve their nutritional and lifestyle habits and self-efficacy, all critical to success in the race and in daily life.
-
-    Because participating in a Spartan Race requires all-around fitness, SGX training necessarily develops well-rounded athletes. Because every Spartan Race is different, SGX training builds the transformational capability to take on whatever challenge arises.
-
-    SGX training will benefit you on the race course or on the soccer field, at the box or at the yoga studio, on the track or on the trail, at work and at home, and in how you feel every day.
-
-    Find an SGX coach, or experience SGX firsthand at our one-day obstacle race prep class Spartan Obstacle Specialist.
-
-
-    ### [Inquire about Spartan Training](https://triumphstrength.net/contact)
-  featured_image:
-    sys:
-      id: 9wSNAKdQswum4ky02SUoW
-      created_at: !ruby/object:DateTime 2018-02-25 03:59:34.422000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-27 03:52:58.203000000 Z
-    title: spartansgx-bg
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/9wSNAKdQswum4ky02SUoW/4c5d50856656bb4156549a897a2d62c1/spartansgx-bg.jpg"
-  slug: spartansgx
-  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
-- sys:
-    id: 21tI2bgDeg0Eg86eiMuKC0
-    created_at: !ruby/object:DateTime 2018-02-25 04:47:43.826000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 04:47:43.826000000 Z
-    content_type_id: page
-  title: About
-  sub_title: Home of CrossFit Accretion
-  body: |-
-    Triumph Strength and Conditioning - Home of CrossFit Accretion holds our tight-knit community above everything else. Sure you'll find Florence's most highly trained coaches under this roof, but you'll also find our members going out of their way to welcome and support new clients and each other. We pride ourselves on making our box a clean place where you can obtain the guidance you need to begin changing your life forever.
-
-    Our functional and intense workouts are unmatched, and when paired with a solid nutritional foundation, you have the perfect combination for a healthier you. Our classes encourage the camaraderie that we're known for, which in turn drives the amazing results you'll soon experience. Find out what it means to Carry The Shield and join this amazing community today.
-  featured_image:
-    sys:
-      id: 2Te3QCAfpmYgayu0kCgS8Y
-      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-    title: contact-bg
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
-  slug: about
-  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
-- sys:
-    id: 3zuJrkcYTewEkq4y40Y4Y6
-    created_at: !ruby/object:DateTime 2018-03-12 02:55:20.301000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-12 02:55:20.301000000 Z
-    content_type_id: page
-  title: Cancellation Request
-  sub_title: We're sorry to see you go
-  body: |-
-    <ol>
-      <li>If you decide to reactivate your membership in the future (and we hope you do) membership rates in effect at the time
-      of reactivation will be applicable as membership rates are subject to change.</li>
-      <li>If you wolid like to put your membership on hold instead of canceling, you can submit a Membership Hold Request. If you’re
-      sure you’d like to cancel, just complete and submit the form below. This will serve as your 30-day written cancellation notice
-      as required by your membership agreement. Your membership will be canceled 30 days from the submission of the form below.
-      Note that if you have a schedlied payment within this period, the payment will be processed as schedlied. All payments are
-      non-refundable.</li>
-      <li>Cancellation of memberships prior to the expiration of any specified commitment period requires an early termination
-      fee of the difference between the membership you were on and the membership you sholid have been on as outlined in your membership
-      agreement.
-      </li>
-    </ol>
-
-    <div class="line topmargin-sm nobottommargin"></div>
-
-    <div class="_form_6"></div>
-    <script src="https://triumphstrengthandconditioning.activehosted.com/f/embed.php?id=6" type="text/javascript" charset="utf-8"></script>
-  featured_image:
-    sys:
-      id: 2Te3QCAfpmYgayu0kCgS8Y
-      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
-    title: contact-bg
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
-  slug: cancel
-  date: !ruby/object:DateTime 2018-03-01 00:00:00.000000000 -05:00
 post:
 - sys:
-    id: 7cRcpfRbI4SMmwGuIC4G4G
-    created_at: !ruby/object:DateTime 2018-03-11 17:57:15.808000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-11 17:57:15.808000000 Z
+    id: 2TlQUXbOMw6CQqoYuwKSCA
+    created_at: !ruby/object:DateTime 2018-03-11 22:42:14.331000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-11 22:49:45.596000000 Z
     content_type_id: post
-  title: 'January Member of the Month: Carola Bell'
+  title: 'Programming Preview: Week of 1/8'
   body: |-
-    If you’ve been at Triumph in the wee hours of the morning you have seen Carola over in the corner warming up or putting some weight overhead. Carola has been at Triumph for some time but has just recently switched over to a full time barbell club member. The exciting part about this is that it aligns with her new goals for 2018 in the sport of weightlifting. She has an incredibly interesting life, not that she would tell you but we can. You can listen to her on our podcast Everyday Athlete HERE.
-    Make sure you congratulate Carola for kicking off the member of the month for 2018!
+    Well we made it past the first week of the year. We’ve got some great things in store for you all this week. Check out the video to see this week’s workouts and descriptions.
+
+    <a href="https://www.youtube.com/watch?v=SUaH3ye_AX4" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=SUaH3ye_AX4</a>
   featured_image:
     sys:
-      id: 6mux0JbXkQqGQq8CoOAcQ4
-      created_at: !ruby/object:DateTime 2018-03-11 17:56:58.591000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-11 17:56:58.591000000 Z
-    title: mom-cb
+      id: 1yQ8cRcgEQEyQycqai40iM
+      created_at: !ruby/object:DateTime 2018-03-11 22:41:20.749000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-11 22:41:20.749000000 Z
+    title: pp-week-18-01-08
     description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/6mux0JbXkQqGQq8CoOAcQ4/b917b53f9bdb7d9104a27313790ff5c1/mom-cb.jpg"
+    url: "//images.ctfassets.net/ctmmyckif2fs/1yQ8cRcgEQEyQycqai40iM/fe302c6362e51410af07cca7edf4fc33/pp-week-18-01-08.jpg"
   author:
     sys:
       id: 37TyZJB8buu0CeqEgcOYuS
@@ -333,37 +36,227 @@ post:
     slug: jarrett-baston
   category:
     sys:
-      id: 4hTMi0NG9WcusWCiiKKCK6
-      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      id: 25qMMuioYAQyu2c46qg2Ki
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
       content_type_id: category
-    name: Featured Athlete
-    slug: featured-athlete
-  date: !ruby/object:DateTime 2018-01-01 00:00:00.000000000 -05:00
-  slug: january-member-of-the-month-carola-bell
+    name: Gym News
+    slug: gym-news
+  date: !ruby/object:DateTime 2018-01-07 00:00:00.000000000 -05:00
+  slug: programming-preview-week-of-1-8
 - sys:
-    id: 3Hwsab2V3qMo0uoQeoIYmA
-    created_at: !ruby/object:DateTime 2018-03-10 03:40:33.776000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-10 03:40:33.776000000 Z
+    id: 2SV8ILAZzy68oEA2u8IGG4
+    created_at: !ruby/object:DateTime 2018-03-12 01:14:40.173000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-12 01:14:40.173000000 Z
     content_type_id: post
-  title: 'Athlete Profile: Suzanne Fernbach'
-  body: "__Name__\nSuzanne Fernbach\n\n__Where are you from?__\nDry Ridge, KY\n\n__What
-    is your favorite vacation spot? Why?__\nDestin Fl. LOVE the white sand and green
-    water\n\n__What is your favorite movie or TV show?__\nGame of Thrones\n\n__What
-    is the best gift you’ve ever received?__\nMy tens unit \U0001F602\n\n__Who is
-    your hero?__\nMy husband for beating lymphoma\n\n__What’s something we don’t know
-    about you?__\nI’m late for EVERYTHING\n\n__What are two pet peeves?__\nSchedule
-    changes. Liars.\n\n__Favorite CrossFit movement?__\nDouble unders\n\n__Favorite
-    CrossFit WOD?__\nGrace\n\n__Anything else you’d like to share?__\nI love this
-    gym ❤"
+  title: 'Programming Preview: Week of 1/15'
+  body: |-
+    Some great things coming your way this week. Check out the preview to see this week’s workouts, advice and modifications.
+
+    <a href="https://www.youtube.com/watch?v=IpH4A9OCK4I" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=IpH4A9OCK4I</a>
   featured_image:
     sys:
-      id: 4KiH04czhum0uIEm2mW6S4
-      created_at: !ruby/object:DateTime 2018-03-10 03:39:51.095000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-10 03:39:51.095000000 Z
-    title: ap-sf
+      id: 1olf9s3GSMG6UycSm0Wi2o
+      created_at: !ruby/object:DateTime 2018-03-12 01:14:30.665000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-12 01:14:30.665000000 Z
+    title: pp-week-18-01-15
     description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/4KiH04czhum0uIEm2mW6S4/0da14bac76cb941172898d928bc7bb6c/ap-sf.jpg"
+    url: "//images.ctfassets.net/ctmmyckif2fs/1olf9s3GSMG6UycSm0Wi2o/bd9bf4147f7959accb8070202a1ec052/pp-week-18-01-15.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 25qMMuioYAQyu2c46qg2Ki
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      content_type_id: category
+    name: Gym News
+    slug: gym-news
+  date: !ruby/object:DateTime 2018-01-14 00:00:00.000000000 -05:00
+  slug: programming-preview-week-of-1-15
+- sys:
+    id: 2y8x4r5N5ese6QcKqOgYMg
+    created_at: !ruby/object:DateTime 2018-02-24 21:17:18.646000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-24 21:27:38.764000000 Z
+    content_type_id: post
+  title: '15 Minute Trainer: Squats, Push Up, Burpees, Sit Ups'
+  body: |-
+    Welcome to this week's 15 Minute Trainer. Coach Chris takes you through an EMOM of air squats, push ups, burpees and sit ups.
+
+    <a href="https://www.youtube.com/embed/8KrlQjI5KRM" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/embed/8KrlQjI5KRM</a>
+  featured_image:
+    sys:
+      id: 4D1cMZflRKyakmm4U8yaai
+      created_at: !ruby/object:DateTime 2018-02-24 21:16:47.590000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 21:16:47.590000000 Z
+    title: Screenshot-2018-02-11-19.23.01-1038x576
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/4D1cMZflRKyakmm4U8yaai/89148cc1b62bf629b3be3afa71772c49/Screenshot-2018-02-11-19.23.01-1038x576.png"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 6LVaTXj0l2k2w0g0Q6WCiA
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      content_type_id: category
+    name: Coaches Corner
+    slug: coaches-corner
+  date: !ruby/object:DateTime 2018-02-16 00:00:00.000000000 -05:00
+  slug: 15-minute-trainer-squats-push-up-burpees-sit-ups
+- sys:
+    id: 5AAHXZJCH6ssgEEEAKMyMA
+    created_at: !ruby/object:DateTime 2018-03-11 22:30:59.259000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-11 22:30:59.259000000 Z
+    content_type_id: post
+  title: Let us help you
+  body: |-
+    Let us help you, pretty please with sugar on top! But only if you’re ready. Maybe next week? Maybe next month, year, ten years?
+
+    ![lending-a-helping-hand](//images.contentful.com/ctmmyckif2fs/qQbzb6lnCoOQagWmcuUQY/ff33ff9876682d87ed0812369c440d02/lending-a-helping-hand.jpg)
+
+    Let me rephrase that.  Let us help you NOW. Let us help your family, your friends, the bank teller, grocery store worker, your co-worker, church friends, facebook friends and even help the people you don’t like.
+
+    When will we take action to help the people around us? Tomorrow, a week, a year, a lifetime? One of the biggest problems the older population (70 and up) lives with is REGRET.  I wish I would have done this sooner, or said something sooner, etc.  What is holding you back?  When is it too late?
+
+    ![DSC 0384](//images.contentful.com/ctmmyckif2fs/3rS0ssLSasi4iGEYcUukGm/21f910d6a3219991507be27c23682c53/DSC_0384.jpg)
+
+    Let’s start with your beliefs. Do you truly believe in fitness? Does it make you feel better mentally and physically?  Is there something that you could be doing that is better? I think that is a question a lot of people struggle with in everything they do.  Look at the statistic that says only ¼ of people actually like their job which is something that consumes over 50% of their waking lives.  However, studies support that people who work out at least 30 minutes a day are overall happier and lead a better life.
+
+    ![DSC 0384](//images.contentful.com/ctmmyckif2fs/27ObXyfQvG8WAmAAWooEMu/edeb22f5a9bf1d0d68e7d6867e735c8e/DSC_0384.jpg)
+
+    I’ll say it again, when will you take some action?  Get up and decide that you’re in charge of your life and your body!  You control what goes in your mouth and also what comes out of it.  Start with having a constructive conversation or preparing a good meal.  Remember, whatever meal you’re about to eat next is your choice and whatever bad or good thing that is about to come out of your mouth is your choice.  The outcomes you are currently experiencing are a product of your choices.  If you are healthy and happy then keep it up, but just clue some of the rest of us in on your secret. Please!
+
+    ![DSC 0554](//images.contentful.com/ctmmyckif2fs/3hubFohNDiYwcEcYCGSCUI/cf4358415914d8dec080d8f040c398ee/DSC_0554.jpg)
+
+    I’ve ate a lot of bad things and said regrettable things to people.  I’m far from perfect. All I can do is try harder and put myself in a position to succeed.  I want to be successful, and I don’t want that success to be defined by numbers in an account or likes on this post.  I want it to be defined by the amount of people Triumph helps and the people that better themselves  through community fitness.  I would like to think we are just getting started.  The challenge ahead will be tough but the vision is clear. HELP as many people discover that they are not alone and have the power to change the world through their actions.  Get off the sidelines and into the game.
+
+
+    ![Personal-Training](//images.contentful.com/ctmmyckif2fs/3dZtaYpda0Mo6OU8OOkow0/cafae9b1897e9ea2088147641f92e14a/Personal-Training.jpg)
+
+    So let me encourage you to invite someone in the month of February to try a class.  Maybe invite someone over your house and cook them a good meal.  Your actions should reflect the type of person you are striving to become.  Just look at defending CrossFit champion Matt Fraser, the guy eat, sleeps, and breaths CrossFit.  Everything he does revolves around his goal to win the CrossFit games.  So I’ll ask for the final time.  What’s holding you back? Is it a friend, parent, spouse, or yourself?  Figure it out fast because life is not slowing down.  The definition of insanity is doing the same thing over and over again but expecting a different result.  So do something different, whether it be look through your phone and send that message to a friend or have a tough conversation with your boss.  Everyday at CrossFit I would like to think people get multiple sensations out of it.  I hope they feel out of breath from getting their HR up and pushing themselves, but also have fun, laugh and engage, in a positive community. Squeeze every drop out of your life.
+  featured_image:
+    sys:
+      id: 4KY1zB1dQQi80oyKeUKoEK
+      created_at: !ruby/object:DateTime 2018-03-11 22:29:30.148000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-11 22:29:30.148000000 Z
+    title: elevator-button
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/4KY1zB1dQQi80oyKeUKoEK/740d97c454e49aa799dc070815fa477c/elevator-button.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 6LVaTXj0l2k2w0g0Q6WCiA
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      content_type_id: category
+    name: Coaches Corner
+    slug: coaches-corner
+  tags:
+  - help
+  date: !ruby/object:DateTime 2018-02-07 00:00:00.000000000 -05:00
+  slug: let-us-help-you
+- sys:
+    id: 41npSeXgPuWQMQm8GusI44
+    created_at: !ruby/object:DateTime 2018-02-24 20:53:23.910000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-24 20:53:23.910000000 Z
+    content_type_id: post
+  title: 'Athlete Profile:  Jenny Beene-Skuban'
+  body: |-
+    **Name**
+
+    Jenny Beene-Skuban
+
+    **Where are you from?**
+
+    Ft. Thomas, K to the Y
+
+    **What is your favorite vacation spot? Why?**
+
+    Vieques, Puerto Rico. Laid-back beautiful place that is still fairly undeveloped, and it has an amazing bioluminescent bay. I’m saddened by the devastation there by Hurricane Maria :(
+
+    **What is your favorite movie or TV show?**
+
+    The Three Amigos!
+
+    **What is the best gift you've ever received?**
+
+    The opportunity to work out with Colgan.
+
+    **Who is your hero?**
+
+    Notorious RBG (yes I’m a lawyer nerd)
+
+    **What's something we don't know about you?**
+
+    I can solve a rubik’s cube \*without\* peeling the stickers off
+
+    **What are two pet peeves?**
+
+    Excessive use’s of apostrophe’s and when Mike Whalen goes to any class besides 6:30am
+
+    **Favorite CrossFit movement?**
+
+    ROWING
+
+    **Favorite CrossFit WOD?**
+
+    ROWING
+
+    **Anything else you'd like to share?**
+
+    That’s what she said.
+  featured_image:
+    sys:
+      id: 36FMzRF5qoUeWOSYuakMSq
+      created_at: !ruby/object:DateTime 2018-02-24 21:23:38.299000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 21:23:38.299000000 Z
+    title: 13906636 1090769924334073 6257749024098892694 n
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/36FMzRF5qoUeWOSYuakMSq/fcc4b5a4cbcc8e481ae5d6f06e88b369/13906636_1090769924334073_6257749024098892694_n.jpg"
   author:
     sys:
       id: 37TyZJB8buu0CeqEgcOYuS
@@ -389,7 +282,554 @@ post:
     name: Featured Athlete
     slug: featured-athlete
   date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
-  slug: athlete-profile-suzanne-fernbach
+  slug: athlete-profile-jenny-beene-skuban
+- sys:
+    id: 2wwzVuLeKoSyMGAUyGYaSI
+    created_at: !ruby/object:DateTime 2018-03-12 01:12:56.643000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-12 01:12:56.643000000 Z
+    content_type_id: post
+  title: 'Programming Preview: Week of 1/22'
+  body: |-
+    Haven’t signed up for the open yet?? You can do it right HERE! Look for CrossFit Accretion and sign up on our Triumph Strength & Conditioning team.
+
+    <a href="https://www.youtube.com/watch?v=pf4bkZUv-z0" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=pf4bkZUv-z0</a>
+  featured_image:
+    sys:
+      id: 3fhIvZwjhSw2WMuKSuG8go
+      created_at: !ruby/object:DateTime 2018-03-12 01:12:43.575000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-12 01:12:43.575000000 Z
+    title: pp-week-18-01-22
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/3fhIvZwjhSw2WMuKSuG8go/1e253b20f7cc014509d7f92bf9f5f90f/pp-week-18-01-22.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 25qMMuioYAQyu2c46qg2Ki
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      content_type_id: category
+    name: Gym News
+    slug: gym-news
+  date: !ruby/object:DateTime 2018-01-21 00:00:00.000000000 -05:00
+  slug: programming-preview-week-of-1-22
+- sys:
+    id: 3GtTpLSqQgCWQ6aAy8EUg6
+    created_at: !ruby/object:DateTime 2018-03-12 01:11:05.954000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-12 01:11:05.954000000 Z
+    content_type_id: post
+  title: The CrossFit Open Triumph Team Challenge Explained
+  body: "In hopes of curbing initial questions, check out the video below explaining
+    the breakdown of points and instructions you’ll need to get signed up for the
+    CrossFit Open.\n\nBelow the video you’ll find a written summary of the 2018 CrossFit
+    Open Triumph Team Challenge.\n\n<a href=\"https://www.youtube.com/watch?v=neCzmdq-yss\"
+    class=\"embedly-card\" data-card-width=\"100%\" data-card-controls=\"0\">Embedded
+    content: https://www.youtube.com/watch?v=neCzmdq-yss</a>\n\nCrossFit Open 2018
+    Triumph Team Challenge\n\nWe are excited to announce our Team Challenge for this
+    year’s CrossFit Open. There will be tons of ways to grab points, win prizes and
+    have fun!\n\n- ◉ Teams of five will be drawn on 2/23/18 @ 7:30 PM. These teams
+    will be drawn at random and will include equal males and females to the best of
+    our ability. \n- ◉ To partake, sign your name on the board next to the 20 and
+    up club board.\n- ◉ Once teams are drawn, captains will be nominated within their
+    team, team colors will be chosen and team names will be decided.\n- ◉ All Open
+    rules apply. Standards. Judged. Score Cards (regardless if registered for Open
+    or not). Repeats (makes sure all cards handed in so judges get credit).\n\n════════════════════════════════════\n\nThere
+    will be tons of ways to get points, these include but are not limited to:\n\n-
+    ◉ Teams are given 2 points (1 point only if not registered for Open) for every
+    athlete who completes a given Open workout.\n- ◉ Teams are given up to 5 points
+    for athletes who judge other athletes (name on scorecard, 1 point per athlete
+    judged)\n- ◉ Teams are given points for every athlete who finishes among the top
+    3 women or top 3 men (both RX and Scaled) in the gym per workout (in addition
+    to their completion points) 1st=3, 2nd=2, 3rd=1.\n- ◉ Teams are given 5 points
+    if they win the “Spirit of the Open” award on any given week determined by the
+    Triumph Staff (based on attendance at FNL-either workout or support, wearing team
+    shirt, active spectating, fist bumps, etc).\n- ◉ Check in on social media with
+    #TriumphFNL (tag Triumph, coaches, teammates, etc.) when you are at the box for
+    “Friday Night Lights” earns you one point per week for your team.\n- ◉ Wearing
+    your team colors during the workout."
+  featured_image:
+    sys:
+      id: 1D7MosuN0Uk4A0AQuosEKy
+      created_at: !ruby/object:DateTime 2018-03-12 01:10:27.067000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-12 01:10:27.067000000 Z
+    title: open-challenge
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/1D7MosuN0Uk4A0AQuosEKy/c5fc62179b509a5ac1d5613dd48cb076/open-challenge.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 25qMMuioYAQyu2c46qg2Ki
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      content_type_id: category
+    name: Gym News
+    slug: gym-news
+  date: !ruby/object:DateTime 2018-01-24 00:00:00.000000000 -05:00
+  slug: the-crossfit-open-triumph-team-challenge-explained
+- sys:
+    id: 1PKlAbil00Gi0W442KeEOM
+    created_at: !ruby/object:DateTime 2018-03-10 02:51:19.861000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-10 02:51:19.861000000 Z
+    content_type_id: post
+  title: 'Athlete Profile: Steve Chapman'
+  body: |
+    __Name__
+    Steve chapman
+
+    __Where are you from?__
+    Ludlow, kentucky
+
+    __What is your favorite vacation spot? Why?__
+    Moab, Utah, quite, peaceful, lot of outdoor activities
+
+    __What is your favorite movie or TV show?__
+    Caddyshack
+
+    __What is the best gift you’ve ever received?__
+    Life, good genes and a car for my 16th birthday
+
+    __Who is your hero?__
+    My dad
+
+    __What’s something we don’t know about you?__
+    I turn into a werewolf when the moon is full
+
+    __What are two pet peeves?__
+    Slurping the bottom of a drink through a straw, people who talk negative about themselves before trying something new and then not doing it.
+
+    __Favorite CrossFit movement?__
+    Muscle ups
+
+    __Favorite CrossFit WOD?__
+    Diane
+  featured_image:
+    sys:
+      id: 6naNurJaUgoCcwU4GqyYw0
+      created_at: !ruby/object:DateTime 2018-03-10 02:49:32.203000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-10 03:31:56.578000000 Z
+    title: ap-sc
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/6naNurJaUgoCcwU4GqyYw0/b7c08dd09be913e6e9ce579457597bb0/ap-sc.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 4hTMi0NG9WcusWCiiKKCK6
+      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      content_type_id: category
+    name: Featured Athlete
+    slug: featured-athlete
+  tags:
+  - outdoor
+  - athletes
+  - steve chapman
+  - Muscle ups
+  - Diane
+  date: !ruby/object:DateTime 2018-03-07 00:00:00.000000000 -05:00
+  slug: athlete-profile-steve-chapman
+- sys:
+    id: 4FZdVXtesgS24GAG6Qs0yO
+    created_at: !ruby/object:DateTime 2018-03-12 01:07:53.826000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-12 01:07:53.826000000 Z
+    content_type_id: post
+  title: 'Programming Preview: Week of 1/29'
+  body: |-
+    Don’t forget, Thursday kicks off our month of Bring a Friend February. Every Tuesday and Thursday of this month we’ll be opening our doors to your friends and family!
+
+    <a href="https://www.youtube.com/watch?v=tBAx4BJpiSQ" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=tBAx4BJpiSQ</a>
+  featured_image:
+    sys:
+      id: 3OCt6JnAEouguO0yUWMAiw
+      created_at: !ruby/object:DateTime 2018-03-12 01:07:38.552000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-12 01:07:38.552000000 Z
+    title: pp-week-18-01-29
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/3OCt6JnAEouguO0yUWMAiw/08c41f8d45fe2d4e6dddd4f8959cffbd/pp-week-18-01-29.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 25qMMuioYAQyu2c46qg2Ki
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      content_type_id: category
+    name: Gym News
+    slug: gym-news
+  date: !ruby/object:DateTime 2018-01-28 00:00:00.000000000 -05:00
+  slug: programming-preview-week-of-1-29
+- sys:
+    id: 4JB6AI0qnYOEocOOgGUKIw
+    created_at: !ruby/object:DateTime 2018-03-11 18:10:59.618000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-11 18:12:36.210000000 Z
+    content_type_id: post
+  title: '15 Minute Trainer: Med Ball Magic'
+  body: |-
+    __2 rounds__
+
+    1 Min of work
+
+    :30 Rest
+
+    - Minute 1: Med ball lunge
+    - Minute 2: Med ball sit up
+    - Minute 3: Med ball squat
+    - Minute 4: Med ball Russian twist
+
+    <a href="https://www.youtube.com/watch?v=wKCh5a4HB_s" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=wKCh5a4HB_s</a>
+  featured_image:
+    sys:
+      id: 2FyxCJZX7OO0cISg0Y4sEo
+      created_at: !ruby/object:DateTime 2018-03-11 18:10:29.601000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-11 18:10:29.601000000 Z
+    title: 15min-trainer-mbm
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/2FyxCJZX7OO0cISg0Y4sEo/6a513387c80b5295a98557f5d064f86b/15min-trainer-mbm.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 6LVaTXj0l2k2w0g0Q6WCiA
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      content_type_id: category
+    name: Coaches Corner
+    slug: coaches-corner
+  tags:
+  - training
+  - tips
+  - wod anywhere
+  date: !ruby/object:DateTime 2018-03-02 00:00:00.000000000 -05:00
+  slug: 15-minute-trainer-med-ball-magic
+- sys:
+    id: 6P8cxnfTcQIiAwsw6wc2y6
+    created_at: !ruby/object:DateTime 2018-02-26 04:00:00.168000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-12 01:19:31.794000000 Z
+    content_type_id: post
+  title: 'Programming Preview: Week of 2/26'
+  body: '<a href="https://www.youtube.com/watch?v=KG4BEAD1t5c" class="embedly-card"
+    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=KG4BEAD1t5c</a>'
+  featured_image:
+    sys:
+      id: 7fHxnal1lK24cY0gYOWsY0
+      created_at: !ruby/object:DateTime 2018-03-12 01:19:19.182000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-12 01:19:19.182000000 Z
+    title: pp-week-18-02-26
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/7fHxnal1lK24cY0gYOWsY0/afd1a37fa2b499b2394eeec0c48f7f47/pp-week-18-02-26.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 25qMMuioYAQyu2c46qg2Ki
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      content_type_id: category
+    name: Gym News
+    slug: gym-news
+  date: !ruby/object:DateTime 2018-02-25 22:59:00.000000000 -05:00
+  slug: programming-preview-week-of-2-26
+- sys:
+    id: 4peZlhSynSA2gmGwi60yOW
+    created_at: !ruby/object:DateTime 2018-03-11 18:07:29.859000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-11 18:11:21.900000000 Z
+    content_type_id: post
+  title: '15 Minute Trainer: Body Buster'
+  body: |-
+    Coach Kelsey brings us through:
+
+    __3 rounds__
+
+    - :45 RDL to lunge
+    - :45 Flutter Kicks
+    - :45 High to low planks
+    - :45 Jumping Jacks
+    - :45 Rest
+
+    <a href="https://www.youtube.com/watch?v=_p708vewNDw" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=_p708vewNDw</a>
+  featured_image:
+    sys:
+      id: OLGPWpXjgsmIOmG24q0Yu
+      created_at: !ruby/object:DateTime 2018-03-11 18:06:07.502000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-11 18:06:07.502000000 Z
+    title: 15min-trainer
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/OLGPWpXjgsmIOmG24q0Yu/6c64f34c34da13ab6d2836182864f5c9/15min-trainer.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 6LVaTXj0l2k2w0g0Q6WCiA
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      content_type_id: category
+    name: Coaches Corner
+    slug: coaches-corner
+  tags:
+  - training
+  - tips
+  - wod anywhere
+  date: !ruby/object:DateTime 2018-03-07 00:00:00.000000000 -05:00
+  slug: 15-minute-trainer-body-buster
+- sys:
+    id: 539HOESYwMqAyAGAsYIeUM
+    created_at: !ruby/object:DateTime 2018-03-11 18:27:28.713000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-11 18:27:28.713000000 Z
+    content_type_id: post
+  title: 18.1 Strategy and Tips
+  body: |-
+    Coach Derek and Coach Kelsey just went head to head for 18.1. Coach Derek took a minute after the workout to go over some strategy and tips for you before completing it this weekend.
+
+    <a href="https://www.youtube.com/watch?v=NW0QoPWZUdI" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=NW0QoPWZUdI</a>
+  featured_image:
+    sys:
+      id: 5oiqezoA7e8uuOkcqeQyA8
+      created_at: !ruby/object:DateTime 2018-03-11 18:27:00.240000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-11 18:27:00.240000000 Z
+    title: '18.1'
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/5oiqezoA7e8uuOkcqeQyA8/b9d6b4bfa6aef0c6b55299e8b95bd13a/18.1.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 6LVaTXj0l2k2w0g0Q6WCiA
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+      content_type_id: category
+    name: Coaches Corner
+    slug: coaches-corner
+  tags:
+  - '18.1'
+  - CrossFit Open
+  - Tips
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+  slug: 18-1-strategy-and-tips
+- sys:
+    id: 2a3pgUWBUM4mmMCSqw0SYQ
+    created_at: !ruby/object:DateTime 2018-03-12 01:24:12.449000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-12 01:24:12.449000000 Z
+    content_type_id: post
+  title: Saturday 1/10/2018
+  body: |-
+    ## Warm-up
+    Cyclone Tag
+
+    ## Metcon (Time)
+    Teams of 2
+
+    Station 1
+
+    2k Row
+
+    while Partner 1 Rows Partner 2 hold
+
+    top DL Postition 95/65
+
+    If p2 Drops bar they switch
+
+    Station 2
+
+    Team Annie
+
+    One teammate working at a time!
+
+    100-80-60-40-20
+
+    Double Unders and Sit-Ups
+
+    or for singles
+
+    300-240-180-120-60
+    total time
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 4RIo8OQ5ygYuEkMQOyOgoI
+      created_at: !ruby/object:DateTime 2018-02-19 06:17:32.665000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-12 01:27:55.547000000 Z
+      content_type_id: category
+    name: Latest WOD
+    slug: latest-wod
+  date: !ruby/object:DateTime 2018-03-09 00:00:00.000000000 -05:00
+  slug: saturday-1-10-2018
+- sys:
+    id: 309wbNYhm8u4gKikmeQYMi
+    created_at: !ruby/object:DateTime 2018-03-11 22:46:08.533000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-11 22:46:08.533000000 Z
+    content_type_id: post
+  title: Win a Free Membership with your T-shirt Design
+  body: "__We need your design for our next t-shirt!__\n\nYou can [download Triumph
+    Strength logos HERE](https://drive.google.com/drive/folders/1-jzq2dnipEM0yHyP3IUutRbpDp22Mwhg).
+    They do not have to be included in your design, but the logo should appear somewhere
+    on your t-shirt.\n\n[Submissions can be made HERE](https://docs.google.com/forms/d/e/1FAIpQLScv85D-CO7aZjX1robhQQadItOFDga8XzKVx9YO7AJcCS6cdg/viewform).
+    \n\nWe’ll draw a winner on 3/16 and said winner will receive one free month membership
+    to Triumph Strength & Conditioning."
+  featured_image:
+    sys:
+      id: 1W82ivOeeYKgmUMYmkm6e4
+      created_at: !ruby/object:DateTime 2018-03-11 22:45:32.556000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-11 22:45:32.556000000 Z
+    title: tshirt design
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/1W82ivOeeYKgmUMYmkm6e4/3f29177823dbe2f9629b5d206633f5d8/tshirt_design.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 25qMMuioYAQyu2c46qg2Ki
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      content_type_id: category
+    name: Gym News
+    slug: gym-news
+  tags:
+  - t-shirt
+  - contest
+  date: !ruby/object:DateTime 2018-03-06 00:00:00.000000000 -05:00
+  slug: win-a-free-membership-with-your-t-shirt-design
 - sys:
     id: 14doHPOmQaOgMc8kKOEy2q
     created_at: !ruby/object:DateTime 2018-03-11 18:02:55.609000000 Z
@@ -438,50 +878,6 @@ post:
   - Tips
   date: !ruby/object:DateTime 2018-03-08 00:00:00.000000000 -05:00
   slug: 18-3-strategy-and-tips
-- sys:
-    id: 7encPoOvvyyqikA6qMYAco
-    created_at: !ruby/object:DateTime 2018-02-24 21:15:00.891000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-11 22:49:24.918000000 Z
-    content_type_id: post
-  title: 'Programming Preview: Week of 2/19'
-  body: |-
-    The Open is officially here. Check out the programming preview to see what's in store for you this week. If this is your first Open get ready for some good ol' fashioned blood, sweat and tears over the next few weeks.
-
-    <a href="https://www.youtube.com/embed/wJIVx45Qrb4" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/embed/wJIVx45Qrb4</a>
-  featured_image:
-    sys:
-      id: 5IrsiVOVkkw4gCkiwAecUy
-      created_at: !ruby/object:DateTime 2018-02-24 21:14:11.542000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-24 21:14:11.542000000 Z
-    title: 22886209 1511593425585052 1155380533416304955 n
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/5IrsiVOVkkw4gCkiwAecUy/b5025793f59bc53bd4e8d972ee7813f8/22886209_1511593425585052_1155380533416304955_n.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 25qMMuioYAQyu2c46qg2Ki
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      content_type_id: category
-    name: Gym News
-    slug: gym-news
-  date: !ruby/object:DateTime 2018-02-18 00:00:00.000000000 -05:00
-  slug: programming-preview-2-19
 - sys:
     id: xoWsOlOTe0aAKGowA04Ww
     created_at: !ruby/object:DateTime 2018-03-11 22:34:04.647000000 Z
@@ -580,6 +976,142 @@ post:
   - challenge
   date: !ruby/object:DateTime 2018-01-30 00:00:00.000000000 -05:00
   slug: lose-more-learn-more
+- sys:
+    id: 7encPoOvvyyqikA6qMYAco
+    created_at: !ruby/object:DateTime 2018-02-24 21:15:00.891000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-11 22:49:24.918000000 Z
+    content_type_id: post
+  title: 'Programming Preview: Week of 2/19'
+  body: |-
+    The Open is officially here. Check out the programming preview to see what's in store for you this week. If this is your first Open get ready for some good ol' fashioned blood, sweat and tears over the next few weeks.
+
+    <a href="https://www.youtube.com/embed/wJIVx45Qrb4" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/embed/wJIVx45Qrb4</a>
+  featured_image:
+    sys:
+      id: 5IrsiVOVkkw4gCkiwAecUy
+      created_at: !ruby/object:DateTime 2018-02-24 21:14:11.542000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 21:14:11.542000000 Z
+    title: 22886209 1511593425585052 1155380533416304955 n
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/5IrsiVOVkkw4gCkiwAecUy/b5025793f59bc53bd4e8d972ee7813f8/22886209_1511593425585052_1155380533416304955_n.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 25qMMuioYAQyu2c46qg2Ki
+      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      content_type_id: category
+    name: Gym News
+    slug: gym-news
+  date: !ruby/object:DateTime 2018-02-18 00:00:00.000000000 -05:00
+  slug: programming-preview-2-19
+- sys:
+    id: 3Hwsab2V3qMo0uoQeoIYmA
+    created_at: !ruby/object:DateTime 2018-03-10 03:40:33.776000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-10 03:40:33.776000000 Z
+    content_type_id: post
+  title: 'Athlete Profile: Suzanne Fernbach'
+  body: "__Name__\nSuzanne Fernbach\n\n__Where are you from?__\nDry Ridge, KY\n\n__What
+    is your favorite vacation spot? Why?__\nDestin Fl. LOVE the white sand and green
+    water\n\n__What is your favorite movie or TV show?__\nGame of Thrones\n\n__What
+    is the best gift you’ve ever received?__\nMy tens unit \U0001F602\n\n__Who is
+    your hero?__\nMy husband for beating lymphoma\n\n__What’s something we don’t know
+    about you?__\nI’m late for EVERYTHING\n\n__What are two pet peeves?__\nSchedule
+    changes. Liars.\n\n__Favorite CrossFit movement?__\nDouble unders\n\n__Favorite
+    CrossFit WOD?__\nGrace\n\n__Anything else you’d like to share?__\nI love this
+    gym ❤"
+  featured_image:
+    sys:
+      id: 4KiH04czhum0uIEm2mW6S4
+      created_at: !ruby/object:DateTime 2018-03-10 03:39:51.095000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-10 03:39:51.095000000 Z
+    title: ap-sf
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/4KiH04czhum0uIEm2mW6S4/0da14bac76cb941172898d928bc7bb6c/ap-sf.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 4hTMi0NG9WcusWCiiKKCK6
+      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      content_type_id: category
+    name: Featured Athlete
+    slug: featured-athlete
+  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
+  slug: athlete-profile-suzanne-fernbach
+- sys:
+    id: 7cRcpfRbI4SMmwGuIC4G4G
+    created_at: !ruby/object:DateTime 2018-03-11 17:57:15.808000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-11 17:57:15.808000000 Z
+    content_type_id: post
+  title: 'January Member of the Month: Carola Bell'
+  body: |-
+    If you’ve been at Triumph in the wee hours of the morning you have seen Carola over in the corner warming up or putting some weight overhead. Carola has been at Triumph for some time but has just recently switched over to a full time barbell club member. The exciting part about this is that it aligns with her new goals for 2018 in the sport of weightlifting. She has an incredibly interesting life, not that she would tell you but we can. You can listen to her on our podcast Everyday Athlete HERE.
+    Make sure you congratulate Carola for kicking off the member of the month for 2018!
+  featured_image:
+    sys:
+      id: 6mux0JbXkQqGQq8CoOAcQ4
+      created_at: !ruby/object:DateTime 2018-03-11 17:56:58.591000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-11 17:56:58.591000000 Z
+    title: mom-cb
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/6mux0JbXkQqGQq8CoOAcQ4/b917b53f9bdb7d9104a27313790ff5c1/mom-cb.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 4hTMi0NG9WcusWCiiKKCK6
+      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      content_type_id: category
+    name: Featured Athlete
+    slug: featured-athlete
+  date: !ruby/object:DateTime 2018-01-01 00:00:00.000000000 -05:00
+  slug: january-member-of-the-month-carola-bell
 - sys:
     id: 2QtHRtss8M2CGsksuWsoes
     created_at: !ruby/object:DateTime 2018-03-11 18:25:33.176000000 Z
@@ -723,200 +1255,6 @@ post:
     slug: gym-news
   date: !ruby/object:DateTime 2018-02-05 00:00:00.000000000 -05:00
   slug: programming-preview-2-05
-- sys:
-    id: 7dT62ZZzcQAcKCQMSsyWSo
-    created_at: !ruby/object:DateTime 2018-03-11 17:48:19.297000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-11 18:11:41.257000000 Z
-    content_type_id: post
-  title: 'Athlete Profile: Melonie Proctor'
-  body: |-
-    __Name__
-    Melonie Proctor
-
-    __Where are you from?__
-    Lexington, Kentucky
-
-    __What is your favorite vacation spot? Why?__
-    Bermuda; it is beautiful, clean, the people are very friendly and the beaches are fabulous.
-
-    __What is your favorite movie or TV show?__
-    My favorite Tv show is Boston Legal and my favorite movie is 7 Brides for 7 Brothers.
-
-    __What is the best gift you’ve ever received?__
-    My gold horse necklace. It is a replica of one of the first gifts my grandfather gave my grandmother.
-
-    __Who is your hero?__
-    Any working woman who is able to balance work, children, marriage and keep themselves sane.
-
-    __What’s something we don’t know about you?__
-    I’ve jumped off a bridge because my friends were doing it.
-
-    __What are two pet peeves?__
-    When people aren’t prepared for a task and holding your fork with a clinched hand.
-
-    __Favorite CrossFit movement?__
-    Deadlifts
-
-    __Favorite CrossFit WOD?__
-    Any chipper
-
-    __Anything else you’d like to share?__
-    My crossfit family really is my second family.
-  featured_image:
-    sys:
-      id: 5PX7kCm4U0waWOSawECWmi
-      created_at: !ruby/object:DateTime 2018-03-11 17:47:53.457000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-11 17:47:53.457000000 Z
-    title: ap-mp2
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/5PX7kCm4U0waWOSawECWmi/1eef240070fa360ad24a9dca83d1a3cc/ap-mp2.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 4hTMi0NG9WcusWCiiKKCK6
-      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      content_type_id: category
-    name: Featured Athlete
-    slug: featured-athlete
-  date: !ruby/object:DateTime 2018-01-17 00:00:00.000000000 -05:00
-  slug: athlete-profile-melonie-proctor
-- sys:
-    id: 1FedrIdn4EGCQoasMiWeyQ
-    created_at: !ruby/object:DateTime 2018-03-11 17:37:21.031000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-11 17:37:21.031000000 Z
-    content_type_id: post
-  title: 'Athlete Profile: Mike Whalen'
-  body: |-
-    __Name__
-    Mike Whalen
-
-    __Where are you from?__
-    Covington KY
-
-    __What is your favorite vacation spot? Why?__
-    Anywhere near golf courses and places that will keep me away from screens. I’m not picky when it comes to vacations, like to play some golf and stay away from cell phones and TV.
-
-    __What is your favorite movie or TV show?__
-    Shawshank Redemption
-
-    __What is the best gift you’ve ever received?__
-    Sega Genesis with Mutant League Football game
-
-    __Who is your hero?__
-    My Grandma
-
-    __What’s something we don’t know about you?__
-    I’m a pretty open book… I think Titanic is a horrible movie. That will work.
-
-    __What are two pet peeves?__
-    Being late and when people tell me how I feel
-
-    __Favorite CrossFit movement?__
-    Heavy squats and more recently Snatch
-
-    __Favorite CrossFit WOD?__
-    Isabel
-  featured_image:
-    sys:
-      id: 2tHSKp8JvyesukcGOUwMSg
-      created_at: !ruby/object:DateTime 2018-03-11 17:35:56.274000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-11 17:35:56.274000000 Z
-    title: ap-mw
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/2tHSKp8JvyesukcGOUwMSg/c0d5de5ae168b57c422be25fffcc6002/ap-mw.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 3d8Q1ODKusYmIYaOM8qOy
-      created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
-      content_type_id: category
-    name: 'Podcast: Everyday Athelete'
-    slug: podcast-everyday-athelete
-  date: !ruby/object:DateTime 2018-01-24 00:00:00.000000000 -05:00
-  slug: athlete-profile-mike-whalen
-- sys:
-    id: 2moJbQmKGQgOQg4EGSEcmQ
-    created_at: !ruby/object:DateTime 2018-03-10 03:45:19.787000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-10 03:45:19.787000000 Z
-    content_type_id: post
-  title: 'Athlete Profile: Kathy Laws'
-  body: "__Name__\nKathy Laws\n\n__Where are you from?__\nCincinnati\n\n__What is
-    your favorite vacation spot? Why?__\nSwitzerland. Insanely beautiful and incredible
-    hikes\n\n__What is your favorite movie or TV show?__\nToo many. Modern Family
-    or Office?\n\n__What is the best gift you’ve ever received?__\nMy children\n\n__Who
-    is your hero?__\nLots of great people I try to emulate. Mostly normal people working
-    hard, being kind, and overcoming crazy obstacles.\n\n__What’s something we don’t
-    know about you?__\nI’m a candy addict, I am very scared of bridges, and I was
-    the president of the Extra Credit club in gradeschool. Meaning I chose to do extra
-    homework for fun…LOSER! \U0001F609\n\n__What are two pet peeves?__\nBad grammar/spelling
-    and being late\n\n__Favorite CrossFit movement?__\nDu or BoxJumps\n\n__Favorite
-    CrossFit WOD?__\nFilthy 50"
-  featured_image:
-    sys:
-      id: 4vmcNePkIw4co6ciqWiUY8
-      created_at: !ruby/object:DateTime 2018-03-10 03:44:23.626000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-10 03:44:23.626000000 Z
-    title: ap-kl
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/4vmcNePkIw4co6ciqWiUY8/97e5d715c9e3805e7aacd3cead60aa75/ap-kl.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 4hTMi0NG9WcusWCiiKKCK6
-      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      content_type_id: category
-    name: Featured Athlete
-    slug: featured-athlete
-  date: !ruby/object:DateTime 2018-02-14 00:00:00.000000000 -05:00
-  slug: athlete-profile-kathy-laws
 - sys:
     id: 7BXX0OQbXaOuE4YUmSskGq
     created_at: !ruby/object:DateTime 2018-03-11 17:52:44.638000000 Z
@@ -1062,6 +1400,200 @@ post:
     slug: featured-athlete
   date: !ruby/object:DateTime 2018-01-03 00:00:00.000000000 -05:00
   slug: athlete-profile-april-phillips
+- sys:
+    id: 1FedrIdn4EGCQoasMiWeyQ
+    created_at: !ruby/object:DateTime 2018-03-11 17:37:21.031000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-11 17:37:21.031000000 Z
+    content_type_id: post
+  title: 'Athlete Profile: Mike Whalen'
+  body: |-
+    __Name__
+    Mike Whalen
+
+    __Where are you from?__
+    Covington KY
+
+    __What is your favorite vacation spot? Why?__
+    Anywhere near golf courses and places that will keep me away from screens. I’m not picky when it comes to vacations, like to play some golf and stay away from cell phones and TV.
+
+    __What is your favorite movie or TV show?__
+    Shawshank Redemption
+
+    __What is the best gift you’ve ever received?__
+    Sega Genesis with Mutant League Football game
+
+    __Who is your hero?__
+    My Grandma
+
+    __What’s something we don’t know about you?__
+    I’m a pretty open book… I think Titanic is a horrible movie. That will work.
+
+    __What are two pet peeves?__
+    Being late and when people tell me how I feel
+
+    __Favorite CrossFit movement?__
+    Heavy squats and more recently Snatch
+
+    __Favorite CrossFit WOD?__
+    Isabel
+  featured_image:
+    sys:
+      id: 2tHSKp8JvyesukcGOUwMSg
+      created_at: !ruby/object:DateTime 2018-03-11 17:35:56.274000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-11 17:35:56.274000000 Z
+    title: ap-mw
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/2tHSKp8JvyesukcGOUwMSg/c0d5de5ae168b57c422be25fffcc6002/ap-mw.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 3d8Q1ODKusYmIYaOM8qOy
+      created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+      content_type_id: category
+    name: 'Podcast: Everyday Athelete'
+    slug: podcast-everyday-athelete
+  date: !ruby/object:DateTime 2018-01-24 00:00:00.000000000 -05:00
+  slug: athlete-profile-mike-whalen
+- sys:
+    id: 7dT62ZZzcQAcKCQMSsyWSo
+    created_at: !ruby/object:DateTime 2018-03-11 17:48:19.297000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-11 18:11:41.257000000 Z
+    content_type_id: post
+  title: 'Athlete Profile: Melonie Proctor'
+  body: |-
+    __Name__
+    Melonie Proctor
+
+    __Where are you from?__
+    Lexington, Kentucky
+
+    __What is your favorite vacation spot? Why?__
+    Bermuda; it is beautiful, clean, the people are very friendly and the beaches are fabulous.
+
+    __What is your favorite movie or TV show?__
+    My favorite Tv show is Boston Legal and my favorite movie is 7 Brides for 7 Brothers.
+
+    __What is the best gift you’ve ever received?__
+    My gold horse necklace. It is a replica of one of the first gifts my grandfather gave my grandmother.
+
+    __Who is your hero?__
+    Any working woman who is able to balance work, children, marriage and keep themselves sane.
+
+    __What’s something we don’t know about you?__
+    I’ve jumped off a bridge because my friends were doing it.
+
+    __What are two pet peeves?__
+    When people aren’t prepared for a task and holding your fork with a clinched hand.
+
+    __Favorite CrossFit movement?__
+    Deadlifts
+
+    __Favorite CrossFit WOD?__
+    Any chipper
+
+    __Anything else you’d like to share?__
+    My crossfit family really is my second family.
+  featured_image:
+    sys:
+      id: 5PX7kCm4U0waWOSawECWmi
+      created_at: !ruby/object:DateTime 2018-03-11 17:47:53.457000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-11 17:47:53.457000000 Z
+    title: ap-mp2
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/5PX7kCm4U0waWOSawECWmi/1eef240070fa360ad24a9dca83d1a3cc/ap-mp2.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 4hTMi0NG9WcusWCiiKKCK6
+      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      content_type_id: category
+    name: Featured Athlete
+    slug: featured-athlete
+  date: !ruby/object:DateTime 2018-01-17 00:00:00.000000000 -05:00
+  slug: athlete-profile-melonie-proctor
+- sys:
+    id: 2moJbQmKGQgOQg4EGSEcmQ
+    created_at: !ruby/object:DateTime 2018-03-10 03:45:19.787000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-10 03:45:19.787000000 Z
+    content_type_id: post
+  title: 'Athlete Profile: Kathy Laws'
+  body: "__Name__\nKathy Laws\n\n__Where are you from?__\nCincinnati\n\n__What is
+    your favorite vacation spot? Why?__\nSwitzerland. Insanely beautiful and incredible
+    hikes\n\n__What is your favorite movie or TV show?__\nToo many. Modern Family
+    or Office?\n\n__What is the best gift you’ve ever received?__\nMy children\n\n__Who
+    is your hero?__\nLots of great people I try to emulate. Mostly normal people working
+    hard, being kind, and overcoming crazy obstacles.\n\n__What’s something we don’t
+    know about you?__\nI’m a candy addict, I am very scared of bridges, and I was
+    the president of the Extra Credit club in gradeschool. Meaning I chose to do extra
+    homework for fun…LOSER! \U0001F609\n\n__What are two pet peeves?__\nBad grammar/spelling
+    and being late\n\n__Favorite CrossFit movement?__\nDu or BoxJumps\n\n__Favorite
+    CrossFit WOD?__\nFilthy 50"
+  featured_image:
+    sys:
+      id: 4vmcNePkIw4co6ciqWiUY8
+      created_at: !ruby/object:DateTime 2018-03-10 03:44:23.626000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-10 03:44:23.626000000 Z
+    title: ap-kl
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/4vmcNePkIw4co6ciqWiUY8/97e5d715c9e3805e7aacd3cead60aa75/ap-kl.jpg"
+  author:
+    sys:
+      id: 37TyZJB8buu0CeqEgcOYuS
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+      content_type_id: author
+    name: Jarrett Baston
+    profile_image:
+      sys:
+        id: 75DgW8T6tGkcOsOWmcoCG6
+        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      title: Jarrett-Baston
+      description: Jarrett Baston
+      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+    slug: jarrett-baston
+  category:
+    sys:
+      id: 4hTMi0NG9WcusWCiiKKCK6
+      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      content_type_id: category
+    name: Featured Athlete
+    slug: featured-athlete
+  date: !ruby/object:DateTime 2018-02-14 00:00:00.000000000 -05:00
+  slug: athlete-profile-kathy-laws
 - sys:
     id: lLScVK9kOs00AqGQmaoaG
     created_at: !ruby/object:DateTime 2018-03-10 03:36:12.114000000 Z
@@ -1252,54 +1784,6 @@ post:
   date: !ruby/object:DateTime 2018-01-16 00:00:00.000000000 -05:00
   slug: goodbye-friend
 - sys:
-    id: 6GG5q77EhGMa4EOOGMwkUU
-    created_at: !ruby/object:DateTime 2018-03-10 03:48:36.753000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-10 03:48:36.753000000 Z
-    content_type_id: post
-  title: 'February Member of the Month: The Pinkiewicz’s'
-  body: |-
-    It’s very seldom we see the kind of tenacity we’ve seen with both Stan and Mary in such a short amount of time. In the month of January, both Stan and Mary showed up for a total of 61 days between the two of them. As if that’s not impressive on it’s own, Stan reached a weight loss and performance goal WELL before the targeted date.
-
-    ![mom-p2](//images.contentful.com/ctmmyckif2fs/4PPAqiRJlCaeC4ccGkamCI/e176317eaffd3253e23bba9aa134d065/mom-p2.jpg)
-
-    Their daughter has been along for the ride as well, coming to our fit family class regularly and participating whenever and wherever possible. Whether that’s at the gym or writing workouts at home. We love positive attitudes they bring to the table and are lucky to have them. Stan was even on our Everyday Athlete podcast, watch his episode below.
-
-    <a href="https://www.youtube.com/watch?v=CLTYwcEUQdA" class="embedly-card" data-card-width="100%" data-card-controls="1">Embedded content: https://www.youtube.com/watch?v=CLTYwcEUQdA</a>
-  featured_image:
-    sys:
-      id: 4papM5aZm08AggEiOeqQsq
-      created_at: !ruby/object:DateTime 2018-03-10 03:47:14.478000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-10 03:47:14.478000000 Z
-    title: mom-p
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/4papM5aZm08AggEiOeqQsq/3a94ffe09f000d929ef16581d9e9df00/mom-p.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 4hTMi0NG9WcusWCiiKKCK6
-      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      content_type_id: category
-    name: Featured Athlete
-    slug: featured-athlete
-  date: !ruby/object:DateTime 2018-02-01 00:00:00.000000000 -05:00
-  slug: february-member-of-the-month-the-pinkiewiczs
-- sys:
     id: nRm1lgq5P2QUIwao64cu0
     created_at: !ruby/object:DateTime 2018-03-11 22:48:20.821000000 Z
     updated_at: !ruby/object:DateTime 2018-03-11 22:48:20.821000000 Z
@@ -1388,47 +1872,27 @@ post:
   date: !ruby/object:DateTime 2018-03-11 00:00:00.000000000 -05:00
   slug: programming-preview-week-of-3-12
 - sys:
-    id: 3GtTpLSqQgCWQ6aAy8EUg6
-    created_at: !ruby/object:DateTime 2018-03-12 01:11:05.954000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-12 01:11:05.954000000 Z
+    id: 6GG5q77EhGMa4EOOGMwkUU
+    created_at: !ruby/object:DateTime 2018-03-10 03:48:36.753000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-10 03:48:36.753000000 Z
     content_type_id: post
-  title: The CrossFit Open Triumph Team Challenge Explained
-  body: "In hopes of curbing initial questions, check out the video below explaining
-    the breakdown of points and instructions you’ll need to get signed up for the
-    CrossFit Open.\n\nBelow the video you’ll find a written summary of the 2018 CrossFit
-    Open Triumph Team Challenge.\n\n<a href=\"https://www.youtube.com/watch?v=neCzmdq-yss\"
-    class=\"embedly-card\" data-card-width=\"100%\" data-card-controls=\"0\">Embedded
-    content: https://www.youtube.com/watch?v=neCzmdq-yss</a>\n\nCrossFit Open 2018
-    Triumph Team Challenge\n\nWe are excited to announce our Team Challenge for this
-    year’s CrossFit Open. There will be tons of ways to grab points, win prizes and
-    have fun!\n\n- ◉ Teams of five will be drawn on 2/23/18 @ 7:30 PM. These teams
-    will be drawn at random and will include equal males and females to the best of
-    our ability. \n- ◉ To partake, sign your name on the board next to the 20 and
-    up club board.\n- ◉ Once teams are drawn, captains will be nominated within their
-    team, team colors will be chosen and team names will be decided.\n- ◉ All Open
-    rules apply. Standards. Judged. Score Cards (regardless if registered for Open
-    or not). Repeats (makes sure all cards handed in so judges get credit).\n\n════════════════════════════════════\n\nThere
-    will be tons of ways to get points, these include but are not limited to:\n\n-
-    ◉ Teams are given 2 points (1 point only if not registered for Open) for every
-    athlete who completes a given Open workout.\n- ◉ Teams are given up to 5 points
-    for athletes who judge other athletes (name on scorecard, 1 point per athlete
-    judged)\n- ◉ Teams are given points for every athlete who finishes among the top
-    3 women or top 3 men (both RX and Scaled) in the gym per workout (in addition
-    to their completion points) 1st=3, 2nd=2, 3rd=1.\n- ◉ Teams are given 5 points
-    if they win the “Spirit of the Open” award on any given week determined by the
-    Triumph Staff (based on attendance at FNL-either workout or support, wearing team
-    shirt, active spectating, fist bumps, etc).\n- ◉ Check in on social media with
-    #TriumphFNL (tag Triumph, coaches, teammates, etc.) when you are at the box for
-    “Friday Night Lights” earns you one point per week for your team.\n- ◉ Wearing
-    your team colors during the workout."
+  title: 'February Member of the Month: The Pinkiewicz’s'
+  body: |-
+    It’s very seldom we see the kind of tenacity we’ve seen with both Stan and Mary in such a short amount of time. In the month of January, both Stan and Mary showed up for a total of 61 days between the two of them. As if that’s not impressive on it’s own, Stan reached a weight loss and performance goal WELL before the targeted date.
+
+    ![mom-p2](//images.contentful.com/ctmmyckif2fs/4PPAqiRJlCaeC4ccGkamCI/e176317eaffd3253e23bba9aa134d065/mom-p2.jpg)
+
+    Their daughter has been along for the ride as well, coming to our fit family class regularly and participating whenever and wherever possible. Whether that’s at the gym or writing workouts at home. We love positive attitudes they bring to the table and are lucky to have them. Stan was even on our Everyday Athlete podcast, watch his episode below.
+
+    <a href="https://www.youtube.com/watch?v=CLTYwcEUQdA" class="embedly-card" data-card-width="100%" data-card-controls="1">Embedded content: https://www.youtube.com/watch?v=CLTYwcEUQdA</a>
   featured_image:
     sys:
-      id: 1D7MosuN0Uk4A0AQuosEKy
-      created_at: !ruby/object:DateTime 2018-03-12 01:10:27.067000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-12 01:10:27.067000000 Z
-    title: open-challenge
+      id: 4papM5aZm08AggEiOeqQsq
+      created_at: !ruby/object:DateTime 2018-03-10 03:47:14.478000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-10 03:47:14.478000000 Z
+    title: mom-p
     description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/1D7MosuN0Uk4A0AQuosEKy/c5fc62179b509a5ac1d5613dd48cb076/open-challenge.jpg"
+    url: "//images.ctfassets.net/ctmmyckif2fs/4papM5aZm08AggEiOeqQsq/3a94ffe09f000d929ef16581d9e9df00/mom-p.jpg"
   author:
     sys:
       id: 37TyZJB8buu0CeqEgcOYuS
@@ -1447,14 +1911,14 @@ post:
     slug: jarrett-baston
   category:
     sys:
-      id: 25qMMuioYAQyu2c46qg2Ki
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+      id: 4hTMi0NG9WcusWCiiKKCK6
+      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
       content_type_id: category
-    name: Gym News
-    slug: gym-news
-  date: !ruby/object:DateTime 2018-01-24 00:00:00.000000000 -05:00
-  slug: the-crossfit-open-triumph-team-challenge-explained
+    name: Featured Athlete
+    slug: featured-athlete
+  date: !ruby/object:DateTime 2018-02-01 00:00:00.000000000 -05:00
+  slug: february-member-of-the-month-the-pinkiewiczs
 - sys:
     id: 5TDnvH3W0w0Y8cKwGgGoMM
     created_at: !ruby/object:DateTime 2018-03-12 01:02:43.794000000 Z
@@ -1499,769 +1963,602 @@ post:
     slug: gym-news
   date: !ruby/object:DateTime 2018-02-11 00:00:00.000000000 -05:00
   slug: programming-preview-week-of-2-12
+author:
 - sys:
-    id: 2TlQUXbOMw6CQqoYuwKSCA
-    created_at: !ruby/object:DateTime 2018-03-11 22:42:14.331000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-11 22:49:45.596000000 Z
-    content_type_id: post
-  title: 'Programming Preview: Week of 1/8'
+    id: 1SsthkPeTWoUEOsq4AQiim
+    created_at: !ruby/object:DateTime 2018-03-05 22:55:28.477000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-05 22:55:28.477000000 Z
+    content_type_id: author
+  name: Chris Lemmel
+  profile_image:
+    sys:
+      id: 3qlcwEibT2uq2GQqigScqy
+      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.066000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.066000000 Z
+    title: cl
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/3qlcwEibT2uq2GQqigScqy/2a33150e220fa9b3a1e73746653d98cf/cl.jpg"
+  slug: chris-lemmel
+- sys:
+    id: 31GAZQYq3u0SMo4mm2S8O8
+    created_at: !ruby/object:DateTime 2018-02-19 03:29:54.600000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:29:54.600000000 Z
+    content_type_id: author
+  name: Mark McCain
+  profile_image:
+    sys:
+      id: 6LZE8SkAF2c6gKWSwgSyIq
+      created_at: !ruby/object:DateTime 2018-02-19 03:29:48.781000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:29:48.781000000 Z
+    title: Mark McCain
+    description: Mark McCain
+    url: "//images.ctfassets.net/ctmmyckif2fs/6LZE8SkAF2c6gKWSwgSyIq/bf8e90962701acda5f785ee00663cefd/Mark-McCain.jpg"
+  slug: mark-mccain
+- sys:
+    id: 37TyZJB8buu0CeqEgcOYuS
+    created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
+    content_type_id: author
+  name: Jarrett Baston
+  profile_image:
+    sys:
+      id: 75DgW8T6tGkcOsOWmcoCG6
+      created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
+    title: Jarrett-Baston
+    description: Jarrett Baston
+    url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
+  slug: jarrett-baston
+page:
+- sys:
+    id: 33AyohsyoMO6AUE66GAYAA
+    created_at: !ruby/object:DateTime 2018-02-25 01:53:41.986000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 01:53:41.986000000 Z
+    content_type_id: page
+  title: Tour the Facility
+  sub_title: 7,000-square-foot has everything you need to push yourself to new limits
   body: |-
-    Well we made it past the first week of the year. We’ve got some great things in store for you all this week. Check out the video to see this week’s workouts and descriptions.
+    Triumph Strength and Conditioning’s 7,000-square-foot box has everything you need to push yourself to new limits. Plenty of room to stretch out and sweat, all the cool CrossFit tools you love (and sometimes love to hate), passionate coaches, and the kind of atmosphere that you can’t wait to get to at the end of the day. Come on by and check us out!
 
-    <a href="https://www.youtube.com/watch?v=SUaH3ye_AX4" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=SUaH3ye_AX4</a>
+    <iframe src="https://www.google.com/maps/embed?pb=!4v1519523579023!6m8!1m7!1sByo7d4Th5ccAAAQvPAbgEg!2m2!1d38.98405953656803!2d-84.63283061176617!3f16.68!4f-13.61!5f0.4000000000000002" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   featured_image:
     sys:
-      id: 1yQ8cRcgEQEyQycqai40iM
-      created_at: !ruby/object:DateTime 2018-03-11 22:41:20.749000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-11 22:41:20.749000000 Z
-    title: pp-week-18-01-08
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
     description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/1yQ8cRcgEQEyQycqai40iM/fe302c6362e51410af07cca7edf4fc33/pp-week-18-01-08.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 25qMMuioYAQyu2c46qg2Ki
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      content_type_id: category
-    name: Gym News
-    slug: gym-news
-  date: !ruby/object:DateTime 2018-01-07 00:00:00.000000000 -05:00
-  slug: programming-preview-week-of-1-8
+    url: "//images.ctfassets.net/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: tour
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
 - sys:
-    id: 5AAHXZJCH6ssgEEEAKMyMA
-    created_at: !ruby/object:DateTime 2018-03-11 22:30:59.259000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-11 22:30:59.259000000 Z
-    content_type_id: post
-  title: Let us help you
-  body: |-
-    Let us help you, pretty please with sugar on top! But only if you’re ready. Maybe next week? Maybe next month, year, ten years?
-
-    ![lending-a-helping-hand](//images.contentful.com/ctmmyckif2fs/qQbzb6lnCoOQagWmcuUQY/ff33ff9876682d87ed0812369c440d02/lending-a-helping-hand.jpg)
-
-    Let me rephrase that.  Let us help you NOW. Let us help your family, your friends, the bank teller, grocery store worker, your co-worker, church friends, facebook friends and even help the people you don’t like.
-
-    When will we take action to help the people around us? Tomorrow, a week, a year, a lifetime? One of the biggest problems the older population (70 and up) lives with is REGRET.  I wish I would have done this sooner, or said something sooner, etc.  What is holding you back?  When is it too late?
-
-    ![DSC 0384](//images.contentful.com/ctmmyckif2fs/3rS0ssLSasi4iGEYcUukGm/21f910d6a3219991507be27c23682c53/DSC_0384.jpg)
-
-    Let’s start with your beliefs. Do you truly believe in fitness? Does it make you feel better mentally and physically?  Is there something that you could be doing that is better? I think that is a question a lot of people struggle with in everything they do.  Look at the statistic that says only ¼ of people actually like their job which is something that consumes over 50% of their waking lives.  However, studies support that people who work out at least 30 minutes a day are overall happier and lead a better life.
-
-    ![DSC 0384](//images.contentful.com/ctmmyckif2fs/27ObXyfQvG8WAmAAWooEMu/edeb22f5a9bf1d0d68e7d6867e735c8e/DSC_0384.jpg)
-
-    I’ll say it again, when will you take some action?  Get up and decide that you’re in charge of your life and your body!  You control what goes in your mouth and also what comes out of it.  Start with having a constructive conversation or preparing a good meal.  Remember, whatever meal you’re about to eat next is your choice and whatever bad or good thing that is about to come out of your mouth is your choice.  The outcomes you are currently experiencing are a product of your choices.  If you are healthy and happy then keep it up, but just clue some of the rest of us in on your secret. Please!
-
-    ![DSC 0554](//images.contentful.com/ctmmyckif2fs/3hubFohNDiYwcEcYCGSCUI/cf4358415914d8dec080d8f040c398ee/DSC_0554.jpg)
-
-    I’ve ate a lot of bad things and said regrettable things to people.  I’m far from perfect. All I can do is try harder and put myself in a position to succeed.  I want to be successful, and I don’t want that success to be defined by numbers in an account or likes on this post.  I want it to be defined by the amount of people Triumph helps and the people that better themselves  through community fitness.  I would like to think we are just getting started.  The challenge ahead will be tough but the vision is clear. HELP as many people discover that they are not alone and have the power to change the world through their actions.  Get off the sidelines and into the game.
-
-
-    ![Personal-Training](//images.contentful.com/ctmmyckif2fs/3dZtaYpda0Mo6OU8OOkow0/cafae9b1897e9ea2088147641f92e14a/Personal-Training.jpg)
-
-    So let me encourage you to invite someone in the month of February to try a class.  Maybe invite someone over your house and cook them a good meal.  Your actions should reflect the type of person you are striving to become.  Just look at defending CrossFit champion Matt Fraser, the guy eat, sleeps, and breaths CrossFit.  Everything he does revolves around his goal to win the CrossFit games.  So I’ll ask for the final time.  What’s holding you back? Is it a friend, parent, spouse, or yourself?  Figure it out fast because life is not slowing down.  The definition of insanity is doing the same thing over and over again but expecting a different result.  So do something different, whether it be look through your phone and send that message to a friend or have a tough conversation with your boss.  Everyday at CrossFit I would like to think people get multiple sensations out of it.  I hope they feel out of breath from getting their HR up and pushing themselves, but also have fun, laugh and engage, in a positive community. Squeeze every drop out of your life.
+    id: 4ZcKS3C9Py6OU8K8Ic6Ewy
+    created_at: !ruby/object:DateTime 2018-02-25 03:20:22.890000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-04 02:08:51.149000000 Z
+    content_type_id: page
+  title: SWEAT Class
+  sub_title: Get moving, get fit & feel great.
+  body: "Get moving, get fit & feel great. Starting on March 5, 2018 we'll be running
+    a 12 week bootcamp designed to get you in the door, get you out and sweating in
+    just 30 minutes. The cost is 12 weeks for $200, $140 for current Triumph members.
+    A 10 class package can  be purchased for $100 as well.\n\n__Class Times__\nMonday,
+    Wednesday & Friday\n- 5:00 AM\n- 8:00 AM\n- 11:00 AM\n\n### [Purchase your Sweat
+    Class Package Now](https://triumphstrength.wodify.com/OnlineSalesPortal/Sessions.aspx?LocationId=2081&IsMobile=False)
+    \n\n<a href=\"https://www.youtube.com/watch?v=2nzEKK97ZkA\" class=\"embedly-card\"
+    data-card-width=\"100%\" data-card-controls=\"1\">Embedded content: https://www.youtube.com/watch?v=2nzEKK97ZkA</a>"
   featured_image:
     sys:
-      id: 4KY1zB1dQQi80oyKeUKoEK
-      created_at: !ruby/object:DateTime 2018-03-11 22:29:30.148000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-11 22:29:30.148000000 Z
-    title: elevator-button
+      id: 1x3OMTzrIEEqiq462gACgu
+      created_at: !ruby/object:DateTime 2018-02-25 03:19:58.634000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-27 03:49:59.976000000 Z
+    title: 12 week bootcamp bg
     description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/4KY1zB1dQQi80oyKeUKoEK/740d97c454e49aa799dc070815fa477c/elevator-button.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 6LVaTXj0l2k2w0g0Q6WCiA
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      content_type_id: category
-    name: Coaches Corner
-    slug: coaches-corner
-  tags:
-  - help
-  date: !ruby/object:DateTime 2018-02-07 00:00:00.000000000 -05:00
-  slug: let-us-help-you
-- sys:
-    id: 2y8x4r5N5ese6QcKqOgYMg
-    created_at: !ruby/object:DateTime 2018-02-24 21:17:18.646000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-24 21:27:38.764000000 Z
-    content_type_id: post
-  title: '15 Minute Trainer: Squats, Push Up, Burpees, Sit Ups'
-  body: |-
-    Welcome to this week's 15 Minute Trainer. Coach Chris takes you through an EMOM of air squats, push ups, burpees and sit ups.
-
-    <a href="https://www.youtube.com/embed/8KrlQjI5KRM" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/embed/8KrlQjI5KRM</a>
-  featured_image:
-    sys:
-      id: 4D1cMZflRKyakmm4U8yaai
-      created_at: !ruby/object:DateTime 2018-02-24 21:16:47.590000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-24 21:16:47.590000000 Z
-    title: Screenshot-2018-02-11-19.23.01-1038x576
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/4D1cMZflRKyakmm4U8yaai/89148cc1b62bf629b3be3afa71772c49/Screenshot-2018-02-11-19.23.01-1038x576.png"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 6LVaTXj0l2k2w0g0Q6WCiA
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      content_type_id: category
-    name: Coaches Corner
-    slug: coaches-corner
-  date: !ruby/object:DateTime 2018-02-16 00:00:00.000000000 -05:00
-  slug: 15-minute-trainer-squats-push-up-burpees-sit-ups
-- sys:
-    id: 2SV8ILAZzy68oEA2u8IGG4
-    created_at: !ruby/object:DateTime 2018-03-12 01:14:40.173000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-12 01:14:40.173000000 Z
-    content_type_id: post
-  title: 'Programming Preview: Week of 1/15'
-  body: |-
-    Some great things coming your way this week. Check out the preview to see this week’s workouts, advice and modifications.
-
-    <a href="https://www.youtube.com/watch?v=IpH4A9OCK4I" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=IpH4A9OCK4I</a>
-  featured_image:
-    sys:
-      id: 1olf9s3GSMG6UycSm0Wi2o
-      created_at: !ruby/object:DateTime 2018-03-12 01:14:30.665000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-12 01:14:30.665000000 Z
-    title: pp-week-18-01-15
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/1olf9s3GSMG6UycSm0Wi2o/bd9bf4147f7959accb8070202a1ec052/pp-week-18-01-15.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 25qMMuioYAQyu2c46qg2Ki
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      content_type_id: category
-    name: Gym News
-    slug: gym-news
-  date: !ruby/object:DateTime 2018-01-14 00:00:00.000000000 -05:00
-  slug: programming-preview-week-of-1-15
-- sys:
-    id: 41npSeXgPuWQMQm8GusI44
-    created_at: !ruby/object:DateTime 2018-02-24 20:53:23.910000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-24 20:53:23.910000000 Z
-    content_type_id: post
-  title: 'Athlete Profile:  Jenny Beene-Skuban'
-  body: |-
-    **Name**
-
-    Jenny Beene-Skuban
-
-    **Where are you from?**
-
-    Ft. Thomas, K to the Y
-
-    **What is your favorite vacation spot? Why?**
-
-    Vieques, Puerto Rico. Laid-back beautiful place that is still fairly undeveloped, and it has an amazing bioluminescent bay. I’m saddened by the devastation there by Hurricane Maria :(
-
-    **What is your favorite movie or TV show?**
-
-    The Three Amigos!
-
-    **What is the best gift you've ever received?**
-
-    The opportunity to work out with Colgan.
-
-    **Who is your hero?**
-
-    Notorious RBG (yes I’m a lawyer nerd)
-
-    **What's something we don't know about you?**
-
-    I can solve a rubik’s cube \*without\* peeling the stickers off
-
-    **What are two pet peeves?**
-
-    Excessive use’s of apostrophe’s and when Mike Whalen goes to any class besides 6:30am
-
-    **Favorite CrossFit movement?**
-
-    ROWING
-
-    **Favorite CrossFit WOD?**
-
-    ROWING
-
-    **Anything else you'd like to share?**
-
-    That’s what she said.
-  featured_image:
-    sys:
-      id: 36FMzRF5qoUeWOSYuakMSq
-      created_at: !ruby/object:DateTime 2018-02-24 21:23:38.299000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-24 21:23:38.299000000 Z
-    title: 13906636 1090769924334073 6257749024098892694 n
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/36FMzRF5qoUeWOSYuakMSq/fcc4b5a4cbcc8e481ae5d6f06e88b369/13906636_1090769924334073_6257749024098892694_n.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 4hTMi0NG9WcusWCiiKKCK6
-      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      content_type_id: category
-    name: Featured Athlete
-    slug: featured-athlete
-  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
-  slug: athlete-profile-jenny-beene-skuban
-- sys:
-    id: 6P8cxnfTcQIiAwsw6wc2y6
-    created_at: !ruby/object:DateTime 2018-02-26 04:00:00.168000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-12 01:19:31.794000000 Z
-    content_type_id: post
-  title: 'Programming Preview: Week of 2/26'
-  body: '<a href="https://www.youtube.com/watch?v=KG4BEAD1t5c" class="embedly-card"
-    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=KG4BEAD1t5c</a>'
-  featured_image:
-    sys:
-      id: 7fHxnal1lK24cY0gYOWsY0
-      created_at: !ruby/object:DateTime 2018-03-12 01:19:19.182000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-12 01:19:19.182000000 Z
-    title: pp-week-18-02-26
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/7fHxnal1lK24cY0gYOWsY0/afd1a37fa2b499b2394eeec0c48f7f47/pp-week-18-02-26.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 25qMMuioYAQyu2c46qg2Ki
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      content_type_id: category
-    name: Gym News
-    slug: gym-news
-  date: !ruby/object:DateTime 2018-02-25 22:59:00.000000000 -05:00
-  slug: programming-preview-week-of-2-26
-- sys:
-    id: 4JB6AI0qnYOEocOOgGUKIw
-    created_at: !ruby/object:DateTime 2018-03-11 18:10:59.618000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-11 18:12:36.210000000 Z
-    content_type_id: post
-  title: '15 Minute Trainer: Med Ball Magic'
-  body: |-
-    __2 rounds__
-
-    1 Min of work
-
-    :30 Rest
-
-    - Minute 1: Med ball lunge
-    - Minute 2: Med ball sit up
-    - Minute 3: Med ball squat
-    - Minute 4: Med ball Russian twist
-
-    <a href="https://www.youtube.com/watch?v=wKCh5a4HB_s" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=wKCh5a4HB_s</a>
-  featured_image:
-    sys:
-      id: 2FyxCJZX7OO0cISg0Y4sEo
-      created_at: !ruby/object:DateTime 2018-03-11 18:10:29.601000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-11 18:10:29.601000000 Z
-    title: 15min-trainer-mbm
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/2FyxCJZX7OO0cISg0Y4sEo/6a513387c80b5295a98557f5d064f86b/15min-trainer-mbm.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 6LVaTXj0l2k2w0g0Q6WCiA
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      content_type_id: category
-    name: Coaches Corner
-    slug: coaches-corner
-  tags:
-  - training
-  - tips
-  - wod anywhere
-  date: !ruby/object:DateTime 2018-03-02 00:00:00.000000000 -05:00
-  slug: 15-minute-trainer-med-ball-magic
-- sys:
-    id: 1PKlAbil00Gi0W442KeEOM
-    created_at: !ruby/object:DateTime 2018-03-10 02:51:19.861000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-10 02:51:19.861000000 Z
-    content_type_id: post
-  title: 'Athlete Profile: Steve Chapman'
-  body: |
-    __Name__
-    Steve chapman
-
-    __Where are you from?__
-    Ludlow, kentucky
-
-    __What is your favorite vacation spot? Why?__
-    Moab, Utah, quite, peaceful, lot of outdoor activities
-
-    __What is your favorite movie or TV show?__
-    Caddyshack
-
-    __What is the best gift you’ve ever received?__
-    Life, good genes and a car for my 16th birthday
-
-    __Who is your hero?__
-    My dad
-
-    __What’s something we don’t know about you?__
-    I turn into a werewolf when the moon is full
-
-    __What are two pet peeves?__
-    Slurping the bottom of a drink through a straw, people who talk negative about themselves before trying something new and then not doing it.
-
-    __Favorite CrossFit movement?__
-    Muscle ups
-
-    __Favorite CrossFit WOD?__
-    Diane
-  featured_image:
-    sys:
-      id: 6naNurJaUgoCcwU4GqyYw0
-      created_at: !ruby/object:DateTime 2018-03-10 02:49:32.203000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-10 03:31:56.578000000 Z
-    title: ap-sc
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/6naNurJaUgoCcwU4GqyYw0/b7c08dd09be913e6e9ce579457597bb0/ap-sc.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 4hTMi0NG9WcusWCiiKKCK6
-      created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-      content_type_id: category
-    name: Featured Athlete
-    slug: featured-athlete
-  tags:
-  - outdoor
-  - athletes
-  - steve chapman
-  - Muscle ups
-  - Diane
-  date: !ruby/object:DateTime 2018-03-07 00:00:00.000000000 -05:00
-  slug: athlete-profile-steve-chapman
-- sys:
-    id: 2wwzVuLeKoSyMGAUyGYaSI
-    created_at: !ruby/object:DateTime 2018-03-12 01:12:56.643000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-12 01:12:56.643000000 Z
-    content_type_id: post
-  title: 'Programming Preview: Week of 1/22'
-  body: |-
-    Haven’t signed up for the open yet?? You can do it right HERE! Look for CrossFit Accretion and sign up on our Triumph Strength & Conditioning team.
-
-    <a href="https://www.youtube.com/watch?v=pf4bkZUv-z0" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=pf4bkZUv-z0</a>
-  featured_image:
-    sys:
-      id: 3fhIvZwjhSw2WMuKSuG8go
-      created_at: !ruby/object:DateTime 2018-03-12 01:12:43.575000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-12 01:12:43.575000000 Z
-    title: pp-week-18-01-22
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/3fhIvZwjhSw2WMuKSuG8go/1e253b20f7cc014509d7f92bf9f5f90f/pp-week-18-01-22.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 25qMMuioYAQyu2c46qg2Ki
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      content_type_id: category
-    name: Gym News
-    slug: gym-news
-  date: !ruby/object:DateTime 2018-01-21 00:00:00.000000000 -05:00
-  slug: programming-preview-week-of-1-22
-- sys:
-    id: 4FZdVXtesgS24GAG6Qs0yO
-    created_at: !ruby/object:DateTime 2018-03-12 01:07:53.826000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-12 01:07:53.826000000 Z
-    content_type_id: post
-  title: 'Programming Preview: Week of 1/29'
-  body: |-
-    Don’t forget, Thursday kicks off our month of Bring a Friend February. Every Tuesday and Thursday of this month we’ll be opening our doors to your friends and family!
-
-    <a href="https://www.youtube.com/watch?v=tBAx4BJpiSQ" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=tBAx4BJpiSQ</a>
-  featured_image:
-    sys:
-      id: 3OCt6JnAEouguO0yUWMAiw
-      created_at: !ruby/object:DateTime 2018-03-12 01:07:38.552000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-12 01:07:38.552000000 Z
-    title: pp-week-18-01-29
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/3OCt6JnAEouguO0yUWMAiw/08c41f8d45fe2d4e6dddd4f8959cffbd/pp-week-18-01-29.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 25qMMuioYAQyu2c46qg2Ki
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      content_type_id: category
-    name: Gym News
-    slug: gym-news
-  date: !ruby/object:DateTime 2018-01-28 00:00:00.000000000 -05:00
-  slug: programming-preview-week-of-1-29
-- sys:
-    id: 4peZlhSynSA2gmGwi60yOW
-    created_at: !ruby/object:DateTime 2018-03-11 18:07:29.859000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-11 18:11:21.900000000 Z
-    content_type_id: post
-  title: '15 Minute Trainer: Body Buster'
-  body: |-
-    Coach Kelsey brings us through:
-
-    __3 rounds__
-
-    - :45 RDL to lunge
-    - :45 Flutter Kicks
-    - :45 High to low planks
-    - :45 Jumping Jacks
-    - :45 Rest
-
-    <a href="https://www.youtube.com/watch?v=_p708vewNDw" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=_p708vewNDw</a>
-  featured_image:
-    sys:
-      id: OLGPWpXjgsmIOmG24q0Yu
-      created_at: !ruby/object:DateTime 2018-03-11 18:06:07.502000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-11 18:06:07.502000000 Z
-    title: 15min-trainer
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/OLGPWpXjgsmIOmG24q0Yu/6c64f34c34da13ab6d2836182864f5c9/15min-trainer.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 6LVaTXj0l2k2w0g0Q6WCiA
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      content_type_id: category
-    name: Coaches Corner
-    slug: coaches-corner
-  tags:
-  - training
-  - tips
-  - wod anywhere
-  date: !ruby/object:DateTime 2018-03-07 00:00:00.000000000 -05:00
-  slug: 15-minute-trainer-body-buster
-- sys:
-    id: 539HOESYwMqAyAGAsYIeUM
-    created_at: !ruby/object:DateTime 2018-03-11 18:27:28.713000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-11 18:27:28.713000000 Z
-    content_type_id: post
-  title: 18.1 Strategy and Tips
-  body: |-
-    Coach Derek and Coach Kelsey just went head to head for 18.1. Coach Derek took a minute after the workout to go over some strategy and tips for you before completing it this weekend.
-
-    <a href="https://www.youtube.com/watch?v=NW0QoPWZUdI" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=NW0QoPWZUdI</a>
-  featured_image:
-    sys:
-      id: 5oiqezoA7e8uuOkcqeQyA8
-      created_at: !ruby/object:DateTime 2018-03-11 18:27:00.240000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-11 18:27:00.240000000 Z
-    title: '18.1'
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/5oiqezoA7e8uuOkcqeQyA8/b9d6b4bfa6aef0c6b55299e8b95bd13a/18.1.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 6LVaTXj0l2k2w0g0Q6WCiA
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-      content_type_id: category
-    name: Coaches Corner
-    slug: coaches-corner
-  tags:
-  - '18.1'
-  - CrossFit Open
-  - Tips
+    url: "//images.ctfassets.net/ctmmyckif2fs/1x3OMTzrIEEqiq462gACgu/e829c994eee99a362bd93b6b3ec1a2b1/Screenshot_2018-02-24_22.16.51.jpg"
+  slug: sweat
   date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-  slug: 18-1-strategy-and-tips
 - sys:
-    id: 309wbNYhm8u4gKikmeQYMi
-    created_at: !ruby/object:DateTime 2018-03-11 22:46:08.533000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-11 22:46:08.533000000 Z
-    content_type_id: post
-  title: Win a Free Membership with your T-shirt Design
-  body: "__We need your design for our next t-shirt!__\n\nYou can [download Triumph
-    Strength logos HERE](https://drive.google.com/drive/folders/1-jzq2dnipEM0yHyP3IUutRbpDp22Mwhg).
-    They do not have to be included in your design, but the logo should appear somewhere
-    on your t-shirt.\n\n[Submissions can be made HERE](https://docs.google.com/forms/d/e/1FAIpQLScv85D-CO7aZjX1robhQQadItOFDga8XzKVx9YO7AJcCS6cdg/viewform).
-    \n\nWe’ll draw a winner on 3/16 and said winner will receive one free month membership
-    to Triumph Strength & Conditioning."
+    id: 6rnveAIbSgGuO00IEmMMUi
+    created_at: !ruby/object:DateTime 2018-03-12 02:58:01.111000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-12 02:58:01.111000000 Z
+    content_type_id: page
+  title: Membership Hold Request
+  sub_title: We're sorry to see you go, but we get it. Life happens.
+  body: |-
+    <div class="heading-block mt-5 center">
+      <h1>Temporary Suspension</h1>
+    </div>
+    <p>
+    This is not a termination request. As stated in your membership agreement, you have the option to put your automatically
+    recurring monthly membership on hold for any reason.
+    </p>
+
+    <ol>
+      <li>Membership hold requests must be submitted no less than five (5) business days before your forthcoming scheduled renewal
+      date. Membership hold requests received later cannot be processed until after the forthcoming scheduled renewal payment.
+      All membership payments are non-refundable.</li>
+      <li>Membership hold requests are available in 30-day increments for up to three (2) consecutive 30-day periods (i.e. 30, 60 or
+      90 days).</li>
+      <li>Upon expiration of the hold period that you select below, your account will automatically reactivate and regular membership
+      payments will resume.</li>
+      <li>There is a $30 per month hold fee.</li>
+      <li>If you chose to cancel your membership during the hold period, the standard 30-day written cancellation notice requirement
+      stated in your membership agreement is applicable. If you choose to reactivate your membership after it is canceled, membership
+      rates in effect at the time of reactivation will be applicable (membership rates are subject to change).</li>
+    </ol>
+
+    <div class="line topmargin-sm nobottommargin"></div>
+
+    <div class="_form_8"></div>
+    <script src="https://triumphstrengthandconditioning.activehosted.com/f/embed.php?id=8" type="text/javascript" charset="utf-8"></script>
   featured_image:
     sys:
-      id: 1W82ivOeeYKgmUMYmkm6e4
-      created_at: !ruby/object:DateTime 2018-03-11 22:45:32.556000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-11 22:45:32.556000000 Z
-    title: tshirt design
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
     description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/1W82ivOeeYKgmUMYmkm6e4/3f29177823dbe2f9629b5d206633f5d8/tshirt_design.jpg"
-  author:
-    sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
-    sys:
-      id: 25qMMuioYAQyu2c46qg2Ki
-      created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-      content_type_id: category
-    name: Gym News
-    slug: gym-news
-  tags:
-  - t-shirt
-  - contest
-  date: !ruby/object:DateTime 2018-03-06 00:00:00.000000000 -05:00
-  slug: win-a-free-membership-with-your-t-shirt-design
+    url: "//images.ctfassets.net/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: hold-request
+  date: !ruby/object:DateTime 2018-03-01 00:00:00.000000000 -05:00
 - sys:
-    id: 2a3pgUWBUM4mmMCSqw0SYQ
-    created_at: !ruby/object:DateTime 2018-03-12 01:24:12.449000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-12 01:24:12.449000000 Z
-    content_type_id: post
-  title: Saturday 1/10/2018
+    id: 54fEqNiCScS6UqsauqyaQe
+    created_at: !ruby/object:DateTime 2018-02-25 04:11:19.723000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:11:19.723000000 Z
+    content_type_id: page
+  title: Family Class
+  sub_title: Because your kids want to CrossFit too.
+  body: We offer family classes at 9:00am every Saturday. Bring your kids and we'll
+    cater a workout just for them. It's fun and a great way to get your entire family
+    out and moving.
+  featured_image:
+    sys:
+      id: 1nxOht8mUASq8OSg6QEOCu
+      created_at: !ruby/object:DateTime 2018-02-25 04:11:30.078000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-27 03:53:37.777000000 Z
+    title: family-bg
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/1nxOht8mUASq8OSg6QEOCu/23754f015848fc2f95bf14b736d6ce39/family-bg.jpg"
+  slug: family
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 6oV7ONvcJiOYwWA6qAEQa6
+    created_at: !ruby/object:DateTime 2018-02-25 03:59:49.017000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 03:59:49.017000000 Z
+    content_type_id: page
+  title: Spartan SGX
+  sub_title: Spartan training builds complete fitness.
   body: |-
-    ## Warm-up
-    Cyclone Tag
+    SGX is Spartan’s official training program and the leader in obstacle race fitness. SGX is designed for every fitness level and any age, a scientifically-supported solution to get anyone physically and mentally prepared for a Spartan Race, or to live more vitally. SGX is grounded in functional bodyweight exercise to improve agility, athleticism and power; the workouts are progressive, varying in exercise volume, intensity and specificity over time. SGX is also about empowerment. Coaches are trained to help people improve their nutritional and lifestyle habits and self-efficacy, all critical to success in the race and in daily life.
 
-    ## Metcon (Time)
-    Teams of 2
+    Because participating in a Spartan Race requires all-around fitness, SGX training necessarily develops well-rounded athletes. Because every Spartan Race is different, SGX training builds the transformational capability to take on whatever challenge arises.
 
-    Station 1
+    SGX training will benefit you on the race course or on the soccer field, at the box or at the yoga studio, on the track or on the trail, at work and at home, and in how you feel every day.
 
-    2k Row
+    Find an SGX coach, or experience SGX firsthand at our one-day obstacle race prep class Spartan Obstacle Specialist.
 
-    while Partner 1 Rows Partner 2 hold
 
-    top DL Postition 95/65
-
-    If p2 Drops bar they switch
-
-    Station 2
-
-    Team Annie
-
-    One teammate working at a time!
-
-    100-80-60-40-20
-
-    Double Unders and Sit-Ups
-
-    or for singles
-
-    300-240-180-120-60
-    total time
-  author:
+    ### [Inquire about Spartan Training](https://triumphstrength.net/contact)
+  featured_image:
     sys:
-      id: 37TyZJB8buu0CeqEgcOYuS
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-      content_type_id: author
-    name: Jarrett Baston
-    profile_image:
-      sys:
-        id: 75DgW8T6tGkcOsOWmcoCG6
-        created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-        updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      title: Jarrett-Baston
-      description: Jarrett Baston
-      url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-    slug: jarrett-baston
-  category:
+      id: 9wSNAKdQswum4ky02SUoW
+      created_at: !ruby/object:DateTime 2018-02-25 03:59:34.422000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-27 03:52:58.203000000 Z
+    title: spartansgx-bg
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/9wSNAKdQswum4ky02SUoW/4c5d50856656bb4156549a897a2d62c1/spartansgx-bg.jpg"
+  slug: spartansgx
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 21tI2bgDeg0Eg86eiMuKC0
+    created_at: !ruby/object:DateTime 2018-02-25 04:47:43.826000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:47:43.826000000 Z
+    content_type_id: page
+  title: About
+  sub_title: Home of CrossFit Accretion
+  body: |-
+    Triumph Strength and Conditioning - Home of CrossFit Accretion holds our tight-knit community above everything else. Sure you'll find Florence's most highly trained coaches under this roof, but you'll also find our members going out of their way to welcome and support new clients and each other. We pride ourselves on making our box a clean place where you can obtain the guidance you need to begin changing your life forever.
+
+    Our functional and intense workouts are unmatched, and when paired with a solid nutritional foundation, you have the perfect combination for a healthier you. Our classes encourage the camaraderie that we're known for, which in turn drives the amazing results you'll soon experience. Find out what it means to Carry The Shield and join this amazing community today.
+  featured_image:
     sys:
-      id: 4RIo8OQ5ygYuEkMQOyOgoI
-      created_at: !ruby/object:DateTime 2018-02-19 06:17:32.665000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-12 01:27:55.547000000 Z
-      content_type_id: category
-    name: Latest WOD
-    slug: latest-wod
-  date: !ruby/object:DateTime 2018-03-09 00:00:00.000000000 -05:00
-  slug: saturday-1-10-2018
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: about
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 3zuJrkcYTewEkq4y40Y4Y6
+    created_at: !ruby/object:DateTime 2018-03-12 02:55:20.301000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-12 02:55:20.301000000 Z
+    content_type_id: page
+  title: Cancellation Request
+  sub_title: We're sorry to see you go
+  body: |-
+    <ol>
+      <li>If you decide to reactivate your membership in the future (and we hope you do) membership rates in effect at the time
+      of reactivation will be applicable as membership rates are subject to change.</li>
+      <li>If you wolid like to put your membership on hold instead of canceling, you can submit a Membership Hold Request. If you’re
+      sure you’d like to cancel, just complete and submit the form below. This will serve as your 30-day written cancellation notice
+      as required by your membership agreement. Your membership will be canceled 30 days from the submission of the form below.
+      Note that if you have a schedlied payment within this period, the payment will be processed as schedlied. All payments are
+      non-refundable.</li>
+      <li>Cancellation of memberships prior to the expiration of any specified commitment period requires an early termination
+      fee of the difference between the membership you were on and the membership you sholid have been on as outlined in your membership
+      agreement.
+      </li>
+    </ol>
+
+    <div class="line topmargin-sm nobottommargin"></div>
+
+    <div class="_form_6"></div>
+    <script src="https://triumphstrengthandconditioning.activehosted.com/f/embed.php?id=6" type="text/javascript" charset="utf-8"></script>
+  featured_image:
+    sys:
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: cancel
+  date: !ruby/object:DateTime 2018-03-01 00:00:00.000000000 -05:00
+- sys:
+    id: 2btrWdqtoIueYyS0qSAw82
+    created_at: !ruby/object:DateTime 2018-03-12 03:07:40.499000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-12 03:07:53.343000000 Z
+    content_type_id: page
+  title: Common Questions
+  sub_title: Have a question about Triumph Strength and Conditioning?
+  body: "### Have a question about Triumph Strength and Conditioning?\n\n\nWow, we
+    must be great mind readers. Hopefully we can answer a few for you in the FAQs
+    below. If not, feel free to contact us and we’ll reply back as soon as we can.\n\n\n__What
+    Is CrossFit?__\nCrossFit started as the principal strength and conditioning program
+    for many police academies and tactical operations teams, military special operations
+    units, champion martial artists, and hundreds of other elite and professional
+    athletes worldwide. Since then it has evolved to be an all-inclusive fitness program
+    for people of any athletic capability. Our program delivers a fitness that is,
+    by design, broad, general, and inclusive. Our specialty is not specializing. Combat,
+    survival, many sports, and life reward this kind of fitness and, on average, punish
+    the specialist. The CrossFit program is designed for universal scalability, making
+    it the perfect application for any committed individual regardless of experience.
+    We’ve used our same routines for elderly individuals with heart disease and cage
+    fighters one month out from televised bouts. We scale load and intensity; we don’t
+    change programs. The needs of Olympic athletes and our grandparents differ by
+    degree not kind. Our armed forces, skiers, mountain bike riders and housewives
+    have found their best fitness from the same regimen.\n\n__What does pricing look
+    like?__\nWe’ve got plenty of membership options for your goals and budget. To
+    get started today with a FREE intro session, just click here. I'm new to CrossFit.\n\n__What
+    should I expect?__\nWhen you first come to Triumph Strength and Conditioning,
+    you’ll start out with a FREE intro session where you come in for a baseline workout,
+    meet us, chat with our coaches, and talk with a trainer about your goals. Then,
+    we’ll add you to our Fundamentals course, where you’ll learn all the basics of
+    CrossFit in 6 sessions before you join our regular CrossFit classes.\n\n__Is CrossFit
+    dangerous?__\nWith inexperienced coaches, shoddy equipment and the wrong attitude,
+    CrossFit can be very dangerous – but so can riding your bike or driving your car.
+    The experienced and proven CrossFit coaches you’ll find at our facility will ensure
+    that you’re training in the safest most effective and efficient way possible.\n\n__What's
+    a WOD?__\nA WOD is the workout of the day. We program a different WOD everyday.
+    \n\n__What's your drop-in policy?__\nWe love visitors! To schedule your drop-in
+    session, click here. Experienced CrossFitters only, please. Daily rate: $20 or
+    $35 with a t-shirt Weekly rate: $65 and includes a t-shirt.\n\n__Do you offer
+    personal training?__\nYes! Our coaches would love to work with you 1-on-1 so you
+    can use the workout time you have to its best advantage. To get started with personal
+    training, click here.\n"
+  featured_image:
+    sys:
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: faq
+  date: !ruby/object:DateTime 2018-03-01 00:00:00.000000000 -05:00
+- sys:
+    id: 5benbMEbHGY82mwY0eQWOK
+    created_at: !ruby/object:DateTime 2018-02-25 03:30:14.120000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 03:30:14.120000000 Z
+    content_type_id: page
+  title: Barbell Club
+  sub_title: Whether you're a seasoned lifter or just starting out.
+  body: |-
+    Whether you're a seasoned lifter or just starting out Triumph Barbell is based around your needs as a lifter. With a 3-day and 5-day a week program we cater to your abilities and build up areas you may struggle with. Meeting every Tuesday, Thursday and Saturday from 6:30 AM - 8:00 AM and 5:30 PM - 7:00 PM.
+
+    Our 3-day a week program is designed for novice lifters wanting to incorporate the strength, agility and speed into their CrossFit workouts. The 5-day a week program is designed for intermediate and advanced lifters with their sole focus being Olympic weightlifting. This program includes a multitude of skills and drills paired with a percentage based strength cycle will help athletes improve their snatch and clean & jerk totals.
+
+    Here are some additional benefits to Triumph Barbell:
+    - Customized program based around you strengths and weaknesses
+    - Hands on coaching in small group setting
+    - Access to equipment outside of class times
+    - Guidance building up to weightlifting meets and coaching at weightlifting meets
+    - Video feed back from coaches using team Coaches Eye platform
+
+
+
+    ### [Sign Up for Barbell Fundamentals Now](https://triumphstrength.wodify.com/OnlineSalesPortal/ReviewPlanPurchase.aspx?OnlineMembershipId=83789&OnlineMembershipPaymentOptionId=327472&IsMobile=False)
+
+
+    <a href="https://www.youtube.com/watch?v=0_fJyc7Xfao" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=0_fJyc7Xfao</a>
+  featured_image:
+    sys:
+      id: 4Q6pPaz7YAywgIQ0OcQqqw
+      created_at: !ruby/object:DateTime 2018-02-25 03:29:48.976000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-27 03:51:00.760000000 Z
+    title: barbell-club-bg
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/4Q6pPaz7YAywgIQ0OcQqqw/3b64014d6b52fd1cfb79fef41ad7016b/barbell-club-bg.jpg"
+  slug: barbell-club
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+- sys:
+    id: guuK2j30M800mA4QA8yk2
+    created_at: !ruby/object:DateTime 2018-02-25 04:15:50.554000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:15:50.554000000 Z
+    content_type_id: page
+  title: Open Gym
+  sub_title: Every Sunday. Come work on your weakness.
+  body: We host open gym every sunday from 2pm to 4pm. Come in and make up your own
+    workout or focus on a movement. They gym is yours.
+  featured_image:
+    sys:
+      id: 4J4NNfdXU4iA04aieM0oG4
+      created_at: !ruby/object:DateTime 2018-02-25 04:15:33.232000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-27 03:54:25.844000000 Z
+    title: open-gym-bg
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/4J4NNfdXU4iA04aieM0oG4/da3f8e1e002a1d153b373ebe861d438a/open-gym-bg.jpg"
+  slug: open
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 5T4giVRj9KkWwIoQesCqcU
+    created_at: !ruby/object:DateTime 2018-02-25 03:38:58.897000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 03:38:58.897000000 Z
+    content_type_id: page
+  title: CrossFit Class
+  sub_title: Designed to help you meet your goals.
+  body: Based on the CrossFit prescription of “constantly varied functional movement
+    executed at high intensity,” our CrossFit program combines strength training with
+    the “classic” CrossFit cardio workout. For this class, you could be working on
+    pull-ups, rowing, burpees and much more. Every WOD is different so you never get
+    bored! We scale each workout to your fitness level, so you get the maximum workout
+    every time.
+  featured_image:
+    sys:
+      id: 43rvukjaZa2We8mUwGiAmC
+      created_at: !ruby/object:DateTime 2018-02-25 03:36:51.996000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-27 03:48:35.571000000 Z
+    title: CrossFit-Group-Class
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/43rvukjaZa2We8mUwGiAmC/f1783e4758ae0eac2cd276d7955a7156/crossfit-group-class.jpg"
+  slug: crossfit
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+- sys:
+    id: 20ktmBaS32EgyieKWqi8Cg
+    created_at: !ruby/object:DateTime 2018-03-12 03:00:23.751000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-12 03:00:23.751000000 Z
+    content_type_id: page
+  title: Refer a Friend
+  sub_title: Take care of your friends and benefit.
+  body: |-
+    <div class="heading-block mt-5 center">
+      <h1>GIVE $100. <span class="color">GET $100.</span></h1>
+    </div>
+    <p>
+    Got a friend who wants to transform their life and body and have a blast doing it? Refer them to Triumph Strength and Conditioning,
+    and we’ll reward you both!</p>
+    <p>Just give us your friend’s name and email address, and we’ll send them an offer for $100 off their
+    first month of training! When they sign up, you’ll get $100 off your next month, too. Everybody wins!</p>
+
+    <div class="line topmargin-sm nobottommargin"></div>
+
+    <div class="_form_7"></div>
+    <script src="https://triumphstrengthandconditioning.activehosted.com/f/embed.php?id=7" type="text/javascript" charset="utf-8"></script>
+  featured_image:
+    sys:
+      id: 9wSNAKdQswum4ky02SUoW
+      created_at: !ruby/object:DateTime 2018-02-25 03:59:34.422000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-27 03:52:58.203000000 Z
+    title: spartansgx-bg
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/9wSNAKdQswum4ky02SUoW/4c5d50856656bb4156549a897a2d62c1/spartansgx-bg.jpg"
+  slug: refer-a-friend
+  date: !ruby/object:DateTime 2018-03-01 00:00:00.000000000 -05:00
+- sys:
+    id: 3CfvjLdfgAa4GiSoGsOuaA
+    created_at: !ruby/object:DateTime 2018-02-25 04:45:50.693000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 04:45:50.693000000 Z
+    content_type_id: page
+  title: Programs
+  sub_title: Designed for lifetime health and fitness.
+  body: "At Triumph Strength & Conditioning, we’re all about you. We’ve designed our
+    classes to help you meet your goals for lifetime health and fitness and have a
+    great time doing it!\n\n## Fundamentals Class\nThe Fundamentals Course is designed
+    to set you up for success in a safe and confident environment prior to entering
+    our regular classes. You’ll learn what CrossFit is and why it is a great way to
+    get you fit for life and other endeavors. These 6 small-group classes (which are
+    required for everyone who has never tried CrossFit before) teach you all the basics
+    to get you ready for the intensity of CrossFit. Come prepared to learn new skills
+    and sweat a little. [Learn More](https://triumphstrength.net/fundamentals)\n\n##
+    CrossFit Class\nBased on the CrossFit prescription of “constantly varied functional
+    movement executed at high intensity,” our CrossFit program combines strength training
+    with the “classic” CrossFit cardio workout. For this class, you could be working
+    on pull-ups, rowing, burpees and much more. Every WOD is different so you never
+    get bored! We scale each workout to your fitness level, so you get the maximum
+    workout every time. [Learn More](https://triumphstrength.net/crossfit)\n\n## Personal
+    Training\nIn today’s busy world, it’s hard to find the time to get regular exercise.
+    So it’s important to make the most of the time you have. CrossFit Accretion offers
+    a wide range of personal workout programs to help you achieve your ideal body.
+    Your personal trainer will develop an exercise regimen suited specifically for
+    you, whether your goal is to gain muscle or lose weight. \n\n## Barbell Club\nThe
+    Triumph Barbell Club follows set cycles ranging from the introductory level to
+    more advanced cycles prepping lifters for WODs or competition. Whether you’re
+    looking to improve your technique and strength or want to pursue lifting as a
+    sport, this barbell class is for you. [Learn More](https://triumphstrength.net/barbell-club)\n\n##
+    Nutritional Guidance\nThe best workout in the world won’t work without the right
+    nutrition. We’ll help you find the right diet for your body type, goals, and particular
+    health needs. If you’re struggling with certain health issues, or even if you
+    feel “perfectly healthy,” nutritional guidance is critical to your success in
+    fitness and health.\n\n"
+  featured_image:
+    sys:
+      id: 2Te3QCAfpmYgayu0kCgS8Y
+      created_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 01:47:40.927000000 Z
+    title: contact-bg
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/2Te3QCAfpmYgayu0kCgS8Y/48450a6c9b750576247c0c9b2be4528c/contact-bg.jpg"
+  slug: programs
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+- sys:
+    id: tuFOb0hI40GCky0g2Agc
+    created_at: !ruby/object:DateTime 2018-02-25 03:50:09.132000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 03:50:09.132000000 Z
+    content_type_id: page
+  title: Fundamentals
+  sub_title: Designed to set you up for success.
+  body: The Fundamentals Course is designed to set you up for success in a safe and
+    confident environment prior to entering our regular classes. You’ll learn what
+    CrossFit is and why it is a great way to get you fit for life and other endeavors.
+    These 6 small-group classes (which are required for everyone who has never tried
+    CrossFit before) teach you all the basics to get you ready for the intensity of
+    CrossFit. Come prepared to learn new skills and sweat a little.
+  featured_image:
+    sys:
+      id: 41nswb78Na0YIySQeIaAOI
+      created_at: !ruby/object:DateTime 2018-02-25 03:49:59.470000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-27 03:47:52.666000000 Z
+    title: fundamentals-bg
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/41nswb78Na0YIySQeIaAOI/1b3d16ac1252615c3647fbd8477a150e/fundamentals-bg.jpg"
+  slug: fundamentals
+  date: !ruby/object:DateTime 2018-02-23 00:00:00.000000000 -05:00
+category:
+- sys:
+    id: 6sU7yeWA9iQ60yquUGm0ss
+    created_at: !ruby/object:DateTime 2018-02-19 06:17:12.010000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 06:17:12.010000000 Z
+    content_type_id: category
+  name: Nutrition
+  slug: nutrition
+- sys:
+    id: 4hTMi0NG9WcusWCiiKKCK6
+    created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
+    content_type_id: category
+  name: Featured Athlete
+  slug: featured-athlete
+- sys:
+    id: 4RIo8OQ5ygYuEkMQOyOgoI
+    created_at: !ruby/object:DateTime 2018-02-19 06:17:32.665000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-12 01:27:55.547000000 Z
+    content_type_id: category
+  name: Latest WOD
+  slug: latest-wod
+- sys:
+    id: 3d8Q1ODKusYmIYaOM8qOy
+    created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+    content_type_id: category
+  name: 'Podcast: Everyday Athelete'
+  slug: podcast-everyday-athelete
+- sys:
+    id: 25qMMuioYAQyu2c46qg2Ki
+    created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
+    content_type_id: category
+  name: Gym News
+  slug: gym-news
+- sys:
+    id: 6LVaTXj0l2k2w0g0Q6WCiA
+    created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
+    content_type_id: category
+  name: Coaches Corner
+  slug: coaches-corner
 coaches:
+- sys:
+    id: 4SRucmw6Y88Y2S4KAeIke8
+    created_at: !ruby/object:DateTime 2018-02-26 03:10:40.792000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-26 03:10:40.792000000 Z
+    content_type_id: coaches
+  name: Kelsey Blaze
+  subtitle: Coach
+  body: |-
+    When asked why she wanted to become a coach, Kelsey responded with a simple “I knew I wanted to coach when I saw that although life will knock you down 10 times, CrossFit will help you stand up 11.”
+
+    Kelsey has years of experience in and out of the gym helping people. When not coaching, Kelsey is a Clinical Research Coordinator at University of Cincinnati where she helps run studies that allow us to learn more about disease processes, improve treatments and help save lives.
+
+    ### CERTIFICATIONS:
+
+    - CrossFit Level 1
+  profile_image:
+    sys:
+      id: 54KRcLToyQcGSSoCuGqS4k
+      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.053000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.053000000 Z
+    title: kb
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/54KRcLToyQcGSSoCuGqS4k/c02d5dfb67ef2a4be556e9524c0667ac/kb.jpg"
+  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
+  slug: kelsey-blaze
+- sys:
+    id: 1E0q3JMxFmK4Ewaiy2QYqc
+    created_at: !ruby/object:DateTime 2018-02-26 03:08:14.625000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-26 03:08:14.625000000 Z
+    content_type_id: coaches
+  name: Mark McCain
+  subtitle: Owner / Trainer
+  body: |-
+    Owner/Trainer Mark McCain became a personal trainer while attending the University of Cincinnati after transferring from West Liberty University, where he was attending on a baseball scholarship. One day he “Got dragged to a Saturday CrossFit class, got my butt kicked, and the rest is history.”
+
+    When training his members, he loves to “Reach deep inside and pull out a person that they didn’t know existed.” It’s building members’ confidence and helping them reach their goals that he’s most passionate about in the gym. “I am humbled daily by the CrossFit community and the amazing people it attracts,” he says. “I feel super grateful for this opportunity to do what I love.”
+
+    ### CERTIFICATIONS:
+
+    - CrossFit Level 1
+    - CrossFit Mobility
+    - CrossFit Powerlifting
+    - CrossFit Football
+  profile_image:
+    sys:
+      id: 7eNSlfjimcQg8Qqe0moo2O
+      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.197000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.197000000 Z
+    title: mm
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/7eNSlfjimcQg8Qqe0moo2O/214e3c5ad4b1027180adc8013201e3c2/mm.jpg"
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+  slug: mark-mccain
+- sys:
+    id: 4TmJC6oePusgk8iYgOmMKG
+    created_at: !ruby/object:DateTime 2018-02-26 03:09:19.618000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-26 03:09:19.618000000 Z
+    content_type_id: coaches
+  name: Derek Kidney
+  subtitle: Coach
+  body: |-
+    Coach Derek Kidney got into coaching because “The more I did, the more I wanted to learn, the more I wanted to teach.” When this “huge nerd” is coaching, he love watching his members make positive changes, not just in the gym, but in multiple aspects of their lives. They have more confidence and more strength both mentally and physically.
+
+    His favorite quote is “Everyone thinks of changing the world, but no one thinks of changing themselves.”
+
+    ### CERTIFICATIONS:
+
+    - CrossFit Level 1
+    - CFE
+    - USAW
+    - SPC-1
+  profile_image:
+    sys:
+      id: 4QFBwZcue4w0AeUcYiYIM2
+      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.067000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.067000000 Z
+    title: dk
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/4QFBwZcue4w0AeUcYiYIM2/54c05065cd23185b624073ae8f2b9312/dk.jpg"
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+  slug: derek-kidney
 - sys:
     id: 6y6eb9ymYMqeEAQ6QkUEYa
     created_at: !ruby/object:DateTime 2018-02-26 03:10:02.168000000 Z
@@ -2315,177 +2612,78 @@ coaches:
     url: "//images.ctfassets.net/ctmmyckif2fs/5fev7RDgHuWI2uAuSGkwU/138b311afc6cd96032616343b66bd26a/jb.jpg"
   date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
   slug: jarrett-baston
-- sys:
-    id: 1E0q3JMxFmK4Ewaiy2QYqc
-    created_at: !ruby/object:DateTime 2018-02-26 03:08:14.625000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-26 03:08:14.625000000 Z
-    content_type_id: coaches
-  name: Mark McCain
-  subtitle: Owner / Trainer
-  body: |-
-    Owner/Trainer Mark McCain became a personal trainer while attending the University of Cincinnati after transferring from West Liberty University, where he was attending on a baseball scholarship. One day he “Got dragged to a Saturday CrossFit class, got my butt kicked, and the rest is history.”
-
-    When training his members, he loves to “Reach deep inside and pull out a person that they didn’t know existed.” It’s building members’ confidence and helping them reach their goals that he’s most passionate about in the gym. “I am humbled daily by the CrossFit community and the amazing people it attracts,” he says. “I feel super grateful for this opportunity to do what I love.”
-
-    ### CERTIFICATIONS:
-
-    - CrossFit Level 1
-    - CrossFit Mobility
-    - CrossFit Powerlifting
-    - CrossFit Football
-  profile_image:
-    sys:
-      id: 7eNSlfjimcQg8Qqe0moo2O
-      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.197000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.197000000 Z
-    title: mm
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/7eNSlfjimcQg8Qqe0moo2O/214e3c5ad4b1027180adc8013201e3c2/mm.jpg"
-  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-  slug: mark-mccain
-- sys:
-    id: 4SRucmw6Y88Y2S4KAeIke8
-    created_at: !ruby/object:DateTime 2018-02-26 03:10:40.792000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-26 03:10:40.792000000 Z
-    content_type_id: coaches
-  name: Kelsey Blaze
-  subtitle: Coach
-  body: |-
-    When asked why she wanted to become a coach, Kelsey responded with a simple “I knew I wanted to coach when I saw that although life will knock you down 10 times, CrossFit will help you stand up 11.”
-
-    Kelsey has years of experience in and out of the gym helping people. When not coaching, Kelsey is a Clinical Research Coordinator at University of Cincinnati where she helps run studies that allow us to learn more about disease processes, improve treatments and help save lives.
-
-    ### CERTIFICATIONS:
-
-    - CrossFit Level 1
-  profile_image:
-    sys:
-      id: 54KRcLToyQcGSSoCuGqS4k
-      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.053000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.053000000 Z
-    title: kb
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/54KRcLToyQcGSSoCuGqS4k/c02d5dfb67ef2a4be556e9524c0667ac/kb.jpg"
-  date: !ruby/object:DateTime 2018-02-21 00:00:00.000000000 -05:00
-  slug: kelsey-blaze
-- sys:
-    id: 4TmJC6oePusgk8iYgOmMKG
-    created_at: !ruby/object:DateTime 2018-02-26 03:09:19.618000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-26 03:09:19.618000000 Z
-    content_type_id: coaches
-  name: Derek Kidney
-  subtitle: Coach
-  body: |-
-    Coach Derek Kidney got into coaching because “The more I did, the more I wanted to learn, the more I wanted to teach.” When this “huge nerd” is coaching, he love watching his members make positive changes, not just in the gym, but in multiple aspects of their lives. They have more confidence and more strength both mentally and physically.
-
-    His favorite quote is “Everyone thinks of changing the world, but no one thinks of changing themselves.”
-
-    ### CERTIFICATIONS:
-
-    - CrossFit Level 1
-    - CFE
-    - USAW
-    - SPC-1
-  profile_image:
-    sys:
-      id: 4QFBwZcue4w0AeUcYiYIM2
-      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.067000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.067000000 Z
-    title: dk
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/4QFBwZcue4w0AeUcYiYIM2/54c05065cd23185b624073ae8f2b9312/dk.jpg"
-  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-  slug: derek-kidney
-category:
-- sys:
-    id: 3d8Q1ODKusYmIYaOM8qOy
-    created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
-    content_type_id: category
-  name: 'Podcast: Everyday Athelete'
-  slug: podcast-everyday-athelete
-- sys:
-    id: 25qMMuioYAQyu2c46qg2Ki
-    created_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:35:40.060000000 Z
-    content_type_id: category
-  name: Gym News
-  slug: gym-news
-- sys:
-    id: 6LVaTXj0l2k2w0g0Q6WCiA
-    created_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:35:20.050000000 Z
-    content_type_id: category
-  name: Coaches Corner
-  slug: coaches-corner
-- sys:
-    id: 6sU7yeWA9iQ60yquUGm0ss
-    created_at: !ruby/object:DateTime 2018-02-19 06:17:12.010000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 06:17:12.010000000 Z
-    content_type_id: category
-  name: Nutrition
-  slug: nutrition
-- sys:
-    id: 4hTMi0NG9WcusWCiiKKCK6
-    created_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:33:45.617000000 Z
-    content_type_id: category
-  name: Featured Athlete
-  slug: featured-athlete
-- sys:
-    id: 4RIo8OQ5ygYuEkMQOyOgoI
-    created_at: !ruby/object:DateTime 2018-02-19 06:17:32.665000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-12 01:27:55.547000000 Z
-    content_type_id: category
-  name: Latest WOD
-  slug: latest-wod
-author:
-- sys:
-    id: 37TyZJB8buu0CeqEgcOYuS
-    created_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:28:58.994000000 Z
-    content_type_id: author
-  name: Jarrett Baston
-  profile_image:
-    sys:
-      id: 75DgW8T6tGkcOsOWmcoCG6
-      created_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:28:42.714000000 Z
-    title: Jarrett-Baston
-    description: Jarrett Baston
-    url: "//images.ctfassets.net/ctmmyckif2fs/75DgW8T6tGkcOsOWmcoCG6/bf8e90962701acda5f785ee00663cefd/Jarrett-Baston.jpg"
-  slug: jarrett-baston
-- sys:
-    id: 1SsthkPeTWoUEOsq4AQiim
-    created_at: !ruby/object:DateTime 2018-03-05 22:55:28.477000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-05 22:55:28.477000000 Z
-    content_type_id: author
-  name: Chris Lemmel
-  profile_image:
-    sys:
-      id: 3qlcwEibT2uq2GQqigScqy
-      created_at: !ruby/object:DateTime 2018-02-26 03:08:32.066000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-26 03:08:32.066000000 Z
-    title: cl
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/3qlcwEibT2uq2GQqigScqy/2a33150e220fa9b3a1e73746653d98cf/cl.jpg"
-  slug: chris-lemmel
-- sys:
-    id: 31GAZQYq3u0SMo4mm2S8O8
-    created_at: !ruby/object:DateTime 2018-02-19 03:29:54.600000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-19 03:29:54.600000000 Z
-    content_type_id: author
-  name: Mark McCain
-  profile_image:
-    sys:
-      id: 6LZE8SkAF2c6gKWSwgSyIq
-      created_at: !ruby/object:DateTime 2018-02-19 03:29:48.781000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-19 03:29:48.781000000 Z
-    title: Mark McCain
-    description: Mark McCain
-    url: "//images.ctfassets.net/ctmmyckif2fs/6LZE8SkAF2c6gKWSwgSyIq/bf8e90962701acda5f785ee00663cefd/Mark-McCain.jpg"
-  slug: mark-mccain
 testimonials:
+- sys:
+    id: 1PIC7doLiweC6EWEy802Oy
+    created_at: !ruby/object:DateTime 2018-02-25 19:58:51.011000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 19:58:51.011000000 Z
+    content_type_id: testimonials
+  name: Kathy Laws
+  subtitle: Defies the rules
+  body: '<a href="https://www.youtube.com/watch?v=sU-Z95b1x-4" class="embedly-card"
+    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=sU-Z95b1x-4</a>'
+  profile_image:
+    sys:
+      id: 2kDyYjN3kMWIEqCOuEUkaS
+      created_at: !ruby/object:DateTime 2018-02-25 19:58:41.951000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 19:58:41.951000000 Z
+    title: 1116068 10201393439665170 1198181197 o
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/2kDyYjN3kMWIEqCOuEUkaS/1bc8948ca1612cae1854a4d0cd0b947d/1116068_10201393439665170_1198181197_o.jpg"
+  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
+  slug: kathy-laws
+- sys:
+    id: 2ac2e5HTyQ8KOSIee46c8k
+    created_at: !ruby/object:DateTime 2018-02-25 19:50:18.901000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 19:50:18.901000000 Z
+    content_type_id: testimonials
+  name: Suzanne Fernbach
+  subtitle: Never gives up
+  body: '<a href="https://www.youtube.com/watch?time_continue=19&v=LqVVGlLRqrg" class="embedly-card"
+    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?time_continue=19&v=LqVVGlLRqrg</a>'
+  profile_image:
+    sys:
+      id: 1D8tXQklGsUiaGSAAEG8KE
+      created_at: !ruby/object:DateTime 2018-02-25 19:50:05.758000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 19:50:05.758000000 Z
+    title: 1551581 10204550986443487 3377037807497003843 n
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/1D8tXQklGsUiaGSAAEG8KE/af621c1480c30a865b4e50916aa8b4ff/1551581_10204550986443487_3377037807497003843_n.jpg"
+  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
+  slug: suzanne-fernbach
+- sys:
+    id: 464u14RIFiawMicOSoOCAM
+    created_at: !ruby/object:DateTime 2018-02-25 20:04:12.133000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 20:04:12.133000000 Z
+    content_type_id: testimonials
+  name: Jeff Ryan
+  subtitle: Outlifts challenges
+  body: |-
+    My main goal is to retire in 10 years and do a lot of the things I have missed out on or put off while pursuing the American Dream. It wasn’t until my last doctor’s appointment for a checkup that the proverbial light went on. Isn’t that always the way?
+
+    He explained that the constant stress of my job combined with a crappy diet and no exercise are going to end up killing me. He wasn’t talking about ten or fifteen years, he was talking between one and three. Combine that with the news I received six months ago, a diagnoses of a chronic and incurable disease, and I walked out of his office with a whole new outlook on my life. I actually Googled P90X when I got to my office. While surfing around on the net, I stumbled upon this thing called CrossFit. For some reason, that looked a hell of a lot more exciting than anything else so I told my wife I was going to try that.
+
+    You guys have been a Godsend to me. I sincerely mean that. The other places threw me right into the fray. I had no idea what I was doing at all. The only thing I did know was I sucked really, really bad. You were the first Box that had a mandatory introductory class. It was great.
+
+    The Coaches at Triumph are what make the place special. I came through those overhead garage doors about four or five months ago with no idea what I was getting into. You guys took great care in guiding me through the CrossFit experience right from the very beginning. The beginner’s classes are a great way to get acclimated to this experience.
+
+    A big thing that I like is you guys push me. Especially Chris. He’s the one I’m most familiar with since he does the majority of the morning classes. When I utter something evenly remotely along the lines of “I’m not sure I can do that,” he makes me do it. I’m glad he does, too. I’m doing things I never thought I would do at this age. Not to beat the proverbial dead horse but I’ll be 52 in September, and I’m trying to do Toes to Bar! Who would have thunk it?
+
+    I’ve lost weight, which is something I have wanted to do for years. I’m stronger in numerous ways than I was when I first showed up. I eat much better thanks to Keith’s suggestions. I’m not gasping for air during the warmups anymore, either. Another really noticeable improvement is my ability to do my job better. Part of my job requires that I be present on job sites for projects. This usually involves a lot of climbing and lifting various items. I am not nearly as worn out and I can climb and move around much, much better.
+
+    By and large, every person that comes in to train is there to give it their all. Each and every person just impresses the hell out of me. I’m still at the stage where I can watch anyone there and be inspired. I guess it might be easier to put it this way. When you are doing burpees or wall-balls as part of a METCON (and I am terrible at burpees), it would be easy to stop at 18 instead of 21, however, you can’t. All of those other people are doing the METCON properly, and if I were to cheat on some reps, I would feel like I was cheating on the whole group. That is a powerful motivator.
+
+    My favorite thing is the fist-bump and the WODIFY. Being a newcomer to Triumph is really like any other group type activity. When you show up, everyone is nice and polite and helpful but you know intuitively that you are not yet part of “the group.” For me, I felt like part of “the group” as it were, when one of those big young guys, I’m not sure which one, gave me a fist bump after we were finished and said “good job.” That was progress! Then when we were told we must sign in on WODIFY, I did and I started logging my results. One day, out of the blue, I get this notification that Becca and Vicky “liked” something or other on my results. I thought, wow, if those two think I’m doing ok, I must be doing something right. That was like a first fist bump all over again.
+  profile_image:
+    sys:
+      id: 3ye7nZaWcwAmOSKQ4mkAI0
+      created_at: !ruby/object:DateTime 2018-02-25 20:04:04.418000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 20:04:04.418000000 Z
+    title: 23416456 1902792749734934 1016521748536885248 n
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/3ye7nZaWcwAmOSKQ4mkAI0/6f0c61f256df51c79bbc83e6eefa2fdc/23416456_1902792749734934_1016521748536885248_n.jpg"
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
+  slug: jeff-ryan
 - sys:
     id: 2xb1x0z1aYGQG4Yims8gIC
     created_at: !ruby/object:DateTime 2018-02-25 20:00:52.685000000 Z
@@ -2569,78 +2767,64 @@ testimonials:
     url: "//images.ctfassets.net/ctmmyckif2fs/3jgDClOusEiWyiMYoqaII4/fcc258321b725e3d115fe8c8319ab6cc/10857916_903426409675992_4062297024879830736_n.jpg"
   date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
   slug: heather-goldsberry
-- sys:
-    id: 1PIC7doLiweC6EWEy802Oy
-    created_at: !ruby/object:DateTime 2018-02-25 19:58:51.011000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 19:58:51.011000000 Z
-    content_type_id: testimonials
-  name: Kathy Laws
-  subtitle: Defies the rules
-  body: '<a href="https://www.youtube.com/watch?v=sU-Z95b1x-4" class="embedly-card"
-    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?v=sU-Z95b1x-4</a>'
-  profile_image:
-    sys:
-      id: 2kDyYjN3kMWIEqCOuEUkaS
-      created_at: !ruby/object:DateTime 2018-02-25 19:58:41.951000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 19:58:41.951000000 Z
-    title: 1116068 10201393439665170 1198181197 o
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/2kDyYjN3kMWIEqCOuEUkaS/1bc8948ca1612cae1854a4d0cd0b947d/1116068_10201393439665170_1198181197_o.jpg"
-  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
-  slug: kathy-laws
-- sys:
-    id: 2ac2e5HTyQ8KOSIee46c8k
-    created_at: !ruby/object:DateTime 2018-02-25 19:50:18.901000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 19:50:18.901000000 Z
-    content_type_id: testimonials
-  name: Suzanne Fernbach
-  subtitle: Never gives up
-  body: '<a href="https://www.youtube.com/watch?time_continue=19&v=LqVVGlLRqrg" class="embedly-card"
-    data-card-width="100%" data-card-controls="0">Embedded content: https://www.youtube.com/watch?time_continue=19&v=LqVVGlLRqrg</a>'
-  profile_image:
-    sys:
-      id: 1D8tXQklGsUiaGSAAEG8KE
-      created_at: !ruby/object:DateTime 2018-02-25 19:50:05.758000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 19:50:05.758000000 Z
-    title: 1551581 10204550986443487 3377037807497003843 n
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/1D8tXQklGsUiaGSAAEG8KE/af621c1480c30a865b4e50916aa8b4ff/1551581_10204550986443487_3377037807497003843_n.jpg"
-  date: !ruby/object:DateTime 2018-02-15 00:00:00.000000000 -05:00
-  slug: suzanne-fernbach
-- sys:
-    id: 464u14RIFiawMicOSoOCAM
-    created_at: !ruby/object:DateTime 2018-02-25 20:04:12.133000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 20:04:12.133000000 Z
-    content_type_id: testimonials
-  name: Jeff Ryan
-  subtitle: Outlifts challenges
-  body: |-
-    My main goal is to retire in 10 years and do a lot of the things I have missed out on or put off while pursuing the American Dream. It wasn’t until my last doctor’s appointment for a checkup that the proverbial light went on. Isn’t that always the way?
-
-    He explained that the constant stress of my job combined with a crappy diet and no exercise are going to end up killing me. He wasn’t talking about ten or fifteen years, he was talking between one and three. Combine that with the news I received six months ago, a diagnoses of a chronic and incurable disease, and I walked out of his office with a whole new outlook on my life. I actually Googled P90X when I got to my office. While surfing around on the net, I stumbled upon this thing called CrossFit. For some reason, that looked a hell of a lot more exciting than anything else so I told my wife I was going to try that.
-
-    You guys have been a Godsend to me. I sincerely mean that. The other places threw me right into the fray. I had no idea what I was doing at all. The only thing I did know was I sucked really, really bad. You were the first Box that had a mandatory introductory class. It was great.
-
-    The Coaches at Triumph are what make the place special. I came through those overhead garage doors about four or five months ago with no idea what I was getting into. You guys took great care in guiding me through the CrossFit experience right from the very beginning. The beginner’s classes are a great way to get acclimated to this experience.
-
-    A big thing that I like is you guys push me. Especially Chris. He’s the one I’m most familiar with since he does the majority of the morning classes. When I utter something evenly remotely along the lines of “I’m not sure I can do that,” he makes me do it. I’m glad he does, too. I’m doing things I never thought I would do at this age. Not to beat the proverbial dead horse but I’ll be 52 in September, and I’m trying to do Toes to Bar! Who would have thunk it?
-
-    I’ve lost weight, which is something I have wanted to do for years. I’m stronger in numerous ways than I was when I first showed up. I eat much better thanks to Keith’s suggestions. I’m not gasping for air during the warmups anymore, either. Another really noticeable improvement is my ability to do my job better. Part of my job requires that I be present on job sites for projects. This usually involves a lot of climbing and lifting various items. I am not nearly as worn out and I can climb and move around much, much better.
-
-    By and large, every person that comes in to train is there to give it their all. Each and every person just impresses the hell out of me. I’m still at the stage where I can watch anyone there and be inspired. I guess it might be easier to put it this way. When you are doing burpees or wall-balls as part of a METCON (and I am terrible at burpees), it would be easy to stop at 18 instead of 21, however, you can’t. All of those other people are doing the METCON properly, and if I were to cheat on some reps, I would feel like I was cheating on the whole group. That is a powerful motivator.
-
-    My favorite thing is the fist-bump and the WODIFY. Being a newcomer to Triumph is really like any other group type activity. When you show up, everyone is nice and polite and helpful but you know intuitively that you are not yet part of “the group.” For me, I felt like part of “the group” as it were, when one of those big young guys, I’m not sure which one, gave me a fist bump after we were finished and said “good job.” That was progress! Then when we were told we must sign in on WODIFY, I did and I started logging my results. One day, out of the blue, I get this notification that Becca and Vicky “liked” something or other on my results. I thought, wow, if those two think I’m doing ok, I must be doing something right. That was like a first fist bump all over again.
-  profile_image:
-    sys:
-      id: 3ye7nZaWcwAmOSKQ4mkAI0
-      created_at: !ruby/object:DateTime 2018-02-25 20:04:04.418000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 20:04:04.418000000 Z
-    title: 23416456 1902792749734934 1016521748536885248 n
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/3ye7nZaWcwAmOSKQ4mkAI0/6f0c61f256df51c79bbc83e6eefa2fdc/23416456_1902792749734934_1016521748536885248_n.jpg"
-  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-  slug: jeff-ryan
 podcast:
+- sys:
+    id: 2fIGPqAktOi0S68UuGs2SK
+    created_at: !ruby/object:DateTime 2018-03-05 23:00:25.975000000 Z
+    updated_at: !ruby/object:DateTime 2018-03-05 23:00:25.975000000 Z
+    content_type_id: podcast
+  title: Everyday Athlete Ep. 31 Aaron Hunt
+  description: 'Welcome to this week''s Everyday Athlete podcast. Coach Mark​ sits
+    down with Aaron Hunt​ this week and his journey through fitness, faith and music. '
+  video_link: https://www.youtube.com/watch?v=uhN1noFq1mE&t=24s
+  audio_link: https://soundcloud.com/user-4939135/everyday-athlete-ep-21-aaron-hunt
+  featured_image:
+    sys:
+      id: 1ZzmNdAeHaWauaOA8SCOaY
+      created_at: !ruby/object:DateTime 2018-03-05 22:59:34.543000000 Z
+      updated_at: !ruby/object:DateTime 2018-03-05 22:59:34.543000000 Z
+    title: EA Youtube aaronhunt
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/1ZzmNdAeHaWauaOA8SCOaY/2260924226f2ced0646a1d915e4c0d8a/EA_Youtube_aaronhunt.jpg"
+  category:
+  - sys:
+      id: 3d8Q1ODKusYmIYaOM8qOy
+      created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+      content_type_id: category
+    name: 'Podcast: Everyday Athelete'
+    slug: podcast-everyday-athelete
+  slug: everyday-athlete-ep-31-aaron-hunt
+  date: !ruby/object:DateTime 2018-02-13 00:00:00.000000000 -05:00
+- sys:
+    id: 1RhzGcTkEgMysC2wsccmQQ
+    created_at: !ruby/object:DateTime 2018-02-24 21:09:31.483000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-25 21:56:11.007000000 Z
+    content_type_id: podcast
+  title: 'Everyday Athlete: Ep. 32 Jayne Collins'
+  description: Jayne Collins sits down with us this week as we talk about her beginnings
+    in gymnastics and diving and how they have both transferred and hindered her in
+    the sport of CrossFit.
+  video_link: https://www.youtube.com/watch?v=5WCl3nUzVUE
+  audio_link: https://soundcloud.com/user-4939135/everyday-athlete-ep-32-jayne-collins
+  featured_image:
+    sys:
+      id: 5iQAgbVScMI6O6uG2egEyi
+      created_at: !ruby/object:DateTime 2018-02-25 21:55:46.027000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-25 21:55:46.027000000 Z
+    title: EA Youtube JayneCollins-1038x576
+    description: 
+    url: "//images.ctfassets.net/ctmmyckif2fs/5iQAgbVScMI6O6uG2egEyi/2cebe3b80b67a61570f47e2851d68dda/EA_Youtube_JayneCollins-1038x576.jpg"
+  category:
+  - sys:
+      id: 3d8Q1ODKusYmIYaOM8qOy
+      created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
+      content_type_id: category
+    name: 'Podcast: Everyday Athelete'
+    slug: podcast-everyday-athelete
+  slug: everyday-athlete-ep-32-jayne-collins
+  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
 - sys:
     id: 1ySl6PxuvKswiMgC4ywW4
     created_at: !ruby/object:DateTime 2018-02-26 04:22:59.097000000 Z
@@ -2672,60 +2856,3 @@ podcast:
     slug: podcast-everyday-athelete
   slug: everyday-athlete-ep-15-melissa-doss
   date: !ruby/object:DateTime 2017-09-28 00:00:00.000000000 -05:00
-- sys:
-    id: 1RhzGcTkEgMysC2wsccmQQ
-    created_at: !ruby/object:DateTime 2018-02-24 21:09:31.483000000 Z
-    updated_at: !ruby/object:DateTime 2018-02-25 21:56:11.007000000 Z
-    content_type_id: podcast
-  title: 'Everyday Athlete: Ep. 32 Jayne Collins'
-  description: Jayne Collins sits down with us this week as we talk about her beginnings
-    in gymnastics and diving and how they have both transferred and hindered her in
-    the sport of CrossFit.
-  video_link: https://www.youtube.com/watch?v=5WCl3nUzVUE
-  audio_link: https://soundcloud.com/user-4939135/everyday-athlete-ep-32-jayne-collins
-  featured_image:
-    sys:
-      id: 5iQAgbVScMI6O6uG2egEyi
-      created_at: !ruby/object:DateTime 2018-02-25 21:55:46.027000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-25 21:55:46.027000000 Z
-    title: EA Youtube JayneCollins-1038x576
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/5iQAgbVScMI6O6uG2egEyi/2cebe3b80b67a61570f47e2851d68dda/EA_Youtube_JayneCollins-1038x576.jpg"
-  category:
-  - sys:
-      id: 3d8Q1ODKusYmIYaOM8qOy
-      created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
-      content_type_id: category
-    name: 'Podcast: Everyday Athelete'
-    slug: podcast-everyday-athelete
-  slug: everyday-athlete-ep-32-jayne-collins
-  date: !ruby/object:DateTime 2018-02-22 00:00:00.000000000 -05:00
-- sys:
-    id: 2fIGPqAktOi0S68UuGs2SK
-    created_at: !ruby/object:DateTime 2018-03-05 23:00:25.975000000 Z
-    updated_at: !ruby/object:DateTime 2018-03-05 23:00:25.975000000 Z
-    content_type_id: podcast
-  title: Everyday Athlete Ep. 31 Aaron Hunt
-  description: 'Welcome to this week''s Everyday Athlete podcast. Coach Mark​ sits
-    down with Aaron Hunt​ this week and his journey through fitness, faith and music. '
-  video_link: https://www.youtube.com/watch?v=uhN1noFq1mE&t=24s
-  audio_link: https://soundcloud.com/user-4939135/everyday-athlete-ep-21-aaron-hunt
-  featured_image:
-    sys:
-      id: 1ZzmNdAeHaWauaOA8SCOaY
-      created_at: !ruby/object:DateTime 2018-03-05 22:59:34.543000000 Z
-      updated_at: !ruby/object:DateTime 2018-03-05 22:59:34.543000000 Z
-    title: EA Youtube aaronhunt
-    description: 
-    url: "//images.ctfassets.net/ctmmyckif2fs/1ZzmNdAeHaWauaOA8SCOaY/2260924226f2ced0646a1d915e4c0d8a/EA_Youtube_aaronhunt.jpg"
-  category:
-  - sys:
-      id: 3d8Q1ODKusYmIYaOM8qOy
-      created_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
-      updated_at: !ruby/object:DateTime 2018-02-24 20:54:08.672000000 Z
-      content_type_id: category
-    name: 'Podcast: Everyday Athelete'
-    slug: podcast-everyday-athelete
-  slug: everyday-athlete-ep-31-aaron-hunt
-  date: !ruby/object:DateTime 2018-02-13 00:00:00.000000000 -05:00
