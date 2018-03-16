@@ -8,35 +8,39 @@
 
   {% assign cf-post = site.data.tsc.post %}
   {% assign sorted = cf-post | sort: 'date' | reverse  %}
-   
+  {% assign curDate = site.time | date: '%s' %}
   {% assign count = 0 %}
+   
   {% for post in sorted %}
-    {% if post.category.slug == 'gym-news' or post.category.slug == 'coaches-corner' %}
-      {% if count < 3 %}
-      <div class="col_one_third">
-        <div class="ipost clearfix">
-          <div class="entry-image image-thumb image_fade">
-            <a href="/blog/{{ post.slug }}">
-              <figure class="fixed-ratio img-responsive" style="background-image:url('{{ post.featured_image.url }}')">
-              </figure>
-            </a>
-          </div>
-          <div class="entry-title">
-            <h3>
-              <a href="/blog/{{ post.slug }}">{{ post.title }}</a>
-            </h3>
-          </div>
-          <ul class="entry-meta clearfix">
-            <li>
-              <i class="icon-calendar3"></i>{{ post.date | date_to_string }}
-            </li>
-          </ul>
-          <div class="entry-content">
-            <p>{{ post.body | markdownify | strip_html | truncate:255 }}</p>
+    {% assign postStartDate = post.date | date: '%s' %}
+    {% if postStartDate <= curDate %}
+      {% if post.category.slug == 'gym-news' or post.category.slug == 'coaches-corner' %}
+        {% if count < 3 %}
+        <div class="col_one_third">
+          <div class="ipost clearfix">
+            <div class="entry-image image-thumb image_fade">
+              <a href="/blog/{{ post.slug }}">
+                <figure class="fixed-ratio img-responsive" style="background-image:url('{{ post.featured_image.url }}')">
+                </figure>
+              </a>
+            </div>
+            <div class="entry-title">
+              <h3>
+                <a href="/blog/{{ post.slug }}">{{ post.title }}</a>
+              </h3>
+            </div>
+            <ul class="entry-meta clearfix">
+              <li>
+                <i class="icon-calendar3"></i>{{ post.date | date_to_string }}
+              </li>
+            </ul>
+            <div class="entry-content">
+              <p>{{ post.body | markdownify | strip_html | truncate:255 }}</p>
+            </div>
           </div>
         </div>
-      </div>
-      {% assign count = count | plus: 1 %}
+        {% assign count = count | plus: 1 %}
+        {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
