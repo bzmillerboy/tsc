@@ -85,6 +85,8 @@
     								============================================= -->
                 <div class="entry-content notopmargin" itemprop="articleBody">
 
+                  {{ page.description | markdownify }}
+
                   <a href="{{ page.video_link }}" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: {{ page.video_link }}</a>
 
                   <a href="{{ page.audio_link }}" class="embedly-card" data-card-width="100%" data-card-controls="0">Embedded content: {{ page.audio_link }}</a>
