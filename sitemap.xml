@@ -1,0 +1,33 @@
+---
+layout: none
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+
+{% include sitemapxml.html url="stories/" %}
+{% include sitemapxml.html url="schedule/" %}
+{% include sitemapxml.html url="podcast/" %}
+{% include sitemapxml.html url="getting-started/" %}
+{% include sitemapxml.html url="contact/" %}
+{% include sitemapxml.html url="coaches/" %}
+{% include sitemapxml.html url="blog/" %}
+{% include sitemapxml.html url="blog/nutrition/" %}
+{% include sitemapxml.html url="blog/wod" %}
+{% include sitemapxml.html url="blog/gym-news" %}
+{% include sitemapxml.html url="blog/featured-athlete" %}
+{% include sitemapxml.html url="blog/coaches-corner" %}
+
+{% for post in site.data.tsc.post %}
+{% include sitemapxml.html url=post.slug path="blog" %}
+{% endfor %}
+
+{% for post in site.data.tsc.podcast %}
+{% include sitemapxml.html url=post.slug path="podcast" %}
+{% endfor %}
+
+{% for post in site.data.tsc.page %}
+{% include sitemapxml.html url=post.slug %}
+{% endfor %}
+
+</urlset>
