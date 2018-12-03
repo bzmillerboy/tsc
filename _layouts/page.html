@@ -51,8 +51,23 @@
 
           
           {% if page.url contains "crossfit" %}
-            {% include section-pricing.html %}
+            {% include section-pricing-crossfit.html %}
           {% endif %}
+
+          {% if page.url contains "barbell-club" %}
+            {% include section-pricing-barbell.html %}
+          {% endif %}
+
+          {% if page.url contains "personal-training" %}
+            {% include section-pricing-personal-training.html %}
+          {% endif %}
+
+          {% if page.url contains "massage" %}
+            {% include section-pricing-massage.html %}
+          {% endif %}
+          
+
+          
     
         </div>
     
