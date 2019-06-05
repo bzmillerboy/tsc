@@ -8,11 +8,11 @@ ul, ol {
   margin-left: 30px;
 }
 
-// @media (min-width: 768px) {
-//   .slider-caption-center {
-//     top: 178px;
-//   }
-// }
+@media (min-width: 768px) {
+  .slider-caption-center {
+    max-width: 913px;
+  }
+}
 
 
 .crossfit-logo svg {
