@@ -151,5 +151,6 @@ footer .accretion-logo svg {
 }
 
 #snipcart .snipcart-modal__container {
-  top: 100px !important;
+  // top: 59px !important;
+  z-index: 199;
 }
