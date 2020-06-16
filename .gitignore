@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 _data/tsc.yaml
 /_data/tsc.yaml
+.DS_Store
