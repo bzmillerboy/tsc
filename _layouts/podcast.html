@@ -19,7 +19,7 @@
     <!-- Page Title
     		============================================= -->
     <section id="page-title">
-    
+
       <div class="container clearfix">
         <h1>{{ page.title }}</h1>
         <span>{{ page.subtitle }}</span>
@@ -33,77 +33,78 @@
           <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
         </ol>
       </div>
-    
+
     </section><!-- #page-title end -->
 
     <!-- Content
     		============================================= -->
     <section id="content">
-    
+
       <div class="content-wrap">
-    
+
         <div class="container clearfix">
-    
+
           <!-- Post Content
     					============================================= -->
           <div class="postcontent postcontentcentered nobottommargin clearfix">
-    
+
             <!-- Posts
     						============================================= -->
             <div id="posts" class="post-timeline clearfix">
-    
+
               <div class="timeline-border"></div>
-    
-              {% assign sorted = (site.data.tsc.podcast | sort: 'date') | reverse %}
+
+              {% assign sorted = site.data.tsc.podcast | sort: 'date' | reverse %}
               {% assign curDate = site.time | date: '%s' %}
 
               {% for episode in sorted %}
-                {% assign episodeStartDate = episode.date | date: '%s' %}
-                {% if episodeStartDate <= curDate %}
-                  <div class="entry clearfix">
-                    <div class="entry-timeline">
-                      {{ episode.date | date_to_string | date: "%d" }}
-                      <span>{{ episode.date | date_to_string | date: "%b" }}</span>
-                      <div class="timeline-divider"></div>
-                    </div>
-                    <div class="entry-image">
-                      <a href="/podcast/{{ episode.slug }}">
-                        <img class="image_fade" src="{{ episode.featured_image.url }}" alt="{{ episode.featured_image.title }}">
-                      </a>
-                    </div>
-                    <div class="entry-title">
-                      <h2>
-                        <a href="/podcast/{{ episode.slug }}">{{ episode.title }}</a>
-                      </h2>
-                    </div>
-                    <ul class="entry-meta clearfix">
-                      {% if episode.author.name %}
-                      <li>
-                        <i class="icon-user"></i>
-                        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                          <span class="p-author h-card" itemprop="name">{{ episode.author.name }}</span>
-                        </span>
-                      </li>
-                      {% endif %}
-                    </ul>
-                    <div class="entry-content">
-                      <p>{{ episode.body | markdownify | strip_html | truncate:355 }}</p>
-                      <a href="/podcast/{{ episode.slug }}" class="more-link">Read More</a>
-                    </div>
-                  </div>
-                {% endif %}
+              {% assign episodeStartDate = episode.date | date: '%s' %}
+              {% if episodeStartDate <= curDate %}
+              <div class="entry clearfix">
+                <div class="entry-timeline">
+                  {{ episode.date | date_to_string | date: "%d" }}
+                  <span>{{ episode.date | date_to_string | date: "%b" }}</span>
+                  <div class="timeline-divider"></div>
+                </div>
+                <div class="entry-image">
+                  <a href="/podcast/{{ episode.slug }}">
+                    <img class="image_fade" src="{{ episode.featured_image.url }}"
+                      alt="{{ episode.featured_image.title }}">
+                  </a>
+                </div>
+                <div class="entry-title">
+                  <h2>
+                    <a href="/podcast/{{ episode.slug }}">{{ episode.title }}</a>
+                  </h2>
+                </div>
+                <ul class="entry-meta clearfix">
+                  {% if episode.author.name %}
+                  <li>
+                    <i class="icon-user"></i>
+                    <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                      <span class="p-author h-card" itemprop="name">{{ episode.author.name }}</span>
+                    </span>
+                  </li>
+                  {% endif %}
+                </ul>
+                <div class="entry-content">
+                  <p>{{ episode.body | markdownify | strip_html | truncate:355 }}</p>
+                  <a href="/podcast/{{ episode.slug }}" class="more-link">Read More</a>
+                </div>
+              </div>
+              {% endif %}
               {% endfor %}
-    
+
             </div>
             <!-- #posts end -->
-    
+
           </div>
           <!-- .postcontent end -->
-    
+
         </div>
-    
+
       </div>
-    
+
     </section>
     <!-- #content end -->
 
@@ -129,4 +130,5 @@
   <script src="/js/functions.js"></script>
 
 </body>
+
 </html>
